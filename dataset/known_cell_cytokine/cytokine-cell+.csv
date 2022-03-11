@@ -1,0 +1,2279 @@
+cytokine,cell
+IL2,T cell
+IFNG,macrophage
+CXCL8,neutrophil
+IL2,natural killer cell
+IL2,lymphocyte
+CSF3,neutrophil
+IFNG,T cell
+IL4,B cell
+IL5,eosinophil
+TNF,endothelial cell
+FGF2,endothelial cell
+TGFB1,fibroblast
+TNF,neutrophil
+IFNG,monocyte
+CSF1,macrophage
+IL12,T cell
+TNF,monocyte
+CSF3,stem cell
+CSF2,neutrophil
+TNF,macrophage
+TGFB,fibroblast
+IL10,T cell
+CCL2,monocyte
+IL2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL2,mature natural killer cell
+IL7,T cell
+CCL2,macrophage
+IL12,T-helper 1 cell
+CCL11,eosinophil
+TNF,hepatocyte
+CSF2,macrophage
+TNF,T cell
+IL2,B cell
+CD40LG,B cell
+IL4,T cell
+FGF2,neuron
+IL2,"CD4-positive, alpha-beta T cell"
+IL10,macrophage
+IL15,natural killer cell
+IFNG,"CD8-positive, alpha-beta T cell"
+IL2,"CD8-positive, alpha-beta T cell"
+IL1B,chondrocyte
+IL12,natural killer cell
+IL4,macrophage
+IL6,B cell
+IL15,T cell
+CSF1,osteoclast
+TNF,leukocyte
+CSF2,monocyte
+FGF2,fibroblast
+CSF3,hematopoietic stem cell
+IL4,T-helper 2 cell
+IL10,monocyte
+TNF,fibroblast
+IL1,T cell
+CSF3,granulocyte
+CSF2,T cell
+HGF,epithelial cell
+TGFB,T cell
+IL6,T cell
+IFNG,keratinocyte
+CSF3,peripheral blood stem cell
+IL3,basophil
+CD40LG,T cell
+THPO,platelet
+IFNG,"CD4-positive, alpha-beta T cell"
+TNF,fat cell
+IL15,"CD8-positive, alpha-beta T cell"
+PF4,platelet
+IFNA,T cell
+IL1,fibroblast
+IFNA,natural killer cell
+TNF,neuron
+IFNG,lymphocyte
+IL1B,fibroblast
+IL4,monocyte
+EPO,enucleate erythrocyte
+CSF2,dendritic cell
+IL17,neutrophil
+IFNG,natural killer cell
+EPO,erythroid progenitor cell
+TNFSF9,T cell
+IL6,macrophage
+TNF,osteoclast
+CSF3,leukocyte
+IL21,B cell
+IL6,neutrophil
+IL2,cytotoxic T cell
+TNFSF13B,B cell
+IL6,fibroblast
+TGFB1,epithelial cell
+TGFB1,macrophage
+IFNG,neutrophil
+TGFB1,endothelial cell
+IL1B,macrophage
+IFNG,peritoneal macrophage
+CSF2,eosinophil
+IL2,thymocyte
+IL6,osteoclast
+CSF1,monocyte
+TGFB1,keratinocyte
+IL6,platelet
+IL6,hepatocyte
+EPO,reticulocyte
+IFNG,endothelial cell
+IL18,T cell
+TNF,epithelial cell
+IFNG,B cell
+IL4,"CD4-positive, alpha-beta T cell"
+IFNG,T-helper 1 cell
+FGF2,osteoblast
+PDGF,fibroblast
+KITLG,mast cell
+IL21,"CD8-positive, alpha-beta T cell"
+IL1B,monocyte
+IFNG,eosinophil
+THPO,megakaryocyte
+TGFB,osteoblast
+TGFB,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CSF2,leukocyte
+IL10,B cell
+CXCL2,neutrophil
+IL1,endothelial cell
+TNF,B cell
+IL12,"CD8-positive, alpha-beta T cell"
+TGFB,hepatocyte
+IL6,monocyte
+TGFB,macrophage
+TNF,eosinophil
+IL1,chondrocyte
+IL1B,neutrophil
+IFNA,monocyte
+EPO,erythrocyte
+IFNG,hepatocyte
+IL1,thymocyte
+CXCL12,stem cell
+IL7,B cell
+IFNG,microglial cell
+CX3CL1,leukocyte
+IL5,B cell
+IFNG,epithelial cell
+CSF3,myeloid cell
+CXCL1,neutrophil
+TGFB1,glomerular visceral epithelial cell
+IL10,"CD4-positive, alpha-beta T cell"
+CSF2,myeloid cell
+IL3,mast cell
+CXCL8,leukocyte
+TGFB1,osteoblast
+IL10,neutrophil
+IL33,eosinophil
+TNF,synovial cell
+IL1B,synovial cell
+CCL4,hepatocyte
+TGFB,osteoclast
+IL18,natural killer cell
+IL13,goblet cell
+TGFB1,T cell
+TGFB,chondrocyte
+PPBP,platelet
+IL1B,neuron
+CSF2,granulocyte
+TNF,lymphocyte
+IL12,"CD4-positive, alpha-beta T cell"
+IL1,neutrophil
+IL4,lymphocyte
+IL10,T-helper 1 cell
+TGFB,"CD8-positive, alpha-beta T cell"
+IFNG,fibroblast
+IL1,monocyte
+IFNB1,macrophage
+IFNG,leukocyte
+IL7,lymphocyte
+EPO,platelet
+TNF,keratinocyte
+CXCL12,T cell
+IL4,eosinophil
+IL10,"CD8-positive, alpha-beta T cell"
+IL1B,astrocyte
+IL1,macrophage
+FGF2,mesenchymal cell
+TNF,natural killer cell
+TNF,microglial cell
+TNF,osteoblast
+IL4,mast cell
+IL1B,type B pancreatic cell
+IFNB1,T cell
+CCL2,leukocyte
+TGFB,epithelial cell
+IFNA,B cell
+IL33,T-helper 2 cell
+IL6,leukocyte
+EGF,fibroblast
+CSF3,T cell
+TGFB,monocyte
+IL4,"CD8-positive, alpha-beta T cell"
+CXCL8,endothelial cell
+TNFSF9,"CD8-positive, alpha-beta T cell"
+FGF2,myoblast
+IL6,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+TNF,astrocyte
+IFNA,macrophage
+IL6,endothelial cell
+IL6,neuron
+CXCL13,B cell
+IL7,"CD8-positive, alpha-beta T cell"
+HGF,endothelial cell
+IL33,mast cell
+IL1,lymphocyte
+IL7,"CD4-positive, alpha-beta T cell"
+IL10,T-helper 2 cell
+IL6,plasma cell
+TGFB,keratinocyte
+FGF2,melanocyte
+IL21,natural killer cell
+CCL2,T cell
+TNF,endothelial cell of vascular tree
+IL2,leukocyte
+IL3,stem cell
+IL1,osteoclast
+CD40LG,platelet
+CSF2,platelet
+IL1A,fibroblast
+IL18,neutrophil
+IL21,T cell
+PDGF,platelet
+CXCL12,endothelial cell
+IFN1,macrophage
+IL6,megakaryocyte
+CSF2,granulocyte monocyte progenitor cell
+CSF2,alveolar macrophage
+IFNG,neuron
+IL6,lymphocyte
+CXCL8,eosinophil
+TGFB,mesenchymal cell
+IFNG,astrocyte
+IL1,leukocyte
+TGFB1,"CD4-positive, alpha-beta T cell"
+TGFB1,monocyte
+IL17A,neutrophil
+CXCL12,lymphocyte
+IL12,lymphocyte
+IL15,lymphocyte
+TGFB1,chondrocyte
+CXCL10,T cell
+TNF,dendritic cell
+IL22,keratinocyte
+FGF2,smooth muscle cell
+FGF2,chondrocyte
+FGF2,stem cell
+TGFB1,mesenchymal cell
+IL6,epithelial cell
+IL6,"CD4-positive, alpha-beta T cell"
+IFNB1,monocyte
+IL10,leukocyte
+IFNG,mononuclear phagocyte
+TNFSF11,osteoclast
+TGFB1,mesangial cell
+IL10,Tr1 cell
+IL3,megakaryocyte
+CCL2,fibroblast
+TGFB,natural killer cell
+IL10,natural killer cell
+TGFA,hepatocyte
+IL7,precursor B cell
+CCL26,eosinophil
+TNF,intestinal epithelial cell
+RETN,monocyte
+IL12,macrophage
+IL4,alternatively activated macrophage
+IFNB1,B cell
+IL4,T-helper 1 cell
+EPO,endothelial cell
+IL6,T-helper 17 cell
+IL1,astrocyte
+IFNA,plasmacytoid dendritic cell
+IL2,gamma-delta T cell
+TNF,oligodendrocyte
+CD40LG,dendritic cell
+IL2,eosinophil
+CSF3,monocyte
+IL3,T cell
+CX3CL1,natural killer cell
+CXCL5,neutrophil
+RETN,fat cell
+IL13,monocyte
+TNF,platelet
+IL1B,leukocyte
+IL1B,osteoblast
+CCL3,osteoclast
+IL13,macrophage
+TGFB,endothelial cell
+IL6,mast cell
+IL18,T-helper 1 cell
+CXCL8,monocyte
+EGF,epithelial cell
+FGF1,neuron
+TGFB1,stromal cell
+TNF,cardiac muscle cell
+TNF,"CD4-positive, alpha-beta T cell"
+IL1A,osteoclast
+PDGF,smooth muscle cell
+TGFB1,astrocyte
+IL33,macrophage
+CCL21,T cell
+IL33,"CD8-positive, alpha-beta T cell"
+CSF3,granulocyte monocyte progenitor cell
+TGFB,keratocyte
+IL7,thymocyte
+TNF,chondrocyte
+CSF1,mononuclear phagocyte
+TGFB,smooth muscle cell
+TGFB1,osteoclast
+IL1B,eosinophil
+IL6,cardiac muscle cell
+IL27,T-helper 1 cell
+IFNG,inflammatory macrophage
+CXCL12,neuron
+IL12,mature NK T cell
+IL1B,endothelial cell
+IL2,neutrophil
+TNF,vein endothelial cell
+IL3,bone marrow cell
+IL12,B cell
+TNF,peritoneal macrophage
+TNF,embryonic stem cell
+TNF,stromal cell
+CSF2,bone marrow cell
+CSF2,"CD8-positive, alpha-beta T cell"
+TGFB,mammary epithelial cell
+TGFB1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IFN1,T cell
+TNFSF4,T cell
+IFNG,cytotoxic T cell
+IL1A,keratinocyte
+IFNG,dendritic cell
+TGFB1,cardiac fibroblast
+TGFB1,mast cell
+IL4,fibroblast
+TNF,mast cell
+TGFB,"CD4-positive, alpha-beta T cell"
+IL13,B cell
+IL17,macrophage
+IL17,B cell
+TGFB1,microglial cell
+IL3,granulocyte monocyte progenitor cell
+CSF1,microglial cell
+IL16,"CD4-positive, alpha-beta T cell"
+CSF2,peritoneal macrophage
+TNF,granulocyte
+TGFB,glomerular visceral epithelial cell
+IL2,regulatory T cell
+IL25,eosinophil
+IL3,neutrophil
+IL6,osteoblast
+CCL2,neutrophil
+CSF3,platelet
+IL17,T-helper 17 cell
+TNF,aortic endothelial cell
+TGFB1,B cell
+TNF,thymocyte
+EPO,adult endothelial progenitor cell
+IL15,neutrophil
+IL13,respiratory epithelial cell
+IL4,microglial cell
+IFNG,cardiac muscle cell
+CSF3,lymphocyte
+EPO,erythroblast
+TGFB,mesangial cell
+TNF,preadipocyte
+FGF2,aortic endothelial cell
+TGFB,synovial cell
+CD40LG,"CD4-positive, alpha-beta T cell"
+HGF,fibroblast
+EPO,neuron
+IL15,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL15,"CD4-positive, alpha-beta T cell"
+IL23,"CD4-positive, alpha-beta T cell"
+TGFB1,odontoblast
+IFNB1,natural killer cell
+IL1B,stromal cell
+IL25,T-helper 2 cell
+TGFB,lymphocyte
+FGF2,stromal cell
+CD40LG,leukocyte
+IL17,endothelial cell
+CXCL10,natural killer cell
+IL1,B cell
+TNF,vascular associated smooth muscle cell
+IFNA,"CD8-positive, alpha-beta T cell"
+IL2,T-helper 1 cell
+IL17A,macrophage
+TNF,glial cell
+TGFB,hematopoietic stem cell
+CSF1,peritoneal macrophage
+IFNG,hematopoietic stem cell
+FGF2,oligodendrocyte
+IL27,"CD8-positive, alpha-beta T cell"
+TNF,alveolar macrophage
+IL12B,T-helper 1 cell
+TGFB1,mesothelial cell
+CSF3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+TNF,mature neutrophil
+IL15,B cell
+IL2,monocyte
+IL10,lymphocyte
+IFNG,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL2,endothelial cell
+IFNA,leukocyte
+TNF,respiratory epithelial cell
+IL10,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL5,T cell
+IL1A,endothelial cell
+CSF3,endothelial cell
+IL1B,microglial cell
+TGFB1,hematopoietic stem cell
+IL1B,epithelial cell
+TGF,fibroblast
+CSF3,neuron
+GDF15,cardiac muscle cell
+IL17,keratinocyte
+SPP1,macrophage
+TGFB,myoblast
+IFNG,T-helper 2 cell
+TGFB1,natural killer cell
+FGF2,keratinocyte
+IL1B,osteoclast
+EPO,megakaryocyte
+FGF2,osteoclast
+IL3,erythroid progenitor cell
+TGFB,eosinophil
+TGFB,induced T-regulatory cell
+IL1,keratinocyte
+IL18,monocyte
+IFNA,neutrophil
+IL18,"CD4-positive, alpha-beta T cell"
+IL6,astrocyte
+IL17,fibroblast
+IL6,thymocyte
+IL4,dendritic cell
+IL33,T cell
+IL3,hematopoietic stem cell
+IL1A,neutrophil
+FGF2,endothelial cell of vascular tree
+IL1,stromal cell
+LIF,neuron
+IL10,regulatory T cell
+CXCL12,leukocyte
+IFNG,osteoclast
+IL17,T cell
+IL3,leukocyte
+IL13,eosinophil
+IL1A,T cell
+TNF,muscle cell
+IL22,T-helper 22 cell
+IFNG,granulocyte monocyte progenitor cell
+TNFSF9,monocyte
+CXCL8,epithelial cell
+CSF1,fibroblast
+IL1,osteoblast
+CCL11,basophil
+TNF,type B pancreatic cell
+IL17,osteoblast
+CXCL8,mature neutrophil
+IL7,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+RETN,endothelial cell
+IL2,bone marrow cell
+TGFA,epithelial cell
+IL6,chondrocyte
+GDF15,neuron
+TGFB1,"CD8-positive, alpha-beta T cell"
+IL6,granulocyte monocyte progenitor cell
+CD40LG,"CD8-positive, alpha-beta T cell"
+IL6,myeloid cell
+TNF,"CD8-positive, alpha-beta T cell"
+IL23,T-helper 17 cell
+TGFB1,neuron
+CCL9,osteoclast
+EGF,hepatocyte
+CCL27,T cell
+IL1B,T cell
+CCL4,macrophage
+IL12,monocyte
+IL4,leukocyte
+TGFB,stem cell
+CXCL12,platelet
+CXCL8,macrophage
+IFNG,alveolar macrophage
+TGFB1,hepatic stellate cell
+CXCL8,bronchial epithelial cell
+TGFB,T-helper 17 cell
+CSF3,adult endothelial progenitor cell
+IL3,osteoclast
+MIF,leukocyte
+IL1B,mesangial cell
+IL17,synovial cell
+FGF2,glial cell
+FGF2,vascular associated smooth muscle cell
+IFNG,mature natural killer cell
+TGF,mesenchymal cell
+IL33,neutrophil
+TGFB1,stem cell
+CSF2,B cell
+IFNA,T-helper 1 cell
+TGFB,leukocyte
+FGF1,endothelial cell
+TGFB,microglial cell
+IL12,naive T cell
+IFNA,hepatocyte
+TGFA,keratinocyte
+TGFB1,vascular associated smooth muscle cell
+PF4,endothelial cell
+TNF,mesenchymal cell
+IL11,stem cell
+MIF,macrophage
+IL6,peritoneal macrophage
+TGFB,stromal cell
+IFNA,platelet
+IL4,myeloid cell
+IL1,synovial cell
+IL18,T-helper 2 cell
+CXCL2,leukocyte
+CX3CL1,microglial cell
+IL12,leukocyte
+IL1B,fat cell
+CSF3,common myeloid progenitor
+IL13,fibroblast
+IL21,lymphocyte
+TNF,myeloid cell
+CX3CL1,platelet
+IL1A,hepatocyte
+IL10,cytotoxic T cell
+TNFSF9,"CD4-positive, alpha-beta T cell"
+IFNG,mesenchymal cell
+IFNG,erythrocyte
+CXCL10,leukocyte
+IFNG,megakaryocyte
+IL6,natural killer cell
+TGFB1,endothelial cell of vascular tree
+CXCL12,adult endothelial progenitor cell
+CSF3,myeloblast
+IL33,endothelial cell
+CSF1,bone marrow cell
+IFNG,platelet
+LTA,T cell
+IL22,epithelial cell
+CSF2,lymphocyte
+CXCL8,stromal cell
+TNF,glomerular visceral epithelial cell
+SPP1,leukocyte
+TGFB1,myoblast
+IL17,leukocyte
+CCL3,macrophage
+TNF,mononuclear phagocyte
+TNF,Kupffer cell
+TNF,stem cell
+IL23,osteoclast
+IL1B,T-helper 17 cell
+CD40LG,macrophage
+CSF2,stem cell
+FGF2,synovial cell
+CCL9,hepatocyte
+CSF2,microglial cell
+TNF,myelinating Schwann cell
+IL6,myoblast
+IFNB1,lymphocyte
+IL4,hepatocyte
+CXCL12,type B pancreatic cell
+CCL3,leukocyte
+FGF2,neuronal stem cell
+CD40LG,lymphocyte
+IFNB1,"CD4-positive, alpha-beta T cell"
+IL21,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+TGFB1,prostate stromal cell
+TGFB,myeloid cell
+IFNB1,neutrophil
+IL17A,keratinocyte
+CSF2,plasmacytoid dendritic cell
+CXCL8,keratinocyte
+TGFB1,megakaryocyte
+TNFSF4,"CD4-positive, alpha-beta T cell"
+IL4,neutrophil
+IL1B,platelet
+TNF,mesangial cell
+IFNG,myeloid dendritic cell
+IL6,sperm
+IL10,dendritic cell
+CXCL8,granulocyte
+IL6,cholangiocyte
+CXCL8,hematopoietic stem cell
+IL21,"CD4-positive, alpha-beta T cell"
+IL5,"CD4-positive, alpha-beta T cell"
+CCL2,T-helper 2 cell
+IL4,natural killer cell
+IL1B,alveolar macrophage
+IFN1,natural killer cell
+CSF3,cardiac muscle cell
+IL3,macrophage
+IL1,mesangial cell
+TNF,smooth muscle cell
+IL1B,articular chondrocyte
+FGF2,hippocampal neuron
+CSF1,neuron
+IL15,T-helper 1 cell
+TNFSF15,T cell
+CCL22,T cell
+IL27,T cell
+CSF2,keratinocyte
+CXCL10,eosinophil
+IL1B,smooth muscle cell
+TGFB1,mammary epithelial cell
+IL1,type B pancreatic cell
+IFN1,T-helper 1 cell
+IL33,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL2,macrophage
+IL4,cytotoxic T cell
+TGFB2,endothelial cell
+IFNB1,T-helper 1 cell
+FGF2,preadipocyte
+TNF,cytotoxic T cell
+IL31,sensory neuron
+CXCL12,hematopoietic stem cell
+LIF,macrophage
+CCL24,eosinophil
+IFNG,myoblast
+IL33,natural killer cell
+TGFB,skin fibroblast
+CXCL12,B cell
+IL27,macrophage
+IFNB1,fibroblast
+IL18,eosinophil
+TGFB1,hepatocyte
+IL13,bronchial epithelial cell
+IL1B,B cell
+TNF,myotube
+CXCL8,T cell
+TNF,mature microglial cell
+IL7,naive T cell
+IL1A,macrophage
+IL17A,fat cell
+IL4,naive B cell
+CCL2,osteoclast
+HGF,intestinal epithelial cell
+IL17,neuron
+TGFB1,cardiac muscle cell
+CCL2,B cell
+TGFB1,bronchial epithelial cell
+IL11,platelet
+PDGF,mesangial cell
+IL4,synovial cell
+TGFB1,muscle cell
+CCL9,"CD4-positive, alpha-beta T cell"
+IL3,eosinophil
+CXCL1,monocyte
+PDGFB,pericyte cell
+IFNG,enterocyte
+IL1A,platelet
+HGF,stem cell
+IL17A,cardiac muscle cell
+CCL4,hematopoietic stem cell
+FGF2,neuroblast (sensu Nematoda and Protostomia)
+TGFB,platelet
+CCL3,T cell
+IL12B,T cell
+IL21,plasma cell
+IL9,mast cell
+GDF15,muscle cell
+TGFB3,chondrocyte
+IFNA,stromal cell
+IL4,inflammatory macrophage
+CXCL12,thymocyte
+CCL3,neutrophil
+CSF3,osteoclast
+TGFB,regulatory T cell
+IL1A,chondrocyte
+IFNG,endothelial cell of vascular tree
+IFNB1,leukocyte
+IL2,helper T cell
+TNFSF9,natural killer cell
+CCL17,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL26,neuron
+FGF2,corneal endothelial cell
+CCL22,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL6,T-helper 2 cell
+IL11,megakaryocyte
+TGFB,mesothelial cell
+EGF,chondrocyte
+IL23,T cell
+TGFB,cardiac muscle cell
+FGF1,astrocyte
+TGFB,neuron
+IFN1,B cell
+CCL5,leukocyte
+IL4,thymocyte
+TGFB1,articular chondrocyte
+CSF2,blood cell
+IL15,mature natural killer cell
+TGFB1,pneumocyte
+IL13,epithelial cell
+CX3CL1,monocyte
+CXCL12,neuroblast (sensu Nematoda and Protostomia)
+IFN1,dendritic cell
+IL6,keratinocyte
+PDGF,vascular associated smooth muscle cell
+IL12,helper T cell
+CXCL12,monocyte
+IL6,dendritic cell
+EGF,epidermal cell
+CCL2,microglial cell
+TGFB,B cell
+TGFB,thymocyte
+CCL4,T cell
+HGF,endothelial cell of vascular tree
+KITLG,hematopoietic stem cell
+CXCL6,neutrophil
+IL1,bone marrow cell
+SPP1,osteoclast
+CCL2,lymphocyte
+KITLG,melanocyte
+GDF15,myelinating Schwann cell
+TGFB,astrocyte
+IL18,"CD8-positive, alpha-beta T cell"
+IL4,peritoneal macrophage
+IL7,"CD8-positive, alpha-beta memory T cell"
+CSF1,stem cell
+IL12,T-helper 2 cell
+CSF2,pneumocyte
+CSF2,T-helper 1 cell
+CCL20,T-helper 17 cell
+IFNG,Kupffer cell
+CXCL8,mast cell
+IL4,bronchial epithelial cell
+TNF,bronchial epithelial cell
+IL1,eosinophil
+FGF2,cardiac muscle cell
+IL34,macrophage
+IFNG,intestinal epithelial cell
+IFNG,mast cell
+TGFB,T-helper 2 cell
+CSF3,macrophage
+TNF,Langerhans cell
+IL11,osteoclast
+FGF2,astrocyte
+IL3,common myeloid progenitor
+IL13,"CD8-positive, alpha-beta T cell"
+IL3,lymphocyte
+KITLG,stem cell
+CX3CL1,lymphocyte
+IL1B,oligodendrocyte
+IFNB1,astrocyte
+TGFB1,keratocyte
+TGFB2,fibroblast
+XCL1,T cell
+IFNA,dendritic cell
+IL10,microglial cell
+TGFB1,pericyte cell
+IL2,platelet
+EPO,myoblast
+IL13,"CD4-positive, alpha-beta T cell"
+IL1B,hepatocyte
+IL12,cytotoxic T cell
+IL33,goblet cell
+CXCL8,osteoclast
+IFNA,megakaryocyte
+CCL2,"CD8-positive, alpha-beta T cell"
+EGF,smooth muscle cell
+IL1,granulocyte
+FGF2,macrophage
+CCL2,classical monocyte
+CXCL12,chondrocyte
+IL21,T-helper 1 cell
+IL4,erythroid progenitor cell
+IL7,chondrocyte
+IL1A,stromal cell
+TNF,goblet cell
+IL5,B-1 B cell
+IL7,fibroblast
+IL13,keratocyte
+IL6,mesangial cell
+RETN,preadipocyte
+IFNL3,natural killer cell
+IL10,adult endothelial progenitor cell
+LIF,neuronal stem cell
+TGFB1,neutrophil
+CCL11,monocyte
+IL1B,hematopoietic stem cell
+IFNA,memory T cell
+CXCL8,fat cell
+PF4,megakaryocyte
+TGFB2,neuron
+CXCL10,"CD8-positive, alpha-beta T cell"
+IL4,epithelial cell
+TNF,retinal ganglion cell
+IFNG,goblet cell
+CCL8,leukocyte
+IL4,stromal cell
+IL17A,intestinal epithelial cell
+IL33,lymphocyte
+IL1B,osteocyte
+SPP1,T-helper 1 cell
+IL1B,cardiac fibroblast
+IL6,"CD8-positive, alpha-beta T cell"
+TGFB,lens epithelial cell
+TNF,myoblast
+IL13,lymphocyte
+TGFB,aortic endothelial cell
+TGFA,astrocyte
+IL7,double negative thymocyte
+CSF2,osteoclast
+IL6,stromal cell
+IL15,"CD8-positive, alpha-beta memory T cell"
+TGFB,pancreatic acinar cell
+IL12,microglial cell
+EPO,glomerular visceral epithelial cell
+IL13,T cell
+IL4,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL3,megakaryocyte progenitor cell
+CSF2,adult endothelial progenitor cell
+XCL1,"CD4-positive, alpha-beta T cell"
+IFNG,thymocyte
+IL2,oocyte
+CSF3,bladder cell
+IFNG,bronchial epithelial cell
+CCL7,neutrophil
+IL11,erythroid progenitor cell
+IL33,glial cell
+IL1,hepatocyte
+IL1A,endothelial cell of vascular tree
+PF4,professional antigen presenting cell
+TGFB1,epithelial cell of lung
+TGFB1,skin fibroblast
+IL15,gamma-delta T cell
+RETN,hematopoietic stem cell
+IFN1,lymphocyte
+CX3CL1,mesangial cell
+CSF2,basophil
+IL1B,glomerular visceral epithelial cell
+EPO,neutrophil
+THPO,megakaryocyte-erythroid progenitor cell
+IL11,stromal cell
+CXCL8,endothelial cell of lymphatic vessel
+FGF2,articular chondrocyte
+CXCL12,fibrocyte
+TNF,cementoblast
+IL17A,monocyte
+IL4,naive T cell
+IL2,endothelial cell
+IL15,mast cell
+CCL4,stellate cell
+EGF,mammary epithelial cell
+EPO,cardiac muscle cell
+IL2,naive B cell
+EGF,neuronal stem cell
+IFNB1,endothelial cell
+CXCL12,glial cell
+CSF3,hepatocyte
+CXCL8,chondrocyte
+TGFB,embryonic stem cell
+IFN1,"CD4-positive, alpha-beta T cell"
+IL1,epithelial cell
+IFNG,respiratory epithelial cell
+FGF2,acinar cell
+IL23,neutrophil
+IL17A,T cell
+IFN1,neuron
+IFNG,memory T cell
+CXCL12,neutrophil
+CSF2,cytotoxic T cell
+CSF3,bone marrow cell
+CCL4,hepatic stellate cell
+IL4,fat cell
+IL17,T-helper 1 cell
+OSM,hepatocyte
+TGFB1,mesothelial cell of peritoneum
+PDGF,adult endothelial progenitor cell
+IFNA,naive T cell
+IL1,peritoneal macrophage
+IL4,regulatory T cell
+TNF,smooth muscle myoblast
+IL17A,fibroblast
+IL32,eosinophil
+IL22,hematopoietic stem cell
+IL1A,vascular associated smooth muscle cell
+IL27,B cell
+TNFSF15,"CD4-positive, alpha-beta T cell"
+IFNA,granulocyte monocyte progenitor cell
+CXCL12,precursor B cell
+IFN1,myeloid dendritic cell
+IL18,cardiac muscle cell
+IFNB1,dendritic cell
+IL1B,foreskin fibroblast
+TGFB,vascular associated smooth muscle cell
+IFNG,stromal cell
+IL18,mature NK T cell
+CCL5,microglial cell
+IL15,naive T cell
+CXCL1,osteoclast
+TGFB1,regulatory T cell
+CCL3,monocyte
+IL6,T follicular helper cell
+IL27,natural killer cell
+CSF2,endothelial cell
+TGFB,epithelial cell of lung
+IFNA,granulocyte
+CSF2,synovial cell
+IL13,glomerular visceral epithelial cell
+IL3,megakaryocyte-erythroid progenitor cell
+CXCL12,interneuron
+TGFB1,fat cell
+IL12,stem cell
+IL12,"CD8-positive, alpha-beta cytotoxic T cell"
+IL17,monocyte
+IL13,alternatively activated macrophage
+CCL3,eosinophil
+KITLG,erythroid progenitor cell
+IL18,osteoblast
+TNF,epithelial cell of lung
+IL1A,epithelial cell
+IL33,myeloid cell
+IL16,T cell
+IL4,helper T cell
+KITLG,melanoblast
+PPBP,neutrophil
+TGFB1,smooth muscle cell
+IL1RN,leukocyte
+TGFB2,osteoclast
+IL18,articular chondrocyte
+IFNA,"CD4-positive, alpha-beta T cell"
+IFNG,effector T cell
+TGFB,glomerular mesangial cell
+TGFA,neuron
+CCL5,"CD8-positive, alpha-beta T cell"
+IL33,microglial cell
+IL1B,T-helper 2 cell
+TNF,common lymphoid progenitor
+IL10,fibroblast
+TNF,granulocyte monocyte progenitor cell
+CXCL10,neutrophil
+FGF1,fibroblast
+IL33,basophil
+IFNG,type B pancreatic cell
+TNF,neural cell
+IFNA,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+TGFB1,endothelial cell of lymphatic vessel
+IL4,keratinocyte
+FGF2,leukocyte
+CXCL12,macrophage
+IFNA,cytotoxic T cell
+TNF,trichogen cell
+CCL3,stem cell
+CD40LG,regulatory B cell
+IL12,T-helper 17 cell
+IL15,eosinophil
+IL17A,T-helper 1 cell
+IL1B,"CD4-positive, alpha-beta T cell"
+TNFSF4,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL18,keratinocyte
+TGFB,connective tissue cell
+IL10,peritoneal macrophage
+IL6,T-helper 1 cell
+IL4,immature B cell
+IL1,T-helper 2 cell
+SPP1,osteoblast
+IL17A,leukocyte
+IL3,precursor B cell
+IL1B,cardiac muscle cell
+CXCL12,megakaryocyte
+IL21,T follicular helper cell
+CSF3,motor neuron
+CCL2,pain receptor cell
+LTA,"CD8-positive, alpha-beta T cell"
+IL1B,preadipocyte
+GDF15,endothelial cell
+IL3,platelet
+IL17A,eosinophil
+CCL2,fibrocyte
+CCL18,T cell
+IL33,cardiac muscle cell
+IL2,keratinocyte
+CCL20,lymphocyte
+IL2,naive T cell
+FGF2,epithelial cell
+IL17,mesenchymal cell
+TGFB1,granulosa cell
+IL1B,mesenchymal cell
+CD40LG,monocyte
+TGFB1,motor neuron
+IL6,bone cell
+FGF2,platelet
+IFNG,granulocyte
+PF4,fibroblast
+PF4,neutrophil
+CSF1,Kupffer cell
+IL1,neuron
+IL1A,stem cell
+IL2,"CD8-positive, alpha-beta cytotoxic T cell"
+CCL4,lymphocyte
+IL17,bronchial epithelial cell
+IL3,endothelial cell
+IL7,natural killer cell
+IL9,T cell
+CSF3,dopaminergic neuron
+CCL2,epithelial cell
+IL2,fetal thymocyte
+TGFB,bladder cell
+CCL2,natural killer cell
+PF4,leukocyte
+CSF3,eosinophil
+CCL2,glomerular visceral epithelial cell
+PPBP,myoblast
+TGFA,chondrocyte
+IFNG,keratocyte
+IL6,plasmablast
+CXCL8,stem cell
+IFNB1,glial cell
+IL1B,natural killer cell
+IL7,stem cell
+FGF2,microglial cell
+TGF,lymphocyte
+IL33,dendritic cell
+IL17A,platelet
+TNF,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+LIF,astrocyte
+PPBP,connective tissue cell
+IL10,endothelial cell
+IL15,intestinal epithelial cell
+IL33,leukocyte
+LIF,stem cell
+CXCL10,lymphocyte
+IL6,oligodendrocyte
+LECT1,endothelial cell
+FGF2,muscle cell
+EPO,bone marrow cell
+TGFB3,fibroblast
+TNF,adult endothelial progenitor cell
+TGFB1,platelet
+TNF,skeletal muscle cell
+IL1,alveolar macrophage
+CCL15,leukocyte
+PF4,mast cell
+IFNG,muscle cell
+TGFB,"CD4-positive, alpha-beta intraepithelial T cell"
+CCL3,mesenchymal cell
+PDGF,aortic smooth muscle cell
+TGFB1,fibroblast of outer membrane of prostatic capsule
+IL10,alternatively activated macrophage
+CXCL10,"CD4-positive, alpha-beta T cell"
+IL10,mast cell
+CCL2,stromal cell
+FGF2,vein endothelial cell
+FGF2,fat cell
+PDGFB,fibroblast
+TGFB1,trophoblast cell
+MIF,neutrophil
+IL1RN,T-helper 17 cell
+CSF2,mast cell
+IL11,B cell
+IL4,goblet cell
+PDGF,macrophage
+IL17,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+PDGFB,stromal cell
+IL1B,mast cell
+IL1B,megakaryocyte
+PDGF,neuron
+IL17,dendritic cell
+CCL2,epithelial cell of prostate
+CXCL8,fibroblast
+TGFB2,keratinocyte
+IL27,hepatocyte
+IL4,bone marrow cell
+IL17A,natural killer cell
+IL10,neuron
+IL27,"CD4-positive, alpha-beta T cell"
+TGFB1,cortical cell of adrenal gland
+IL9,leukocyte
+CCL2,fat cell
+CCL2,inflammatory macrophage
+FGF2,hemangioblast
+HGF,type B pancreatic cell
+CCL3,"CD4-positive, alpha-beta T cell"
+TGFB,neutrophil
+CXCL10,hepatocyte
+CSF2,professional antigen presenting cell
+IL6,stem cell
+IL2,hippocampal neuron
+IL36G,keratinocyte
+IL12,mature natural killer cell
+CXCL8,myeloid cell
+IL6,B-1 B cell
+IL23,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IFNG,oligodendrocyte
+IL4,endothelial cell
+TGFB,pneumocyte
+IFNB1,inflammatory macrophage
+IL12,eosinophil
+EPO,stem cell
+IL1,natural killer cell
+RETN,platelet
+IFNG,chondrocyte
+CSF1,granulocyte
+IL15,memory T cell
+CSF2,natural killer cell
+FGF2,capillary endothelial cell
+CXCL12,keratinocyte
+IL15,epithelial cell
+IL6,fat cell
+IL5,basophil
+TNF,dopaminergic neuron
+CSF2,megakaryocyte
+FGF2,hepatocyte
+CXCL8,epithelial cell of lung
+IL7,T-helper 1 cell
+CSF3,mature neutrophil
+IL34,monocyte
+IL10,myeloid cell
+IL6,cardiac fibroblast
+LIF,oligodendrocyte
+IL3,B cell
+IL1B,embryonic stem cell
+IFNG,stem cell
+CX3CL1,"CD4-positive, alpha-beta T cell"
+IL2,induced T-regulatory cell
+IL1B,myeloid cell
+TGFB,oligodendrocyte
+TGFB,trophoblast cell
+IL4,germinal center B cell
+IL2,granulocyte monocyte progenitor cell
+IL1A,leukocyte
+CCL19,T cell
+TGFB,melanocyte
+IL15,"effector memory CD8-positive, alpha-beta T cell"
+GDF15,epithelial cell
+TNF,granulosa cell
+CCL5,monocyte
+IL3,blood cell
+CD40LG,T-helper 1 cell
+IL18,cytotoxic T cell
+CXCL12,neural cell
+CCL17,"CD4-positive, alpha-beta T cell"
+IL4,granulocyte monocyte progenitor cell
+IL2,T-helper 17 cell
+CXCL12,mesenchymal cell
+IL1,articular chondrocyte
+CCL5,lymphocyte
+PF4,macrophage
+TNFSF4,B cell
+CD40LG,neuron
+CXCL9,pneumocyte
+IFNB1,respiratory epithelial cell
+IL21,mast cell
+KITLG,mesenchymal cell
+CXCL10,T-helper 1 cell
+IL6,multi fate stem cell
+CCL4,bone marrow cell
+SPP1,"CD4-positive, alpha-beta T cell"
+IL22,neutrophil
+TNFSF15,endothelial cell of vascular tree
+IL12,Tc17 cell
+IL3,microglial cell
+SPP1,monocyte
+IL1B,basophil
+CXCL9,B cell
+TGFB1,helper T cell
+CSF1,oocyte
+TNFSF8,mast cell
+PDGF,muscle cell
+CD40LG,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL20,epithelial cell
+TNFSF14,T cell
+IL22,T-helper 17 cell
+CX3CL1,dendritic cell
+CCL5,platelet
+IL23,eosinophil
+IL5,stem cell
+PDGF,fibrocyte
+IL12B,B cell
+IL10,hematopoietic stem cell
+IL3,"CD4-positive, alpha-beta T cell"
+RETN,macrophage
+IL1A,monocyte
+CSF1,myeloid cell
+IL4,"naive thymus-derived CD4-positive, alpha-beta T cell"
+CSF2,neuron
+CCL5,B cell
+CCL26,natural killer cell
+IFN1,cumulus cell
+IL12,effector T cell
+IL10,epithelial cell
+SPP1,mesenchymal cell
+IL1A,acinar cell
+IFNG,multinucleated giant cell
+IL27,dendritic cell
+PF4,T cell
+CCL2,hepatic stellate cell
+TGFB1,tendon cell
+CCL2,plasmacytoid dendritic cell
+IL32,fat cell
+TNFSF15,"CD8-positive, alpha-beta T cell"
+CCL20,macrophage
+GDF15,mature astrocyte
+HGF,melanocyte
+TGFB,mesothelial cell of peritoneum
+LECT1,B cell
+TGFB,bone marrow cell
+CCL6,"CD4-positive, alpha-beta T cell"
+IFNG,dopaminergic neuron
+CCL15,eosinophil
+IL7,smooth muscle myoblast
+IL23,stromal cell
+CXCL2,hepatocyte
+IL10,mononuclear phagocyte
+IL11,intestinal epithelial cell
+CSF3,myeloid lineage restricted progenitor cell
+FGF2,endodermal cell
+IL1,mast cell
+CCL25,T cell
+TNF,T-helper 2 cell
+CX3CL1,macrophage
+IL10,memory T cell
+CD40LG,B-1a B cell
+IL6,cap cell
+IFNA,T-helper 2 cell
+IL11,oligodendrocyte
+IL1B,effector T cell
+FGF2,lens epithelial cell
+RETN,leukocyte
+IL1RN,macrophage
+EGF,bone marrow cell
+IL1B,regular atrial cardiac myocyte
+KITLG,germ cell
+SPP1,T cell
+HGF,hepatic stellate cell
+IL4,basophil
+IL27,T-helper 2 cell
+IL17A,type B pancreatic cell
+IFNA,long term hematopoietic stem cell
+IL27,mesothelial cell of pleura
+RETN,adult endothelial progenitor cell
+OSM,astrocyte
+CSF2,bone marrow macrophage
+TGFB1,dopaminergic neuron
+CXCL12,epithelial cell
+FGF2,granulosa cell
+IL1RN,neuron
+CCL16,endothelial cell of vascular tree
+IL10,professional antigen presenting cell
+PF4,stem cell
+CCL3,astrocyte
+TNFSF13B,follicular B cell
+IFNG,immature B cell
+IL1B,vascular associated smooth muscle cell
+CCL4L2,T cell
+IFNA,induced T-regulatory cell
+PDGFB,vascular associated smooth muscle cell
+CXCL16,lymphocyte
+CXCL2,neuron
+IL17A,hepatocyte
+IFNA,eosinophil
+IL17A,epithelial cell
+IL21,macrophage
+TGFB2,mesenchymal cell
+CCL2,adipose macrophage
+FGF2,bone marrow cell
+KITLG,dendritic cell
+IL10,regulatory B cell
+PF4,hepatic stellate cell
+FGF2,kidney cell
+IFNL1,macrophage
+GDF15,oocyte
+IL10,embryonic stem cell
+IL16,eosinophil
+IL1B,precursor B cell
+IL2,type B pancreatic cell
+IL5,mature eosinophil
+CCL21,microglial cell
+IL17,"CD8-positive, alpha-beta T cell"
+IL18,glial cell
+CCL25,monocyte
+CSF2,Langerhans cell
+IL26,natural killer cell
+IL34,neuron
+CCL6,endothelial cell
+CSF1,endothelial cell
+IFN1,gamma-delta T cell
+TGFB2,T-helper 1 cell
+CXCL2,mature neutrophil
+IL17A,myeloid cell
+CXCL10,B cell
+CXCL14,natural killer cell
+HGF,keratinocyte
+PDGFA,oligodendrocyte
+IL6,trophoblast cell
+IL12,muscle cell
+GDF15,neuron of cerebral cortex
+IFN1,"CD8-positive, alpha-beta T cell"
+FGF2,erythrocyte
+CXCL14,T cell
+IL11,granulocyte monocyte progenitor cell
+TGFB1,kidney cell
+IFNL2,neutrophil
+CCL6,mast cell
+CCL5,mesenchymal cell
+TGFB,fat cell
+IL1,stem cell
+IFNG,"CD8-positive, alpha-beta cytotoxic T cell"
+PDGF,cementoblast
+IL19,mature microglial cell
+TGFA,melanocyte
+CCL7,microglial cell
+IL16,monocyte
+TGF,odontoblast
+IL18,early T lineage precursor
+IL6,spermatocyte
+LTA,stromal cell
+IL10,Langerhans cell
+IL33,hair follicle melanocyte
+TGFA,motor neuron
+IL15,myoblast
+IL4,bone cell
+TGFB,trabecular meshwork cell
+IL6,"CD14-positive, CD16-positive monocyte"
+IL1RN,neutrophil
+IL1B,pancreatic stellate cell
+PPBP,eosinophil
+TNFSF9,T-helper 1 cell
+IL1B,vein endothelial cell
+TNFSF9,macrophage
+LECT2,monocyte
+CXCL8,synovial cell
+IL1RN,hepatocyte
+IL17,cytotoxic T cell
+IL27,osteoclast
+TNFSF15,leukocyte
+EGF,mesothelial cell
+IL1B,muscle cell
+TGFB1,myotube
+IL2,natural T-regulatory cell
+FGF2,dental pulp cell
+CCL2,peritoneal macrophage
+IL1B,gingival epithelial cell
+IL18,lymphocyte
+CCL20,dendritic cell
+LIF,embryonic stem cell
+IL7,mature NK T cell
+TGFB1,plasmacytoid dendritic cell
+IL4,pro-B cell
+GDF15,Sertoli cell
+IL17,stem cell
+IFNA,hematopoietic stem cell
+IL17,type II pneumocyte
+TGFB1,melanocyte
+IL19,alternatively activated macrophage
+CCL3,effector T cell
+CCL5,eosinophil
+IL22,fibroblast
+LECT2,leukocyte
+CSF2,perivascular macrophage
+CXCL12,pneumocyte
+IL19,macrophage
+CCL18,fat cell
+IL10,glomerular endothelial cell
+IL6,mesenchymal cell
+CXCL12,multi fate stem cell
+CXCL1,astrocyte
+IL13,CD4-positive helper T cell
+IL9,"CD4-positive, alpha-beta T cell"
+IL6,epithelial cell of prostate
+IL7,gamma-delta T cell
+CCL26,T-helper 17 cell
+TGFB,white fat cell
+SPP1,glomerular visceral epithelial cell
+TGF,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL6,muscle cell
+FGF2,neural cell
+CCL2,"CD4-positive, alpha-beta T cell"
+IL10,classical monocyte
+RETN,neutrophil
+CCL15,osteoclast
+IL12,regulatory T cell
+IL21,T-helper 17 cell
+IL12,myeloid dendritic cell
+IL1B,lymphocyte
+IL12,neutrophil
+IFNG,endothelial cell of lymphatic vessel
+IL33,fibrocyte
+IL7,bladder cell
+IL1,hematopoietic stem cell
+IL9,T-helper 2 cell
+CXCL16,leukocyte
+IFNA,memory B cell
+CCL26,myeloid cell
+IL23,"CD8-positive, alpha-beta T cell"
+CCL21,B cell
+CCL19,natural killer cell
+GDF15,oligodendrocyte
+IL6,Langerhans cell
+IL34,endothelial cell
+PF4,stellate cell
+IL4,megakaryocyte
+PPBP,mesenchymal cell
+LIF,myoblast
+IL6,CD4-positive helper T cell
+IL25,dendritic cell
+CXCL16,endothelial cell
+IFNG,pericyte cell
+EPO,fibroblast
+CSF3,germ cell
+Monocyte-CSF,T cell
+IFNA,T-helper 17 cell
+IL17A,tendon cell
+TGF,mammary epithelial cell
+IL23,epithelial cell
+IL1,hematopoietic multipotent progenitor cell
+IL2,T-helper 2 cell
+IFNA,type B pancreatic cell
+HGF,adult endothelial progenitor cell
+CCL4,"CD4-positive, alpha-beta T cell"
+IL6,neuronal stem cell
+CXCL12,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL21,regulatory T cell
+CCL15,myeloid lineage restricted progenitor cell
+TGFB,articular chondrocyte
+IL6,granule cell
+THPO,cardiac muscle cell
+IL17,hematopoietic stem cell
+IL4,hippocampal neuron
+IFNG,vascular associated smooth muscle cell
+IL21,memory B cell
+FGF1,microglial cell
+IL1RN,monocyte
+CCL5,alveolar macrophage
+HGF,myeloid cell
+CCL2,cap cell
+CX3CL1,neuron
+IL13,hepatocyte
+IL25,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CXCL8,large luteal cell
+IL22,respiratory epithelial cell
+IL32,neutrophil
+IL7,osteoblast
+PDGF,pericyte cell
+HGF,enterocyte
+IL17,platelet
+TNF,Purkinje cell
+CX3CL1,T cell
+CD40LG,plasmacytoid dendritic cell
+IL33,epithelial cell
+PDGFB,synovial cell
+IL18,glutamatergic neuron
+IL11,cardiac muscle cell
+CCL20,hematopoietic stem cell
+IFNB1,neuron
+IL1A,"CD4-positive, alpha-beta T cell"
+XCL1,bone marrow cell
+TNFSF9,neuronal stem cell
+TNF,myeloid suppressor cell
+CSF3,osteoblast
+GDF15,osteocyte
+TGFB2,endothelial cell of lymphatic vessel
+IL7,short term hematopoietic stem cell
+CCL4,fibroblast
+TNF,fibrocyte
+HGF,leukocyte
+PPBP,T-helper 1 cell
+TGFB,T-helper 22 cell
+LIF,keratinocyte
+IL5,B-1a B cell
+CSF3,trophoblast cell
+IL2,effector T cell
+PDGFA,lens epithelial cell
+IL10,plasma cell
+CXCL16,"CD8-positive, alpha-beta T cell"
+TGFB,pericyte cell
+IL1B,enterocyte
+IL13,T-helper 17 cell
+IL25,inflammatory macrophage
+CSF1,thymocyte
+CCL2,kidney cell
+IFNG,embryonic stem cell
+PDGF,aortic endothelial cell
+CSF1,hematopoietic stem cell
+TNFSF9,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL1B,lung endothelial cell
+PDGFB,astrocyte
+TGF,regulatory T cell
+IL17A,glial cell
+IL2,T follicular helper cell
+IFN1,hepatocyte
+IL22,natural killer cell
+IL10,chondrocyte
+CCL4,endothelial cell
+TGFB1,osteocyte
+IL12,professional antigen presenting cell
+IFNA,epithelial cell of lung
+IL18,B cell
+TGFB,T-helper 1 cell
+CXCL8,lymphocyte
+CXCL1,mature neutrophil
+SPP1,cardiac fibroblast
+IL1A,helper T cell
+EGF,neuron
+TGFB,effector T cell
+CCL11,leukocyte
+IL23,macrophage
+CSF1,myotube
+IL5,neutrophil
+TGFB1,dendritic cell
+TNF,pericyte cell
+IL1,epidermal cell
+IL21,germinal center B cell
+TGFB,kidney cell
+IL33,cholangiocyte
+CCL5,mast cell
+IL17,eosinophil
+IL1B,goblet cell
+IL1RN,cardiac muscle cell
+IL1B,T-helper 1 cell
+TGFB1,type B pancreatic cell
+FGF2,cementoblast
+IL15,monocyte
+IL18,endothelial cell
+IL1B,glial cell
+TGFB,granulosa cell
+TGFB1,intestinal epithelial cell
+IL11,osteoblast
+IL6,pancreatic ductal cell
+IL17F,endothelial cell of vascular tree
+MIF,eosinophil
+IL6,professional antigen presenting cell
+IFNG,gamma-delta T cell
+CCL6,T cell
+TNFSF15,T-helper 9 cell
+FGF2,lymphocyte
+CCL3,basophil
+GDF15,natural killer cell
+CSF1,cardiac muscle cell
+IL23,helper T cell
+IL1,T-helper 1 cell
+IL15,cytotoxic T cell
+SPP1,"CD8-positive, alpha-beta T cell"
+PF4V1,endothelial cell
+TNFSF9,lymphocyte
+CCL2,mesothelial cell
+IL6,myotube
+TGFB2,neuron of cerebral cortex
+CCL20,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL9,neutrophil
+CXCL16,T cell
+TGFB2,T cell
+CCL2,Kupffer cell
+IL17A,lymphocyte
+CCL2,dendritic cell
+CXCL12,endothelial cell of lymphatic vessel
+CXCL8,articular chondrocyte
+TGFB1,cementoblast
+CCL25,lymphocyte
+IL6,mature microglial cell
+TGFB,myelinating Schwann cell
+CXCL13,"CD4-positive, alpha-beta T cell"
+IL1B,corneal epithelial cell
+CCL20,effector T cell
+TGFB,peritoneal macrophage
+TNFSF9,regulatory T cell
+IL21,fibroblast
+IL1A,mesenchymal cell
+IL18,hair follicle melanocyte
+CCL11,T-helper 2 cell
+TNF,splenic macrophage
+CSF2,helper T cell
+CSF2,T-helper 2 cell
+IL1B,myoblast
+CXCL1,endothelial cell
+IL22,paneth cell
+TGFB1,promonocyte
+IL4,Tc1 cell
+CCL20,mammary epithelial cell
+PF4,monocyte
+CXCL8,basophil
+CXCL6,B cell
+IL22,hepatocyte
+IL13,T-helper 2 cell
+IL1A,cytotoxic T cell
+CCL5,type B pancreatic cell
+CXCL8,embryonic stem cell
+CCL21,leukocyte
+IL32,macrophage
+IL6,mesothelial cell
+CCL18,"CD4-positive, alpha-beta T cell"
+CSF2,neuronal stem cell
+TNF,epidermal cell
+CXCL13,chondrocyte
+IFNB1,endothelial cell of lymphatic vessel
+CCL2,platelet
+IL15,female germ cell
+IL2,stem cell
+IL22,T cell
+MIF,cardiac muscle cell
+CSF3,hippocampal neuron
+CXCL8,urothelial cell
+CXCL14,leukocyte
+CSF3,microglial cell
+IL34,alternatively activated macrophage
+TNFSF8,B cell
+IL32,bronchial epithelial cell
+CD40LG,effector T cell
+CCL7,eosinophil
+IL5,lymphocyte
+IFNB1,epithelial cell
+IL1B,Langerhans cell
+IL17,stellate cell
+IFNG,helper T cell
+CXCL12,T-helper 1 cell
+IL33,multinuclear osteoclast
+CCL9,bone marrow cell
+IL2,CD4-positive helper T cell
+IL2,dendritic cell
+HGF,enteric neuron
+TNFSF14,promyelocyte
+THPO,hematopoietic stem cell
+CXCL8,T-helper 17 cell
+IL6,reticulocyte
+TGFA,fibroblast
+IL17,"CD4-positive, alpha-beta T cell"
+IL15,keratinocyte
+EGF,type B pancreatic cell
+FGF1,adult endothelial progenitor cell
+IL6,bone marrow cell
+CCL27,"CD4-positive, alpha-beta T cell"
+IFNG,neuronal stem cell
+IFNB1,peritoneal macrophage
+FGF2,smooth muscle myoblast
+EPO,T cell
+IL1A,natural killer cell
+CCL20,osteoblast
+IL1B,endothelial cell of lymphatic vessel
+TGFA,articular chondrocyte
+TGFB1,bladder cell
+IL32,"CD4-positive, alpha-beta T cell"
+IL1B,hippocampal neuron
+CXCL8,microglial cell
+GDF15,microglial cell
+CCL22,alveolar macrophage
+TNF,brown fat cell
+IL35,"CD8-positive, alpha-beta T cell"
+PPBP,leukocyte
+LTA,lymphocyte
+TGFB1,stellate cell
+LTA,fibroblast
+IL1B,acinar cell
+TDGF1P3,myoblast
+TGFA,natural killer cell
+CXCL5,endothelial cell
+CCL11,eosinophil progenitor cell
+CCL3,hepatic stellate cell
+IL18,theca cell
+IL17A,keratocyte
+TGFA,endothelial cell
+CCL22,plasmacytoid dendritic cell
+IL6,retinal cell
+IL1,cardiac muscle cell
+IFNA,neuron
+IL17,ligament cell
+CCL16,eosinophil
+IL33,stromal cell
+IL1,glial cell
+IL3,myeloid lineage restricted progenitor cell
+HGF,dendritic cell
+IL16,macrophage
+CCL15,endothelial cell
+TGFB1,fibrocyte
+CSF3,blood cell
+IL2,hematopoietic stem cell
+IL11,vascular associated smooth muscle cell
+TGFA,macrophage
+IL9,keratinocyte
+CXCL11,lymphocyte
+IFNG,myeloid cell
+CD70,B cell
+EPO,capillary endothelial cell
+IFNG,lens epithelial cell
+IL17,osteoclast
+IL1,plasma cell
+TNF,pneumocyte
+TGFB,respiratory epithelial cell
+CXCL11,"CD8-positive, alpha-beta T cell"
+PDGF,osteoblast
+TGFB,erythroblast
+IL4,smooth muscle cell
+IL1B,inflammatory macrophage
+GDF15,embryonic stem cell
+IL4,osteoclast
+IL4,aortic endothelial cell
+TNFSF9,myeloid cell
+RETN,hepatocyte
+MIF,mature B cell
+IFNG,naive T cell
+IL6,regulatory T cell
+EGF,sperm
+IL17,glial cell
+IFNA2,T cell
+IL21,intestinal epithelial cell
+CXCL12,osteoblast
+CCL2,endothelial cell of vascular tree
+TGFB,skeletal muscle cell
+TDGF1P3,stem cell
+IFNG,follicular dendritic cell
+IL23,T-helper 22 cell
+IL6,hematopoietic stem cell
+OSM,keratinocyte
+RETN,vascular associated smooth muscle cell
+TGFB2,macrophage
+IL3,monocyte
+IL23,cardiac fibroblast
+IL1B,leptomeningeal cell
+IL18,epithelial cell
+HGF,myofibroblast cell
+IL6,enterocyte
+IFNG,epidermal cell
+IFNG,germinal center B cell
+TGFB1,cytotoxic T cell
+IL15,mature NK T cell
+IL1RN,T cell
+CXCL10,"CD8-positive, CXCR3-positive, alpha-beta regulatory T cell"
+CCL18,lymphocyte
+CCL26,microglial cell
+CSF3,"CD4-positive, alpha-beta T cell"
+HGF,mesenchymal cell
+TGFA,granulosa cell
+CCL26,monocyte
+IL7,intestinal epithelial cell
+TGFB,"CD8-positive, alpha-beta memory T cell"
+EGF,platelet
+IL23,skin fibroblast
+PDGF,hematopoietic stem cell
+IL4,T-helper 9 cell
+TNFSF14,macrophage
+CXCL5,mature neutrophil
+IL12B,microglial cell
+IL10,alveolar macrophage
+PDGFA,fibroblast
+HGF,glomerular visceral epithelial cell
+CXCL9,natural killer cell
+RETN,trophoblast cell
+TNF,effector T cell
+IL6,megakaryocyte progenitor cell
+IL10,astrocyte
+IL2,"CD4-positive, alpha-beta memory T cell"
+TNF,enterocyte
+CXCL10,regulatory T cell
+CCL2,hepatocyte
+IL4,embryonic stem cell
+IL6,sensory neuron
+TGFB,aortic smooth muscle cell
+CXCL1,bladder cell
+IFNA,type I pneumocyte
+IL33,mature microglial cell
+CD40LG,microglial cell
+IL6,myelinating Schwann cell
+CXCL12,"CD4-positive, alpha-beta T cell"
+CXCL12,osteoclast
+TNF,regulatory T cell
+TNF,spermatocyte
+IL6,glial cell
+CCL4,monocyte
+CCL2,T-helper 1 cell
+IFNL3,hepatocyte
+IL3,motor neuron
+HGF,myoblast
+IL32,natural killer cell
+IL1A,B cell
+TGFB,pancreatic stellate cell
+CCL2,smooth muscle cell
+IFNL3,leukocyte
+IL2,glomerular visceral epithelial cell
+CXCL12,cardiac muscle cell
+FGF1,neutrophil
+CCL2,embryonic stem cell
+FGF2,melanoblast
+IL2,mesothelial cell
+CXCL10,adult endothelial progenitor cell
+IL17,astrocyte
+CSF3,neural cell
+CCL11,"CD4-positive, alpha-beta T cell"
+CCL2,neuronal stem cell
+IFNB1,"CD8-positive, alpha-beta T cell"
+IL17,dental pulp cell
+LIF,oocyte
+IL9,goblet cell
+TNF,cerebellar granule cell
+IL21,alternatively activated macrophage
+CXCL8,"CD4-positive, alpha-beta T cell"
+CSF1,neutrophil
+GDF15,osteoclast
+IFN1,epithelial cell
+IL17,mast cell
+CXCL12,stellate cell
+IL1RN,B cell
+TGFB1,bone cell
+CCL3,"CD8-positive, alpha-beta T cell"
+TGFB1,eosinophil
+IL4,promyelocyte
+TGF,epithelial cell of prostate
+CSF2,stromal cell
+TGFB,gamma-delta T cell
+CSF3,T-helper 17 cell
+HGF,macrophage
+EPO,mammary epithelial cell
+IFNG,reticulocyte
+IL17,fat cell
+IL18,basophil
+IL10,keratinocyte
+CXCL10,type B pancreatic cell
+TGFB,Leydig cell
+LIF,muscle cell
+IL1,neural cell
+CCL5,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+SPP1,neutrophil
+IL2,erythrocyte
+IL17A,stromal cell
+EGF,T cell
+CSF3,dendritic cell
+IL17,endothelial cell of lymphatic vessel
+LTA,medullary thymic epithelial cell
+IL4,fibrocyte
+IL23,T-helper 1 cell
+IL13,hippocampal neuron
+CCL2,vascular associated smooth muscle cell
+EPO,oligodendrocyte
+TGFB,brown fat cell
+FGF2,crystallin accumulating cell
+IFNA,oligodendrocyte
+TGFB1,Langerhans cell
+PPBP,natural killer cell
+IL23A,neutrophil
+CXCL12,enterocyte
+TGFB,prostate stromal cell
+IFNB1,epithelial cell of thymus
+IL1,smooth muscle cell
+CXCL12,germ cell
+CCL3,granulocyte monocyte progenitor cell
+TNF,hematopoietic stem cell
+SPP1,endothelial cell
+IL6,mature neutrophil
+IL4,retinal cell
+IL6,hematopoietic multipotent progenitor cell
+TNF,Leydig cell
+TGFB,muscle cell
+IL9,B cell
+CCL21,naive T cell
+TGFB,neural cell
+CSF1,epithelial cell
+IL22,regulatory T cell
+IL23A,T-helper 17 cell
+IL1,intestinal epithelial cell
+IL18,Kupffer cell
+IFNL1,mast cell
+IFNA,professional antigen presenting cell
+TGFB2,epithelial cell
+TGFB1,Sertoli cell
+TNF,granule cell
+IL17A,hematopoietic stem cell
+IL32,T-helper 1 cell
+CXCL9,leukocyte
+CCL26,memory T cell
+CXCL10,macrophage
+IL9,B-1 B cell
+CD40LG,natural killer cell
+CXCL14,neutrophil
+HGF,trichogen cell
+FGF1,lens epithelial cell
+IL15,osteoclast
+IFNA,plasma cell
+CCL27,stem cell
+TNF,subcutaneous fat cell
+IL23,B cell
+IFNA,astrocyte
+CXCL12,bone marrow cell
+OSM,osteoblast
+FGF2,ependymal cell
+EGF,stromal cell
+IL15,leukocyte
+FGF2,embryonic stem cell
+TGFB2,mammary epithelial cell
+IL6,microglial cell
+IL15,cardiac muscle cell
+CCL7,leukocyte
+IL5,macrophage
+IFNG,melanocyte
+LTA,B cell
+CSF1,bone marrow macrophage
+IL5,regulatory T cell
+CSF1,sperm
+IL17B,fibroblast
+EPO,mesenchymal cell
+PPBP,mononuclear phagocyte
+CKLF,myoblast
+IL17B,neutrophil
+TNF,endothelial cell of lymphatic vessel
+CCL6,fibroblast
+IL32,T cell
+IL15,IgA memory B cell
+CCL20,T-helper 9 cell
+MIF,keratinocyte
+CXCL5,macrophage
+IL1B,memory T cell
+IL27,monocyte
+IL1,myeloid cell
+CSF3,natural killer cell
+IL17A,cardiac fibroblast
+CXCL8,trophoblast cell
+IL22,effector T cell
+TGF,lens epithelial cell
+IL18,osteoclast
+IL6,PP cell
+IL17,epithelial cell
+TGFB1,respiratory epithelial cell
+TNF,acinar cell of sebaceous gland
+TGFB2,chondrocyte
+PDGFB,hepatic stellate cell
+CSF2,thymocyte
+EPO,kidney cell
+IL12B,lymphocyte
+IFN1,plasmacytoid dendritic cell
+TNFSF13B,monocyte
+IFNA,stem cell
+RETN,aortic endothelial cell
+IFNA,myeloid dendritic cell
+IFNL3,B cell
+IL15,"CD8-positive, alpha-beta thymocyte"
+IL24,melanocyte
+CSF3,myelinating Schwann cell
+CSF2,"CD4-positive, alpha-beta T cell"
+IFNG,conventional dendritic cell
+TNFSF8,neutrophil
+IL2,double negative thymocyte
+IL17A,endothelial cell
+IL18,peritoneal macrophage
+CCL23,monocyte
+CXCL12,myoblast
+IL23,natural killer cell
+IL31,neuron
+IFNG,epithelial cell of lung
+CXCL16,platelet
+IL27,professional antigen presenting cell
+IL1B,epithelial cell of lung
+FGF2,skin fibroblast
+THPO,stem cell
+CCL5,T cell
+IL25,T-helper 9 cell
+EGF,lymphocyte
+TGFB,cardiac fibroblast
+IL1RN,trophoblast cell
+TGFB1,leukocyte
+IL35,B cell
+TNFSF15,natural killer cell
+FGF2,neuron of cerebral cortex
+CSF2,peripheral blood stem cell
+TGFB,enterocyte
+TNF,regulatory B cell
+IFNA,fibroblast
+IL27,germinal center B cell
+IL10,granulocyte monocyte progenitor cell
+CSF1,intermediate monocyte
+IL18,leukocyte
+IL22,embryonic stem cell
+TNFSF15,endothelial cell
+IFNB1,plasmacytoid dendritic cell
+SPP1,epithelial cell
+CXCL5,hematopoietic stem cell
+IL1B,keratinocyte
+HGF,bronchial epithelial cell
+CCL5,neutrophil
+IL1B,odontoblast
+CXCL10,osteoclast
+TNF,sperm
+IL32,glial cell
+IFNL2,T cell
+CCL19,T-helper 1 cell
+TGFB1,T-helper 17 cell
+THPO,blood cell
+IL27,Tr1 cell
+IL7,neuron
+IL4,"CD8-positive, alpha-beta regulatory T cell"
+IL12,dendritic cell
+CXCL8,pancreatic stellate cell
+CXCL12,fibroblast
+TNFSF15,T-helper 1 cell
+FGF1,macrophage
+IL2,myeloid cell
+TGFB1,oligodendrocyte
+CCL1,embryonic stem cell
+IL7,"CD4-positive, alpha-beta memory T cell"
+IL1B,Clara cell
+IL6,oocyte
+IL25,plasmacytoid dendritic cell
+CSF3,mesenchymal cell
+TGFB1,primary sensory neuron
+XCL1,microglial cell
+FGF2,Sertoli cell
+IL13,stem cell
+IFNA,bladder cell
+IL1,type II pneumocyte
+IL17,alternatively activated macrophage
+TGFB1,myelinating Schwann cell
+TGFB2,astrocyte
+CD40LG,neutrophil
+IL6,corneal epithelial cell
+IL20,"CD8-positive, alpha-beta T cell"
+TGFB2,peritoneal macrophage
+CCL3L1,eosinophil
+IL3,pluripotent stem cell
+CXCL8,respiratory epithelial cell
+TGFB1,erythroid progenitor cell
+HGF,glomerular cell
+CSF3,T-helper 2 cell
+IL4,myoblast
+TGFB,bone cell
+IL10,granulocyte
+EPO,white fat cell
+IFNA,lymphocyte
+GDF15,macrophage
+IL2,microglial cell
+SPP1,fibroblast
+IL17A,T-helper 2 cell
+CCL13,macrophage
+CSF2,melanocyte
+TNF,dental pulp cell
+IL17,stromal cell
+CCL5,glial cell
+CXCL9,T cell
+CSF2,hepatocyte
+CCL6,intestinal epithelial cell
+IL7,mature T cell
+CCL3,platelet
+TNF,pro-T cell
+IL1A,Sertoli cell
+IL17A,fetal cardiomyocyte
+CCL20,T cell
+TGFB1,goblet cell
+IL7,"CD8-positive, alpha-beta cytotoxic T cell"
+IL24,keratinocyte
+CXCL8,mature natural killer cell
+CD40LG,memory B cell
+TGFA,auditory hair cell
+TGFB1,naive T cell
+CXCL9,effector T cell
+IFNB1,osteoclast
+IL27,endothelial cell
+TNFSF9,peritoneal macrophage
+TGFB,crypt olfactory receptor neuron
+CCL3,plasma cell
+IL1B,pneumocyte
+IL1A,stellate cell
+PDGF,mesenchymal cell
+CXCL10,acinar cell
+TNF,multinuclear osteoclast
+LTA,natural killer cell
+SPP1,chondrocyte
+IL3,osteoblast
+TGFB1,epithelial cell of prostate
+CXCL12,stromal cell
+TNF,gamma-delta T cell
+IL1RN,mature neutrophil
+IL6,preadipocyte
+IL17A,synovial cell
+TGFB1,Leydig cell
+CCL2,mesothelial cell of peritoneum
+FGF2,dopaminergic neuron
+FGF1,T cell
+IL6,endothelial cell of lymphatic vessel
+CSF2,blastoderm cell
+CXCL12,granule cell
+IL33,"CD4-positive, alpha-beta T cell"
+IL2,memory B cell
+EPO,microglial cell
+TGFB,alternatively activated macrophage
+FGF2,trichogen cell
+CD40LG,fat cell
+CCL2,stem cell
+TGFB,subcutaneous fat cell
+IL13,multinucleated giant cell
+IL3,dendritic cell
+GDF15,enterocyte
+FGF2,germ cell
+PPBP,T cell
+IL4,keratocyte
+CSF3,mature NK T cell
+CCL26,retinal ganglion cell
+CD40LG,aortic endothelial cell
+OSM,synovial cell
+CCL2,hematopoietic stem cell
+LECT2,hepatocyte
+IL17F,keratinocyte
+TNFSF4,"CD8-positive, alpha-beta T cell"
+TGFB1,ligament cell
+IL6,mature astrocyte
+IFNB1,melanocyte
+IL6,adult endothelial progenitor cell
+CD40LG,naive T cell
+TGFB1,bone marrow cell
+CCL2,neuroblast (sensu Nematoda and Protostomia)
+IL1B,dopaminergic neuron
+CSF2,epithelial cell
+TNF,erythrocyte
+CXCL8,granulosa cell
+CCL15,monocyte
+CCL18,endothelial cell
+CSF1,platelet
+TNF,Sertoli cell
+TNF,hippocampal neuron
+TNFSF4,T-helper 2 cell
+IL17A,vascular associated smooth muscle cell
+CSF3,immature neutrophil
+IL25,vascular associated smooth muscle cell
+IFN1,leukocyte
+CLCF1,B cell
+IL10,helper T cell
+IL15,hepatocyte
+IFNB1,cytotoxic T cell
+CCL24,trophoblast cell
+IL7,endothelial cell
+CXCL9,eosinophil
+TGFB,megakaryocyte
+IL15,"CD4-positive, alpha-beta intraepithelial T cell"
+THPO,neuron
+IL34,neutrophil
+CXCL12,"CD8-positive, alpha-beta T cell"
+RETN,osteoblast
+TGFB,epiblast cell
+IFNB1,regulatory B cell
+GDF15,fibroblast
+TGFB,germ cell
+PDGFA,hepatic stellate cell
+CCL25,thymocyte
+CXCL12,oocyte
+IL1A,marrow fibroblast
+IFNG,retinal pigment epithelial cell
+IL6,aortic endothelial cell
+CSF2,myeloid dendritic cell
+TGFB1,synovial cell
+IL10,goblet cell
+CCL6,hematopoietic stem cell
+IL3,T-helper 2 cell
+XCL1,"CD8-positive, alpha-beta T cell"
+IL17,lung endothelial cell
+IL1B,melanocyte
+TNF,mesothelial cell of pleura
+TGFB1,muscle fibroblast
+PDGFA,astrocyte
+IL6,neuroendocrine cell
+CCL2,eosinophil
+CSF1,erythroid progenitor cell
+IL18,fibroblast
+IL22,intestinal epithelial cell
+CSF1,myoblast
+FGF1,osteoblast
+CCL23,endothelial cell
+TGFB1,skeletal muscle cell
+CCL7,astrocyte
+IL1B,professional antigen presenting cell
+TGFB2,stem cell
+TGFB,folliculostellate cell
+CXCL12,granulocyte
+IL10,induced T-regulatory cell
+SPP1,keratinocyte
+IL6,basal cell
+IL17,helper T cell
+IL35,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+OSM,endothelial cell
+TGFB3,mesenchymal cell
+IFNG,adipose macrophage
+TNF,myometrial cell
+EPO,neuron of cerebral cortex
+EBI3,"CD8-positive, alpha-beta T cell"
+TGFB,dendritic cell
+IL21,regulatory B cell
+IL1,granulocyte monocyte progenitor cell
+TGFB,hepatic stellate cell
+HGF,kidney cell
+CCL4,mast cell
+IFNG,sensory neuron
+TNFSF15,synovial cell
+IFNG,Be cell
+CD40LG,"CD8-positive, alpha-beta cytotoxic T cell"
+IL6,melanocyte
+CCL4,neutrophil
+IL21,conventional dendritic cell
+CXCL12,odontoblast
+IL17A,"CD8-positive, alpha-beta T cell"
+IL10,"double-positive, alpha-beta thymocyte"
+CX3CL1,osteoclast
+IL1B,peritoneal macrophage
+IL27,T follicular helper cell
+IFNG,Langerhans cell
+IL4,neuron
+IL18,chondrocyte
+IFNG,osteoblast
+CD40LG,endothelial cell
+CCL2,"CD14-positive, CD16-positive monocyte"
+IFNG,"CD8-positive, alpha-beta regulatory T cell"
+TNF,pancreatic acinar cell
+IL17,endothelial cell of vascular tree
+IL9,eosinophil
+PDGFB,hematopoietic stem cell
+TNFSF15,macrophage
+IFNB1,glomerular visceral epithelial cell
+EGF,natural killer cell
+CCL5,cardiac muscle cell
+PPBP,"CD8-positive, alpha-beta T cell"
+TGFB1,mesodermal cell
+IL18,muscle cell
+IL12,bone marrow cell
+IL21,"CD4-positive, alpha-beta memory T cell"
+TGFB1,neuron of cerebral cortex
+IFNG,Clara cell
+TNFSF9,dendritic cell
+IFNG,regulatory T cell
+IFN1,erythrocyte
+SPP1,smooth muscle cell
+TNF,kidney cell
+IL2,decidual natural killer cell
+CXCL1,endothelial cell of lymphatic vessel
+IL27,mature NK T cell
+IL10,plasmacytoid dendritic cell
+CSF2,mesenchymal cell
+FGF2,preosteoblast
+TGF,epithelial cell
+TNF,sensory neuron
+TGFB1,aortic smooth muscle cell
+EGF,bladder cell
+IL5,cardiac muscle cell
+IFN1,hematopoietic stem cell
+IL1B,type I pneumocyte
+CCL21,lymphocyte
+IL4,mature microglial cell
+TNFSF13,B cell
+TGFB,odontoblast
+IL7,peritoneal macrophage
+OSM,stromal cell
+TGFA,glial cell
+IL17A,mesenchymal cell
+CCL20,T-helper 1 cell
+TGFA,stromal cell
+IL10,hepatocyte
+TNF,motor neuron
+IL15,dendritic cell
+IL17F,osteoblast
+IL6,endothelial cell of vascular tree
+CCL5,stromal cell
+TGFB1,vein endothelial cell
+IL6,male germ cell
+CXCL2,cardiac muscle cell
+LIF,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CX3CL1,embryonic stem cell
+CCL17,Leydig cell
+THPO,mast cell
+IFNA,endothelial cell
+TGFB,enucleate erythrocyte
+TNF,gingival epithelial cell
+CCL20,intestinal epithelial cell
+IL12,thymocyte
+IL1A,lymphocyte
+TDGF1P3,embryonic stem cell
+FGF2,endothelial cell of lymphatic vessel
+TNF,mature NK T cell
+IL1,Sertoli cell
+IL13,fibrocyte
+IFNG,bladder cell
+IL21,"CD8-positive, alpha-beta cytotoxic T cell"
+TNF,melanocyte
+IL33,alternatively activated macrophage
+IL1B,bronchial epithelial cell
+CXCL9,"CD4-positive, alpha-beta T cell"
+IL17A,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+FGF2,cortical cell of adrenal gland
+IL20,endothelial cell
+IL18,macrophage
+IL1A,mast cell

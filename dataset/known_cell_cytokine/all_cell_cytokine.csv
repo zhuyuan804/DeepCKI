@@ -1,0 +1,3346 @@
+,cytokine,cell,source
+0,CXCL3,T cell,cell-cytokine
+1,CXCL6,neutrophil,cell-cytokine
+2,CXCL6,leukocyte,cell-cytokine
+3,CXCL6,B cell,cell-cytokine
+4,CXCL6,enucleate erythrocyte,cell-cytokine
+5,PPBP,platelet,cell-cytokine
+6,PPBP,macrophage,cell-cytokine
+7,PPBP,neutrophil,cell-cytokine
+8,PPBP,T cell,cell-cytokine
+9,PPBP,myoblast,cell-cytokine
+10,PPBP,connective tissue cell,cell-cytokine
+11,PPBP,leukocyte,cell-cytokine
+12,PPBP,thymocyte,cell-cytokine
+13,PPBP,myeloid cell,cell-cytokine
+14,PPBP,natural killer cell,cell-cytokine
+15,PPBP,mononuclear phagocyte,cell-cytokine
+16,PPBP,microglial cell,cell-cytokine
+17,PPBP,epithelial cell,cell-cytokine
+18,PPBP,stromal cell,cell-cytokine
+19,PPBP,eosinophil,cell-cytokine
+20,PPBP,mesenchymal cell,cell-cytokine
+21,PPBP,T-helper 1 cell,cell-cytokine
+22,PPBP,"CD8-positive, alpha-beta T cell",cell-cytokine
+23,CXCL2,neutrophil,cell-cytokine
+24,CXCL2,leukocyte,cell-cytokine
+25,CXCL2,alveolar macrophage,cell-cytokine
+26,CXCL2,intestinal epithelial cell,cell-cytokine
+27,CXCL2,hepatocyte,cell-cytokine
+28,CXCL2,endothelial cell,cell-cytokine
+29,CXCL2,mature neutrophil,cell-cytokine
+30,CXCL2,thymic macrophage,cell-cytokine
+31,CXCL2,neuron,cell-cytokine
+32,CXCL2,T-helper 2 cell,cell-cytokine
+33,CXCL2,cardiac muscle cell,cell-cytokine
+34,CXCL5,neutrophil,cell-cytokine
+35,CXCL5,endothelial cell,cell-cytokine
+36,CXCL5,bronchial epithelial cell,cell-cytokine
+37,CXCL5,mature neutrophil,cell-cytokine
+38,CXCL5,fibroblast,cell-cytokine
+39,CXCL5,macrophage,cell-cytokine
+40,CXCL5,hematopoietic stem cell,cell-cytokine
+41,CXCL5,enterocyte,cell-cytokine
+42,CXCL13,B cell,cell-cytokine
+43,CXCL13,T cell,cell-cytokine
+44,CXCL13,monocyte,cell-cytokine
+45,CXCL13,lymphocyte,cell-cytokine
+46,CXCL13,B-1 B cell,cell-cytokine
+47,CXCL13,macrophage,cell-cytokine
+48,CXCL13,"CD4-positive, alpha-beta T cell",cell-cytokine
+49,CXCL13,chondrocyte,cell-cytokine
+50,CXCL13,epithelial cell,cell-cytokine
+51,CXCL13,neuron,cell-cytokine
+52,CXCL13,helper T cell,cell-cytokine
+53,CXCL13,dendritic cell,cell-cytokine
+54,CXCL14,neural cell,cell-cytokine
+55,CXCL14,leukocyte,cell-cytokine
+56,CXCL14,neutrophil,cell-cytokine
+57,CXCL14,T cell,cell-cytokine
+58,CXCL14,natural killer cell,cell-cytokine
+59,CXCL14,myelinating Schwann cell,cell-cytokine
+60,CXCL14,fat cell,cell-cytokine
+61,CXCL11,lymphocyte,cell-cytokine
+62,CXCL11,keratinocyte,cell-cytokine
+63,CXCL11,endothelial cell,cell-cytokine
+64,CXCL11,dendritic cell,cell-cytokine
+65,CXCL11,"CD8-positive, alpha-beta T cell",cell-cytokine
+66,CXCL11,T cell,cell-cytokine
+67,CXCL9,respiratory epithelial cell,cell-cytokine
+68,CXCL9,B cell,cell-cytokine
+69,CXCL9,"CD8-positive, alpha-beta T cell",cell-cytokine
+70,CXCL9,eosinophil,cell-cytokine
+71,CXCL9,epithelial cell,cell-cytokine
+72,CXCL9,natural killer cell,cell-cytokine
+73,CXCL9,leukocyte,cell-cytokine
+74,CXCL9,T cell,cell-cytokine
+75,CXCL9,effector T cell,cell-cytokine
+76,CXCL9,T-helper 1 cell,cell-cytokine
+77,CXCL9,pneumocyte,cell-cytokine
+78,CXCL9,"CD4-positive, alpha-beta T cell",cell-cytokine
+79,CSF2,neutrophil,cell-cytokine
+80,CSF2,macrophage,cell-cytokine
+81,CSF2,T cell,cell-cytokine
+82,CSF2,monocyte,cell-cytokine
+83,CSF2,eosinophil,cell-cytokine
+84,CSF2,dendritic cell,cell-cytokine
+85,CSF2,granulocyte,cell-cytokine
+86,CSF2,leukocyte,cell-cytokine
+87,CSF2,bone marrow cell,cell-cytokine
+88,CSF2,myeloid cell,cell-cytokine
+89,CSF2,fibroblast,cell-cytokine
+90,CSF2,platelet,cell-cytokine
+91,CSF2,granulocyte monocyte progenitor cell,cell-cytokine
+92,CSF2,alveolar macrophage,cell-cytokine
+93,CSF2,stromal cell,cell-cytokine
+94,CSF2,keratinocyte,cell-cytokine
+95,CSF2,mast cell,cell-cytokine
+96,CSF2,lymphocyte,cell-cytokine
+97,CSF2,stem cell,cell-cytokine
+98,CSF2,B cell,cell-cytokine
+99,CSF2,osteoclast,cell-cytokine
+100,CSF2,peritoneal macrophage,cell-cytokine
+101,CSF2,"CD8-positive, alpha-beta T cell",cell-cytokine
+102,CSF2,epithelial cell,cell-cytokine
+103,CSF2,"CD4-positive, alpha-beta T cell",cell-cytokine
+104,CSF2,natural killer cell,cell-cytokine
+105,CSF2,microglial cell,cell-cytokine
+106,CSF2,plasmacytoid dendritic cell,cell-cytokine
+107,CSF2,pneumocyte,cell-cytokine
+108,CSF2,T-helper 1 cell,cell-cytokine
+109,CSF2,promyelocyte,cell-cytokine
+110,CSF2,endothelial cell,cell-cytokine
+111,CSF2,blood cell,cell-cytokine
+112,CSF2,osteoblast,cell-cytokine
+113,CSF2,bronchial epithelial cell,cell-cytokine
+114,CSF2,megakaryocyte,cell-cytokine
+115,CSF2,professional antigen presenting cell,cell-cytokine
+116,CSF2,adult endothelial progenitor cell,cell-cytokine
+117,CSF2,mesenchymal cell,cell-cytokine
+118,CSF2,mononuclear phagocyte,cell-cytokine
+119,CSF2,basophil,cell-cytokine
+120,CSF2,neuron,cell-cytokine
+121,CSF2,Langerhans cell,cell-cytokine
+122,CSF2,cytotoxic T cell,cell-cytokine
+123,CSF2,synovial cell,cell-cytokine
+124,CSF2,T-helper 2 cell,cell-cytokine
+125,CSF2,bladder cell,cell-cytokine
+126,CSF2,erythroid progenitor cell,cell-cytokine
+127,CSF2,neuronal stem cell,cell-cytokine
+128,CSF2,hepatocyte,cell-cytokine
+129,CSF2,helper T cell,cell-cytokine
+130,CSF2,animal cell,cell-cytokine
+131,CSF2,bone marrow macrophage,cell-cytokine
+132,CSF2,skin fibroblast,cell-cytokine
+133,CSF2,glomerular visceral epithelial cell,cell-cytokine
+134,CSF2,inflammatory macrophage,cell-cytokine
+135,CSF2,cardiac fibroblast,cell-cytokine
+136,CSF2,thymocyte,cell-cytokine
+137,CSF2,peripheral blood stem cell,cell-cytokine
+138,CSF2,chondrocyte,cell-cytokine
+139,CSF2,melanocyte,cell-cytokine
+140,CSF2,myeloid dendritic cell,cell-cytokine
+141,CSF2,adipose macrophage,cell-cytokine
+142,CSF2,epithelial cell of lung,cell-cytokine
+143,CSF2,monoblast,cell-cytokine
+144,CSF2,blastoderm cell,cell-cytokine
+145,CSF2,perivascular macrophage,cell-cytokine
+146,CSF2,common myeloid progenitor,cell-cytokine
+147,CXCL10,T cell,cell-cytokine
+148,CXCL10,macrophage,cell-cytokine
+149,CXCL10,monocyte,cell-cytokine
+150,CXCL10,"CD8-positive, alpha-beta T cell",cell-cytokine
+151,CXCL10,lymphocyte,cell-cytokine
+152,CXCL10,epithelial cell,cell-cytokine
+153,CXCL10,natural killer cell,cell-cytokine
+154,CXCL10,hepatocyte,cell-cytokine
+155,CXCL10,respiratory epithelial cell,cell-cytokine
+156,CXCL10,leukocyte,cell-cytokine
+157,CXCL10,endothelial cell,cell-cytokine
+158,CXCL10,neuron,cell-cytokine
+159,CXCL10,fibroblast,cell-cytokine
+160,CXCL10,eosinophil,cell-cytokine
+161,CXCL10,neutrophil,cell-cytokine
+162,CXCL10,"CD4-positive, alpha-beta T cell",cell-cytokine
+163,CXCL10,dendritic cell,cell-cytokine
+164,CXCL10,B cell,cell-cytokine
+165,CXCL10,adult endothelial progenitor cell,cell-cytokine
+166,CXCL10,regulatory T cell,cell-cytokine
+167,CXCL10,mesangial cell,cell-cytokine
+168,CXCL10,type B pancreatic cell,cell-cytokine
+169,CXCL10,T-helper 1 cell,cell-cytokine
+170,CXCL10,cytotoxic T cell,cell-cytokine
+171,CXCL10,osteoclast,cell-cytokine
+172,CXCL10,"CD8-positive, CXCR3-positive, alpha-beta regulatory T cell",cell-cytokine
+173,CXCL10,vascular associated smooth muscle cell,cell-cytokine
+174,CXCL10,T-helper 17 cell,cell-cytokine
+175,CXCL10,Tc1 cell,cell-cytokine
+176,CXCL10,intestinal epithelial cell,cell-cytokine
+177,CXCL10,acinar cell,cell-cytokine
+178,CXCL10,mature NK T cell,cell-cytokine
+179,CXCL16,T cell,cell-cytokine
+180,CXCL16,aortic smooth muscle cell,cell-cytokine
+181,CXCL16,stromal cell,cell-cytokine
+182,CXCL16,inflammatory macrophage,cell-cytokine
+183,CXCL16,cholangiocyte,cell-cytokine
+184,CXCL16,"CD8-positive, alpha-beta T cell",cell-cytokine
+185,CXCL16,platelet,cell-cytokine
+186,CXCL16,leukocyte,cell-cytokine
+187,CXCL16,epithelial cell,cell-cytokine
+188,CXCL16,sperm,cell-cytokine
+189,CXCL16,lymphocyte,cell-cytokine
+190,CXCL16,endothelial cell,cell-cytokine
+191,CXCL16,B cell,cell-cytokine
+192,CCL4,hepatocyte,cell-cytokine
+193,CCL4,macrophage,cell-cytokine
+194,CCL4,leukocyte,cell-cytokine
+195,CCL4,hematopoietic stem cell,cell-cytokine
+196,CCL4,T cell,cell-cytokine
+197,CCL4,natural killer cell,cell-cytokine
+198,CCL4,lymphocyte,cell-cytokine
+199,CCL4,platelet,cell-cytokine
+200,CCL4,stellate cell,cell-cytokine
+201,CCL4,hepatic stellate cell,cell-cytokine
+202,CCL4,bone marrow cell,cell-cytokine
+203,CCL4,monocyte,cell-cytokine
+204,CCL4,"CD4-positive, alpha-beta T cell",cell-cytokine
+205,CCL4,T-helper 1 cell,cell-cytokine
+206,CCL4,fibroblast,cell-cytokine
+207,CCL4,mast cell,cell-cytokine
+208,CCL4,neutrophil,cell-cytokine
+209,CCL4,fibrocyte,cell-cytokine
+210,CCL4,endothelial cell,cell-cytokine
+211,EPO,erythroid progenitor cell,cell-cytokine
+212,EPO,enucleate erythrocyte,cell-cytokine
+213,EPO,reticulocyte,cell-cytokine
+214,EPO,erythrocyte,cell-cytokine
+215,EPO,platelet,cell-cytokine
+216,EPO,erythroblast,cell-cytokine
+217,EPO,endothelial cell,cell-cytokine
+218,EPO,adult endothelial progenitor cell,cell-cytokine
+219,EPO,bone marrow cell,cell-cytokine
+220,EPO,megakaryocyte,cell-cytokine
+221,EPO,neuron,cell-cytokine
+222,EPO,macrophage,cell-cytokine
+223,EPO,T cell,cell-cytokine
+224,EPO,proerythroblast,cell-cytokine
+225,EPO,myoblast,cell-cytokine
+226,EPO,cardiac muscle cell,cell-cytokine
+227,EPO,glomerular visceral epithelial cell,cell-cytokine
+228,EPO,fibroblast,cell-cytokine
+229,EPO,stem cell,cell-cytokine
+230,EPO,neutrophil,cell-cytokine
+231,EPO,astrocyte,cell-cytokine
+232,EPO,mesenchymal cell,cell-cytokine
+233,EPO,granulocyte,cell-cytokine
+234,EPO,lymphocyte,cell-cytokine
+235,EPO,mature neutrophil,cell-cytokine
+236,EPO,melanocyte,cell-cytokine
+237,EPO,neuronal stem cell,cell-cytokine
+238,EPO,oligodendrocyte,cell-cytokine
+239,EPO,mammary epithelial cell,cell-cytokine
+240,EPO,hepatocyte,cell-cytokine
+241,EPO,kidney cell,cell-cytokine
+242,EPO,B cell,cell-cytokine
+243,EPO,white fat cell,cell-cytokine
+244,EPO,microglial cell,cell-cytokine
+245,EPO,capillary endothelial cell,cell-cytokine
+246,EPO,basophilic erythroblast,cell-cytokine
+247,EPO,neuron of cerebral cortex,cell-cytokine
+248,EPO,motor neuron,cell-cytokine
+249,EPO,skeletal muscle myoblast,cell-cytokine
+250,CXCL1,neutrophil,cell-cytokine
+251,CXCL1,monocyte,cell-cytokine
+252,CXCL1,macrophage,cell-cytokine
+253,CXCL1,osteoclast,cell-cytokine
+254,CXCL1,oligodendrocyte,cell-cytokine
+255,CXCL1,endothelial cell,cell-cytokine
+256,CXCL1,astrocyte,cell-cytokine
+257,CXCL1,stem cell,cell-cytokine
+258,CXCL1,mature astrocyte,cell-cytokine
+259,CXCL1,bladder cell,cell-cytokine
+260,CXCL1,endothelial cell of lymphatic vessel,cell-cytokine
+261,CXCL1,keratinocyte,cell-cytokine
+262,CXCL1,mature neutrophil,cell-cytokine
+263,CCL4L2,plasmacytoid dendritic cell,cell-cytokine
+264,CCL4L2,macrophage,cell-cytokine
+265,CCL4L2,stem cell,cell-cytokine
+266,CCL4L2,T cell,cell-cytokine
+267,CCL8,leukocyte,cell-cytokine
+268,CCL8,keratinocyte,cell-cytokine
+269,CCL21,T cell,cell-cytokine
+270,CCL21,neuron,cell-cytokine
+271,CCL21,leukocyte,cell-cytokine
+272,CCL21,endothelial cell of lymphatic vessel,cell-cytokine
+273,CCL21,B cell,cell-cytokine
+274,CCL21,naive T cell,cell-cytokine
+275,CCL21,effector T cell,cell-cytokine
+276,CCL21,lymphocyte,cell-cytokine
+277,CCL21,"CD4-positive, alpha-beta T cell",cell-cytokine
+278,CCL21,microglial cell,cell-cytokine
+279,CCL21,stromal cell,cell-cytokine
+280,CCL2,monocyte,cell-cytokine
+281,CCL2,macrophage,cell-cytokine
+282,CCL2,endothelial cell,cell-cytokine
+283,CCL2,leukocyte,cell-cytokine
+284,CCL2,fibroblast,cell-cytokine
+285,CCL2,T cell,cell-cytokine
+286,CCL2,fat cell,cell-cytokine
+287,CCL2,astrocyte,cell-cytokine
+288,CCL2,neutrophil,cell-cytokine
+289,CCL2,neuron,cell-cytokine
+290,CCL2,mesangial cell,cell-cytokine
+291,CCL2,epithelial cell,cell-cytokine
+292,CCL2,osteoblast,cell-cytokine
+293,CCL2,microglial cell,cell-cytokine
+294,CCL2,peritoneal macrophage,cell-cytokine
+295,CCL2,osteoclast,cell-cytokine
+296,CCL2,hepatocyte,cell-cytokine
+297,CCL2,"CD4-positive, alpha-beta T cell",cell-cytokine
+298,CCL2,glomerular visceral epithelial cell,cell-cytokine
+299,CCL2,epithelial cell of lung,cell-cytokine
+300,CCL2,eosinophil,cell-cytokine
+301,CCL2,"CD8-positive, alpha-beta T cell",cell-cytokine
+302,CCL2,lymphocyte,cell-cytokine
+303,CCL2,B cell,cell-cytokine
+304,CCL2,mononuclear phagocyte,cell-cytokine
+305,CCL2,classical monocyte,cell-cytokine
+306,CCL2,neuronal stem cell,cell-cytokine
+307,CCL2,T-helper 2 cell,cell-cytokine
+308,CCL2,glial cell,cell-cytokine
+309,CCL2,hematopoietic stem cell,cell-cytokine
+310,CCL2,pain receptor cell,cell-cytokine
+311,CCL2,fibrocyte,cell-cytokine
+312,CCL2,natural killer cell,cell-cytokine
+313,CCL2,stromal cell,cell-cytokine
+314,CCL2,epithelial cell of prostate,cell-cytokine
+315,CCL2,inflammatory macrophage,cell-cytokine
+316,CCL2,keratinocyte,cell-cytokine
+317,CCL2,alveolar macrophage,cell-cytokine
+318,CCL2,osteocyte,cell-cytokine
+319,CCL2,mature astrocyte,cell-cytokine
+320,CCL2,platelet,cell-cytokine
+321,CCL2,mast cell progenitor,cell-cytokine
+322,CCL2,alternatively activated macrophage,cell-cytokine
+323,CCL2,endothelial cell of vascular tree,cell-cytokine
+324,CCL2,muscle cell,cell-cytokine
+325,CCL2,adipose macrophage,cell-cytokine
+326,CCL2,mesenchymal cell,cell-cytokine
+327,CCL2,mature microglial cell,cell-cytokine
+328,CCL2,"CD14-positive, CD16-positive monocyte",cell-cytokine
+329,CCL2,T-helper 1 cell,cell-cytokine
+330,CCL2,embryonic stem cell,cell-cytokine
+331,CCL2,pneumocyte,cell-cytokine
+332,CCL2,smooth muscle cell,cell-cytokine
+333,CCL2,vascular associated smooth muscle cell,cell-cytokine
+334,CCL2,cap cell,cell-cytokine
+335,CCL2,bronchial epithelial cell,cell-cytokine
+336,CCL2,bladder cell,cell-cytokine
+337,CCL2,mature neutrophil,cell-cytokine
+338,CCL2,respiratory epithelial cell,cell-cytokine
+339,CCL2,mesothelial cell of peritoneum,cell-cytokine
+340,CCL2,neuroblast (sensu Nematoda and Protostomia),cell-cytokine
+341,CCL2,stem cell,cell-cytokine
+342,CCL2,pancreatic acinar cell,cell-cytokine
+343,CCL2,type B pancreatic cell,cell-cytokine
+344,CCL2,professional antigen presenting cell,cell-cytokine
+345,CCL2,hepatic stellate cell,cell-cytokine
+346,CCL2,plasmacytoid dendritic cell,cell-cytokine
+347,CCL2,kidney cell,cell-cytokine
+348,CCL2,motor neuron,cell-cytokine
+349,CCL2,mesothelial cell,cell-cytokine
+350,CCL2,Kupffer cell,cell-cytokine
+351,CCL2,dendritic cell,cell-cytokine
+352,CCL26,eosinophil,cell-cytokine
+353,CCL26,T cell,cell-cytokine
+354,CCL26,neuron,cell-cytokine
+355,CCL26,macrophage,cell-cytokine
+356,CCL26,epithelial cell,cell-cytokine
+357,CCL26,microglial cell,cell-cytokine
+358,CCL26,monocyte,cell-cytokine
+359,CCL26,memory T cell,cell-cytokine
+360,CCL26,fat cell,cell-cytokine
+361,CCL26,retinal ganglion cell,cell-cytokine
+362,CCL26,"CD8-positive, alpha-beta memory T cell",cell-cytokine
+363,CCL26,pneumocyte,cell-cytokine
+364,CCL26,B cell,cell-cytokine
+365,CCL26,naive T cell,cell-cytokine
+366,CCL26,astrocyte,cell-cytokine
+367,CCL26,natural killer cell,cell-cytokine
+368,CCL26,glomerular visceral epithelial cell,cell-cytokine
+369,CCL26,"CD8-positive, alpha-beta T cell",cell-cytokine
+370,CCL26,myeloid cell,cell-cytokine
+371,CCL26,T-helper 17 cell,cell-cytokine
+372,CCL26,multinucleated giant cell,cell-cytokine
+373,CCL26,stem cell,cell-cytokine
+374,CCL26,acinar cell of sebaceous gland,cell-cytokine
+375,CCL26,T-helper 1 cell,cell-cytokine
+376,CCL17,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+377,CCL17,"CD4-positive, alpha-beta T cell",cell-cytokine
+378,CCL17,Leydig cell,cell-cytokine
+379,CCL7,neutrophil,cell-cytokine
+380,CCL7,classical monocyte,cell-cytokine
+381,CCL7,eosinophil,cell-cytokine
+382,CCL7,neuron,cell-cytokine
+383,CCL7,leukocyte,cell-cytokine
+384,CCL7,B cell,cell-cytokine
+385,CCL7,endothelial cell of vascular tree,cell-cytokine
+386,CCL7,microglial cell,cell-cytokine
+387,CCL7,mature B cell,cell-cytokine
+388,CCL7,astrocyte,cell-cytokine
+389,CCL20,T-helper 17 cell,cell-cytokine
+390,CCL20,lymphocyte,cell-cytokine
+391,CCL20,T cell,cell-cytokine
+392,CCL20,leukocyte,cell-cytokine
+393,CCL20,enterocyte,cell-cytokine
+394,CCL20,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+395,CCL20,keratinocyte,cell-cytokine
+396,CCL20,mammary epithelial cell,cell-cytokine
+397,CCL20,osteoblast,cell-cytokine
+398,CCL20,fibroblast,cell-cytokine
+399,CCL20,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+400,CCL20,intestinal epithelial cell,cell-cytokine
+401,CCL20,macrophage,cell-cytokine
+402,CCL20,T-helper 9 cell,cell-cytokine
+403,CCL20,dendritic cell,cell-cytokine
+404,CCL20,neuron,cell-cytokine
+405,CCL20,T-helper 1 cell,cell-cytokine
+406,CCL20,epithelial cell,cell-cytokine
+407,CCL20,B cell,cell-cytokine
+408,CCL20,fat cell,cell-cytokine
+409,CCL20,hematopoietic stem cell,cell-cytokine
+410,CCL20,neutrophil,cell-cytokine
+411,CCL20,effector T cell,cell-cytokine
+412,CD70,fibroblast,cell-cytokine
+413,CD70,B cell,cell-cytokine
+414,CD40LG,platelet,cell-cytokine
+415,CD40LG,T cell,cell-cytokine
+416,CD40LG,B cell,cell-cytokine
+417,CD40LG,"CD4-positive, alpha-beta T cell",cell-cytokine
+418,CD40LG,dendritic cell,cell-cytokine
+419,CD40LG,lymphocyte,cell-cytokine
+420,CD40LG,leukocyte,cell-cytokine
+421,CD40LG,monocyte,cell-cytokine
+422,CD40LG,fibroblast,cell-cytokine
+423,CD40LG,"CD8-positive, alpha-beta T cell",cell-cytokine
+424,CD40LG,macrophage,cell-cytokine
+425,CD40LG,regulatory B cell,cell-cytokine
+426,CD40LG,endothelial cell,cell-cytokine
+427,CD40LG,eosinophil,cell-cytokine
+428,CD40LG,neuron,cell-cytokine
+429,CD40LG,T-helper 1 cell,cell-cytokine
+430,CD40LG,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+431,CD40LG,memory B cell,cell-cytokine
+432,CD40LG,myeloblast,cell-cytokine
+433,CD40LG,effector T cell,cell-cytokine
+434,CD40LG,naive T cell,cell-cytokine
+435,CD40LG,B-1a B cell,cell-cytokine
+436,CD40LG,marginal zone B cell,cell-cytokine
+437,CD40LG,mast cell,cell-cytokine
+438,CD40LG,microglial cell,cell-cytokine
+439,CD40LG,astrocyte,cell-cytokine
+440,CD40LG,natural killer cell,cell-cytokine
+441,CD40LG,adult endothelial progenitor cell,cell-cytokine
+442,CD40LG,neutrophil,cell-cytokine
+443,CD40LG,fat cell,cell-cytokine
+444,CD40LG,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+445,CD40LG,regulatory T cell,cell-cytokine
+446,CD40LG,aortic endothelial cell,cell-cytokine
+447,CD40LG,plasmacytoid dendritic cell,cell-cytokine
+448,CD40LG,"CD8-positive, alpha-beta memory T cell",cell-cytokine
+449,CCL5,T cell,cell-cytokine
+450,CCL5,leukocyte,cell-cytokine
+451,CCL5,"CD8-positive, alpha-beta T cell",cell-cytokine
+452,CCL5,monocyte,cell-cytokine
+453,CCL5,lymphocyte,cell-cytokine
+454,CCL5,macrophage,cell-cytokine
+455,CCL5,hepatocyte,cell-cytokine
+456,CCL5,microglial cell,cell-cytokine
+457,CCL5,type B pancreatic cell,cell-cytokine
+458,CCL5,B cell,cell-cytokine
+459,CCL5,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+460,CCL5,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+461,CCL5,effector T cell,cell-cytokine
+462,CCL5,stromal cell,cell-cytokine
+463,CCL5,platelet,cell-cytokine
+464,CCL5,alveolar macrophage,cell-cytokine
+465,CCL5,neutrophil,cell-cytokine
+466,CCL5,neuron,cell-cytokine
+467,CCL5,glial cell,cell-cytokine
+468,CCL5,astrocyte,cell-cytokine
+469,CCL5,osteoclast,cell-cytokine
+470,CCL5,mesenchymal cell,cell-cytokine
+471,CCL5,eosinophil,cell-cytokine
+472,CCL5,respiratory epithelial cell,cell-cytokine
+473,CCL5,mast cell,cell-cytokine
+474,CCL5,cardiac muscle cell,cell-cytokine
+475,CCL19,macrophage,cell-cytokine
+476,CCL19,T cell,cell-cytokine
+477,CCL19,T-helper 1 cell,cell-cytokine
+478,CCL19,natural killer cell,cell-cytokine
+479,CCL19,eosinophil,cell-cytokine
+480,CCL1,"CD4-positive, alpha-beta T cell",cell-cytokine
+481,CCL1,lymphocyte,cell-cytokine
+482,CCL1,T cell,cell-cytokine
+483,CCL1,macrophage,cell-cytokine
+484,CCL1,mast cell,cell-cytokine
+485,CCL1,embryonic stem cell,cell-cytokine
+486,CCL1,T-helper 2 cell,cell-cytokine
+487,CCL27,keratinocyte,cell-cytokine
+488,CCL27,T cell,cell-cytokine
+489,CCL27,"CD4-positive, alpha-beta T cell",cell-cytokine
+490,CCL27,stem cell,cell-cytokine
+491,CCL27,leukocyte,cell-cytokine
+492,CCL22,macrophage,cell-cytokine
+493,CCL22,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+494,CCL22,T cell,cell-cytokine
+495,CCL22,alveolar macrophage,cell-cytokine
+496,CCL22,plasmacytoid dendritic cell,cell-cytokine
+497,CCL22,dendritic cell,cell-cytokine
+498,CCL22,T-helper 2 cell,cell-cytokine
+499,CCL22,thymocyte,cell-cytokine
+500,CCL22,induced T-regulatory cell,cell-cytokine
+501,CCL24,eosinophil,cell-cytokine
+502,CCL24,trophoblast cell,cell-cytokine
+503,CCL25,T cell,cell-cytokine
+504,CCL25,thymocyte,cell-cytokine
+505,CCL25,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+506,CCL25,"CD8-positive, alpha-beta T cell",cell-cytokine
+507,CCL25,mesenchymal cell,cell-cytokine
+508,CCL25,monocyte,cell-cytokine
+509,CCL25,lymphocyte,cell-cytokine
+510,CCL15,leukocyte,cell-cytokine
+511,CCL15,monocyte,cell-cytokine
+512,CCL15,endothelial cell,cell-cytokine
+513,CCL15,myeloid lineage restricted progenitor cell,cell-cytokine
+514,CCL15,eosinophil,cell-cytokine
+515,CCL15,osteoclast,cell-cytokine
+516,CCL18,T cell,cell-cytokine
+517,CCL18,precursor B cell,cell-cytokine
+518,CCL18,lymphocyte,cell-cytokine
+519,CCL18,"CD4-positive, alpha-beta T cell",cell-cytokine
+520,CCL18,eosinophil,cell-cytokine
+521,CCL18,endothelial cell,cell-cytokine
+522,CCL18,leukocyte,cell-cytokine
+523,CCL18,macrophage,cell-cytokine
+524,CCL18,fat cell,cell-cytokine
+525,CCL11,eosinophil,cell-cytokine
+526,CCL11,fibroblast,cell-cytokine
+527,CCL11,basophil,cell-cytokine
+528,CCL11,leukocyte,cell-cytokine
+529,CCL11,mast cell,cell-cytokine
+530,CCL11,T cell,cell-cytokine
+531,CCL11,epithelial cell,cell-cytokine
+532,CCL11,monocyte,cell-cytokine
+533,CCL11,eosinophil progenitor cell,cell-cytokine
+534,CCL11,B cell,cell-cytokine
+535,CCL11,tanycyte,cell-cytokine
+536,CCL11,"CD4-positive, alpha-beta T cell",cell-cytokine
+537,CCL11,T-helper 2 cell,cell-cytokine
+538,CCL16,eosinophil,cell-cytokine
+539,CCL16,endothelial cell of vascular tree,cell-cytokine
+540,CSF3,neutrophil,cell-cytokine
+541,CSF3,stem cell,cell-cytokine
+542,CSF3,hematopoietic stem cell,cell-cytokine
+543,CSF3,granulocyte,cell-cytokine
+544,CSF3,peripheral blood stem cell,cell-cytokine
+545,CSF3,leukocyte,cell-cytokine
+546,CSF3,myeloid cell,cell-cytokine
+547,CSF3,T cell,cell-cytokine
+548,CSF3,monocyte,cell-cytokine
+549,CSF3,mature neutrophil,cell-cytokine
+550,CSF3,neuron,cell-cytokine
+551,CSF3,granulocyte monocyte progenitor cell,cell-cytokine
+552,CSF3,platelet,cell-cytokine
+553,CSF3,endothelial cell,cell-cytokine
+554,CSF3,myeloid lineage restricted progenitor cell,cell-cytokine
+555,CSF3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+556,CSF3,lymphocyte,cell-cytokine
+557,CSF3,macrophage,cell-cytokine
+558,CSF3,common myeloid progenitor,cell-cytokine
+559,CSF3,B cell,cell-cytokine
+560,CSF3,adult endothelial progenitor cell,cell-cytokine
+561,CSF3,myeloblast,cell-cytokine
+562,CSF3,osteoclast,cell-cytokine
+563,CSF3,cardiac muscle cell,cell-cytokine
+564,CSF3,plasma cell,cell-cytokine
+565,CSF3,fibroblast,cell-cytokine
+566,CSF3,bone marrow cell,cell-cytokine
+567,CSF3,natural killer cell,cell-cytokine
+568,CSF3,mesenchymal cell,cell-cytokine
+569,CSF3,oocyte,cell-cytokine
+570,CSF3,bladder cell,cell-cytokine
+571,CSF3,motor neuron,cell-cytokine
+572,CSF3,dopaminergic neuron,cell-cytokine
+573,CSF3,eosinophil,cell-cytokine
+574,CSF3,osteoblast,cell-cytokine
+575,CSF3,hippocampal neuron,cell-cytokine
+576,CSF3,hepatocyte,cell-cytokine
+577,CSF3,"CD8-positive, alpha-beta T cell",cell-cytokine
+578,CSF3,megakaryocyte,cell-cytokine
+579,CSF3,microglial cell,cell-cytokine
+580,CSF3,blood cell,cell-cytokine
+581,CSF3,"CD4-positive, alpha-beta T cell",cell-cytokine
+582,CSF3,astrocyte,cell-cytokine
+583,CSF3,neural cell,cell-cytokine
+584,CSF3,peritoneal macrophage,cell-cytokine
+585,CSF3,smooth muscle myoblast,cell-cytokine
+586,CSF3,dendritic cell,cell-cytokine
+587,CSF3,T-helper 17 cell,cell-cytokine
+588,CSF3,keratinocyte,cell-cytokine
+589,CSF3,myelinating Schwann cell,cell-cytokine
+590,CSF3,myotube,cell-cytokine
+591,CSF3,hepatic stem cell,cell-cytokine
+592,CSF3,synovial cell,cell-cytokine
+593,CSF3,T-helper 2 cell,cell-cytokine
+594,CSF3,mature NK T cell,cell-cytokine
+595,CSF3,immature neutrophil,cell-cytokine
+596,CSF3,muscle cell,cell-cytokine
+597,CSF3,T-helper 1 cell,cell-cytokine
+598,CSF3,enterocyte,cell-cytokine
+599,CSF3,germ cell,cell-cytokine
+600,CSF3,trophoblast cell,cell-cytokine
+601,CCL3,osteoclast,cell-cytokine
+602,CCL3,leukocyte,cell-cytokine
+603,CCL3,macrophage,cell-cytokine
+604,CCL3,eosinophil,cell-cytokine
+605,CCL3,T cell,cell-cytokine
+606,CCL3,neutrophil,cell-cytokine
+607,CCL3,hematopoietic stem cell,cell-cytokine
+608,CCL3,stem cell,cell-cytokine
+609,CCL3,mesenchymal cell,cell-cytokine
+610,CCL3,basophil,cell-cytokine
+611,CCL3,"CD4-positive, alpha-beta T cell",cell-cytokine
+612,CCL3,monocyte,cell-cytokine
+613,CCL3,hepatic stellate cell,cell-cytokine
+614,CCL3,astrocyte,cell-cytokine
+615,CCL3,natural killer cell,cell-cytokine
+616,CCL3,mast cell,cell-cytokine
+617,CCL3,"CD8-positive, alpha-beta T cell",cell-cytokine
+618,CCL3,granulocyte monocyte progenitor cell,cell-cytokine
+619,CCL3,erythroid progenitor cell,cell-cytokine
+620,CCL3,platelet,cell-cytokine
+621,CCL3,common myeloid progenitor,cell-cytokine
+622,CCL3,plasma cell,cell-cytokine
+623,CCL3,microglial cell,cell-cytokine
+624,CCL3,neuron,cell-cytokine
+625,CCL3,effector T cell,cell-cytokine
+626,CCL3,keratinocyte,cell-cytokine
+627,CCL3,alveolar macrophage,cell-cytokine
+628,CCL3,myelinating Schwann cell,cell-cytokine
+629,CCL13,neuron,cell-cytokine
+630,CCL13,macrophage,cell-cytokine
+631,CCL13,eosinophil,cell-cytokine
+632,CSF1,macrophage,cell-cytokine
+633,CSF1,osteoclast,cell-cytokine
+634,CSF1,monocyte,cell-cytokine
+635,CSF1,mononuclear phagocyte,cell-cytokine
+636,CSF1,stromal cell,cell-cytokine
+637,CSF1,fibroblast,cell-cytokine
+638,CSF1,microglial cell,cell-cytokine
+639,CSF1,T cell,cell-cytokine
+640,CSF1,peritoneal macrophage,cell-cytokine
+641,CSF1,Kupffer cell,cell-cytokine
+642,CSF1,granulocyte,cell-cytokine
+643,CSF1,osteoblast,cell-cytokine
+644,CSF1,platelet,cell-cytokine
+645,CSF1,bone marrow cell,cell-cytokine
+646,CSF1,myeloid cell,cell-cytokine
+647,CSF1,stem cell,cell-cytokine
+648,CSF1,astrocyte,cell-cytokine
+649,CSF1,neuron,cell-cytokine
+650,CSF1,myoblast,cell-cytokine
+651,CSF1,"CD4-positive, alpha-beta T cell",cell-cytokine
+652,CSF1,keratinocyte,cell-cytokine
+653,CSF1,epithelial cell,cell-cytokine
+654,CSF1,chondrocyte,cell-cytokine
+655,CSF1,erythroid progenitor cell,cell-cytokine
+656,CSF1,neutrophil,cell-cytokine
+657,CSF1,sperm,cell-cytokine
+658,CSF1,intermediate monocyte,cell-cytokine
+659,CSF1,endothelial cell,cell-cytokine
+660,CSF1,"CD14-positive, CD16-positive monocyte",cell-cytokine
+661,CSF1,cardiac muscle cell,cell-cytokine
+662,CSF1,granulosa cell,cell-cytokine
+663,CSF1,erythrocyte,cell-cytokine
+664,CSF1,oocyte,cell-cytokine
+665,CSF1,ligament cell,cell-cytokine
+666,CSF1,bone marrow macrophage,cell-cytokine
+667,CSF1,preadipocyte,cell-cytokine
+668,CSF1,thymocyte,cell-cytokine
+669,CSF1,hematopoietic stem cell,cell-cytokine
+670,CSF1,endothelial cell of vascular tree,cell-cytokine
+671,CSF1,myotube,cell-cytokine
+672,IL13,T cell,cell-cytokine
+673,IL13,goblet cell,cell-cytokine
+674,IL13,B cell,cell-cytokine
+675,IL13,eosinophil,cell-cytokine
+676,IL13,monocyte,cell-cytokine
+677,IL13,basophil,cell-cytokine
+678,IL13,macrophage,cell-cytokine
+679,IL13,T-helper 2 cell,cell-cytokine
+680,IL13,respiratory epithelial cell,cell-cytokine
+681,IL13,fibroblast,cell-cytokine
+682,IL13,"CD8-positive, alpha-beta T cell",cell-cytokine
+683,IL13,mast cell,cell-cytokine
+684,IL13,leukocyte,cell-cytokine
+685,IL13,epithelial cell,cell-cytokine
+686,IL13,bronchial epithelial cell,cell-cytokine
+687,IL13,"CD4-positive, alpha-beta T cell",cell-cytokine
+688,IL13,neuron,cell-cytokine
+689,IL13,alternatively activated macrophage,cell-cytokine
+690,IL13,keratocyte,cell-cytokine
+691,IL13,lymphocyte,cell-cytokine
+692,IL13,glomerular visceral epithelial cell,cell-cytokine
+693,IL13,hepatocyte,cell-cytokine
+694,IL13,multinucleated giant cell,cell-cytokine
+695,IL13,ciliated epithelial cell,cell-cytokine
+696,IL13,erythrocyte,cell-cytokine
+697,IL13,fibrocyte,cell-cytokine
+698,IL13,CD4-positive helper T cell,cell-cytokine
+699,IL13,hippocampal neuron,cell-cytokine
+700,IL13,mature NK T cell,cell-cytokine
+701,IL13,stem cell,cell-cytokine
+702,IL13,T-helper 1 cell,cell-cytokine
+703,IL13,T-helper 17 cell,cell-cytokine
+704,IL13,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+705,IL31,T cell,cell-cytokine
+706,IL31,sensory neuron,cell-cytokine
+707,IL31,T-helper 2 cell,cell-cytokine
+708,IL31,keratinocyte,cell-cytokine
+709,IL31,neuron,cell-cytokine
+710,IL31,epidermal cell,cell-cytokine
+711,IL5,eosinophil,cell-cytokine
+712,IL5,T cell,cell-cytokine
+713,IL5,B cell,cell-cytokine
+714,IL5,"CD4-positive, alpha-beta T cell",cell-cytokine
+715,IL5,T-helper 2 cell,cell-cytokine
+716,IL5,lymphocyte,cell-cytokine
+717,IL5,"CD8-positive, alpha-beta T cell",cell-cytokine
+718,IL5,B-1 B cell,cell-cytokine
+719,IL5,bone marrow cell,cell-cytokine
+720,IL5,basophil,cell-cytokine
+721,IL5,stromal cell,cell-cytokine
+722,IL5,neutrophil,cell-cytokine
+723,IL5,macrophage,cell-cytokine
+724,IL5,regulatory T cell,cell-cytokine
+725,IL5,B-1a B cell,cell-cytokine
+726,IL5,mature eosinophil,cell-cytokine
+727,IL5,helper T cell,cell-cytokine
+728,IL5,eosinophil progenitor cell,cell-cytokine
+729,IL5,stem cell,cell-cytokine
+730,IL5,pericyte cell,cell-cytokine
+731,IL5,cardiac muscle cell,cell-cytokine
+732,IL1B,macrophage,cell-cytokine
+733,IL1B,monocyte,cell-cytokine
+734,IL1B,chondrocyte,cell-cytokine
+735,IL1B,neutrophil,cell-cytokine
+736,IL1B,fibroblast,cell-cytokine
+737,IL1B,microglial cell,cell-cytokine
+738,IL1B,astrocyte,cell-cytokine
+739,IL1B,leukocyte,cell-cytokine
+740,IL1B,synovial cell,cell-cytokine
+741,IL1B,neuron,cell-cytokine
+742,IL1B,type B pancreatic cell,cell-cytokine
+743,IL1B,platelet,cell-cytokine
+744,IL1B,peritoneal macrophage,cell-cytokine
+745,IL1B,osteoblast,cell-cytokine
+746,IL1B,alveolar macrophage,cell-cytokine
+747,IL1B,lymphocyte,cell-cytokine
+748,IL1B,eosinophil,cell-cytokine
+749,IL1B,keratinocyte,cell-cytokine
+750,IL1B,endothelial cell,cell-cytokine
+751,IL1B,epithelial cell,cell-cytokine
+752,IL1B,osteoclast,cell-cytokine
+753,IL1B,Kupffer cell,cell-cytokine
+754,IL1B,T cell,cell-cytokine
+755,IL1B,stromal cell,cell-cytokine
+756,IL1B,mesangial cell,cell-cytokine
+757,IL1B,myeloid cell,cell-cytokine
+758,IL1B,fat cell,cell-cytokine
+759,IL1B,T-helper 17 cell,cell-cytokine
+760,IL1B,hepatocyte,cell-cytokine
+761,IL1B,articular chondrocyte,cell-cytokine
+762,IL1B,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+763,IL1B,B cell,cell-cytokine
+764,IL1B,respiratory epithelial cell,cell-cytokine
+765,IL1B,oligodendrocyte,cell-cytokine
+766,IL1B,glial cell,cell-cytokine
+767,IL1B,inflammatory macrophage,cell-cytokine
+768,IL1B,smooth muscle cell,cell-cytokine
+769,IL1B,T-helper 2 cell,cell-cytokine
+770,IL1B,mononuclear phagocyte,cell-cytokine
+771,IL1B,cardiac fibroblast,cell-cytokine
+772,IL1B,preadipocyte,cell-cytokine
+773,IL1B,mesenchymal cell,cell-cytokine
+774,IL1B,natural killer cell,cell-cytokine
+775,IL1B,plasma cell,cell-cytokine
+776,IL1B,muscle cell,cell-cytokine
+777,IL1B,mast cell,cell-cytokine
+778,IL1B,megakaryocyte,cell-cytokine
+779,IL1B,"CD4-positive, alpha-beta T cell",cell-cytokine
+780,IL1B,cardiac muscle cell,cell-cytokine
+781,IL1B,embryonic stem cell,cell-cytokine
+782,IL1B,hematopoietic stem cell,cell-cytokine
+783,IL1B,osteocyte,cell-cytokine
+784,IL1B,glomerular visceral epithelial cell,cell-cytokine
+785,IL1B,granulocyte,cell-cytokine
+786,IL1B,foreskin fibroblast,cell-cytokine
+787,IL1B,basophil,cell-cytokine
+788,IL1B,fibrocyte,cell-cytokine
+789,IL1B,myoblast,cell-cytokine
+790,IL1B,endothelial cell of lymphatic vessel,cell-cytokine
+791,IL1B,hippocampal neuron,cell-cytokine
+792,IL1B,Langerhans cell,cell-cytokine
+793,IL1B,melanocyte,cell-cytokine
+794,IL1B,T-helper 1 cell,cell-cytokine
+795,IL1B,professional antigen presenting cell,cell-cytokine
+796,IL1B,leptomeningeal cell,cell-cytokine
+797,IL1B,parietal cell,cell-cytokine
+798,IL1B,tendon cell,cell-cytokine
+799,IL1B,vascular associated smooth muscle cell,cell-cytokine
+800,IL1B,effector T cell,cell-cytokine
+801,IL1B,memory T cell,cell-cytokine
+802,IL1B,odontoblast,cell-cytokine
+803,IL1B,epithelial cell of lung,cell-cytokine
+804,IL1B,Clara cell,cell-cytokine
+805,IL1B,gingival epithelial cell,cell-cytokine
+806,IL1B,splenic macrophage,cell-cytokine
+807,IL1B,cytotoxic T cell,cell-cytokine
+808,IL1B,pneumocyte,cell-cytokine
+809,IL1B,acinar cell,cell-cytokine
+810,IL1B,dopaminergic neuron,cell-cytokine
+811,IL1B,enterocyte,cell-cytokine
+812,IL1B,epidermal cell,cell-cytokine
+813,IL1B,type I pneumocyte,cell-cytokine
+814,IL1B,neural cell,cell-cytokine
+815,IL1B,blood cell,cell-cytokine
+816,IL1B,regular atrial cardiac myocyte,cell-cytokine
+817,IL1B,precursor B cell,cell-cytokine
+818,IL1B,intermediate monocyte,cell-cytokine
+819,IL1B,motor neuron,cell-cytokine
+820,IL1B,pancreatic stellate cell,cell-cytokine
+821,IL1B,vein endothelial cell,cell-cytokine
+822,IL1B,retinal cell,cell-cytokine
+823,IL1B,B-1a B cell,cell-cytokine
+824,IL1B,lung endothelial cell,cell-cytokine
+825,IL1B,goblet cell,cell-cytokine
+826,IL1B,corneal epithelial cell,cell-cytokine
+827,IL1B,bronchial epithelial cell,cell-cytokine
+828,IL26,natural killer cell,cell-cytokine
+829,IL15,natural killer cell,cell-cytokine
+830,IL15,T cell,cell-cytokine
+831,IL15,"CD8-positive, alpha-beta T cell",cell-cytokine
+832,IL15,lymphocyte,cell-cytokine
+833,IL15,B cell,cell-cytokine
+834,IL15,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+835,IL15,"CD4-positive, alpha-beta T cell",cell-cytokine
+836,IL15,monocyte,cell-cytokine
+837,IL15,neutrophil,cell-cytokine
+838,IL15,intestinal epithelial cell,cell-cytokine
+839,IL15,epithelial cell,cell-cytokine
+840,IL15,mature natural killer cell,cell-cytokine
+841,IL15,mast cell,cell-cytokine
+842,IL15,keratinocyte,cell-cytokine
+843,IL15,macrophage,cell-cytokine
+844,IL15,T-helper 1 cell,cell-cytokine
+845,IL15,effector T cell,cell-cytokine
+846,IL15,eosinophil,cell-cytokine
+847,IL15,"CD8-positive, alpha-beta memory T cell",cell-cytokine
+848,IL15,memory T cell,cell-cytokine
+849,IL15,"effector memory CD8-positive, alpha-beta T cell",cell-cytokine
+850,IL15,mature NK T cell,cell-cytokine
+851,IL15,gamma-delta T cell,cell-cytokine
+852,IL15,fat cell,cell-cytokine
+853,IL15,naive T cell,cell-cytokine
+854,IL15,female germ cell,cell-cytokine
+855,IL15,hematopoietic stem cell,cell-cytokine
+856,IL15,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+857,IL15,endothelial cell,cell-cytokine
+858,IL15,hepatocyte,cell-cytokine
+859,IL15,leukocyte,cell-cytokine
+860,IL15,IgA memory B cell,cell-cytokine
+861,IL15,osteoclast,cell-cytokine
+862,IL15,microglial cell,cell-cytokine
+863,IL15,stromal cell,cell-cytokine
+864,IL15,dendritic cell,cell-cytokine
+865,IL15,cardiac muscle cell,cell-cytokine
+866,IL15,fibroblast,cell-cytokine
+867,IL15,"CD8-positive, alpha-beta thymocyte",cell-cytokine
+868,IL15,myotube,cell-cytokine
+869,IL15,myoblast,cell-cytokine
+870,IL15,myeloid cell,cell-cytokine
+871,IL15,cytotoxic T cell,cell-cytokine
+872,IL21,B cell,cell-cytokine
+873,IL21,"CD4-positive, alpha-beta T cell",cell-cytokine
+874,IL21,"CD8-positive, alpha-beta T cell",cell-cytokine
+875,IL21,T cell,cell-cytokine
+876,IL21,natural killer cell,cell-cytokine
+877,IL21,T-helper 17 cell,cell-cytokine
+878,IL21,T follicular helper cell,cell-cytokine
+879,IL21,lymphocyte,cell-cytokine
+880,IL21,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+881,IL21,plasma cell,cell-cytokine
+882,IL21,T-helper 1 cell,cell-cytokine
+883,IL21,mature NK T cell,cell-cytokine
+884,IL21,macrophage,cell-cytokine
+885,IL21,germinal center B cell,cell-cytokine
+886,IL21,leukocyte,cell-cytokine
+887,IL21,intestinal epithelial cell,cell-cytokine
+888,IL21,regulatory B cell,cell-cytokine
+889,IL21,conventional dendritic cell,cell-cytokine
+890,IL21,stromal cell,cell-cytokine
+891,IL21,mature natural killer cell,cell-cytokine
+892,IL21,neutrophil,cell-cytokine
+893,IL21,alternatively activated macrophage,cell-cytokine
+894,IL21,fibroblast,cell-cytokine
+895,IL21,mast cell,cell-cytokine
+896,IL21,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+897,IL21,regulatory T cell,cell-cytokine
+898,IL21,memory B cell,cell-cytokine
+899,IL21,"CD4-positive, alpha-beta memory T cell",cell-cytokine
+900,IL21,professional antigen presenting cell,cell-cytokine
+901,IL21,T-helper 9 cell,cell-cytokine
+902,IL21,keratinocyte,cell-cytokine
+903,IL21,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+904,IL22,T-helper 22 cell,cell-cytokine
+905,IL22,keratinocyte,cell-cytokine
+906,IL22,T cell,cell-cytokine
+907,IL22,T-helper 17 cell,cell-cytokine
+908,IL22,"CD4-positive, alpha-beta T cell",cell-cytokine
+909,IL22,epithelial cell,cell-cytokine
+910,IL22,hepatocyte,cell-cytokine
+911,IL22,T-helper 1 cell,cell-cytokine
+912,IL22,natural killer cell,cell-cytokine
+913,IL22,eosinophil,cell-cytokine
+914,IL22,helper T cell,cell-cytokine
+915,IL22,neutrophil,cell-cytokine
+916,IL22,leukocyte,cell-cytokine
+917,IL22,hematopoietic stem cell,cell-cytokine
+918,IL22,paneth cell,cell-cytokine
+919,IL22,mast cell,cell-cytokine
+920,IL22,tracheal epithelial cell,cell-cytokine
+921,IL22,type B pancreatic cell,cell-cytokine
+922,IL22,osteoclast,cell-cytokine
+923,IL22,regulatory T cell,cell-cytokine
+924,IL22,B cell,cell-cytokine
+925,IL22,lining cell,cell-cytokine
+926,IL22,effector T cell,cell-cytokine
+927,IL22,embryonic stem cell,cell-cytokine
+928,IL22,goblet cell,cell-cytokine
+929,IL22,fibroblast,cell-cytokine
+930,IL22,intestinal epithelial cell,cell-cytokine
+931,IL22,alveolar macrophage,cell-cytokine
+932,IL22,epithelial cell of lung,cell-cytokine
+933,IL22,"CD8-positive, alpha-beta T cell",cell-cytokine
+934,IL22,mononuclear phagocyte,cell-cytokine
+935,IL22,respiratory epithelial cell,cell-cytokine
+936,IL22,retinal pigment epithelial cell,cell-cytokine
+937,IL4,T cell,cell-cytokine
+938,IL4,B cell,cell-cytokine
+939,IL4,"CD4-positive, alpha-beta T cell",cell-cytokine
+940,IL4,T-helper 2 cell,cell-cytokine
+941,IL4,macrophage,cell-cytokine
+942,IL4,basophil,cell-cytokine
+943,IL4,lymphocyte,cell-cytokine
+944,IL4,mast cell,cell-cytokine
+945,IL4,monocyte,cell-cytokine
+946,IL4,eosinophil,cell-cytokine
+947,IL4,T-helper 1 cell,cell-cytokine
+948,IL4,"CD8-positive, alpha-beta T cell",cell-cytokine
+949,IL4,thymocyte,cell-cytokine
+950,IL4,osteoclast,cell-cytokine
+951,IL4,naive T cell,cell-cytokine
+952,IL4,alternatively activated macrophage,cell-cytokine
+953,IL4,natural killer cell,cell-cytokine
+954,IL4,helper T cell,cell-cytokine
+955,IL4,fibroblast,cell-cytokine
+956,IL4,neutrophil,cell-cytokine
+957,IL4,dendritic cell,cell-cytokine
+958,IL4,microglial cell,cell-cytokine
+959,IL4,mature NK T cell,cell-cytokine
+960,IL4,myeloid cell,cell-cytokine
+961,IL4,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+962,IL4,leukocyte,cell-cytokine
+963,IL4,memory T cell,cell-cytokine
+964,IL4,cytotoxic T cell,cell-cytokine
+965,IL4,naive B cell,cell-cytokine
+966,IL4,synovial cell,cell-cytokine
+967,IL4,inflammatory macrophage,cell-cytokine
+968,IL4,peritoneal macrophage,cell-cytokine
+969,IL4,Langerhans cell,cell-cytokine
+970,IL4,stromal cell,cell-cytokine
+971,IL4,erythroid progenitor cell,cell-cytokine
+972,IL4,hepatocyte,cell-cytokine
+973,IL4,endothelial cell,cell-cytokine
+974,IL4,granulocyte monocyte progenitor cell,cell-cytokine
+975,IL4,bronchial epithelial cell,cell-cytokine
+976,IL4,keratinocyte,cell-cytokine
+977,IL4,immature B cell,cell-cytokine
+978,IL4,astrocyte,cell-cytokine
+979,IL4,multinucleated giant cell,cell-cytokine
+980,IL4,goblet cell,cell-cytokine
+981,IL4,germinal center B cell,cell-cytokine
+982,IL4,Tc1 cell,cell-cytokine
+983,IL4,epithelial cell,cell-cytokine
+984,IL4,T-helper 17 cell,cell-cytokine
+985,IL4,bone marrow cell,cell-cytokine
+986,IL4,fat cell,cell-cytokine
+987,IL4,regulatory T cell,cell-cytokine
+988,IL4,hematopoietic stem cell,cell-cytokine
+989,IL4,megakaryocyte,cell-cytokine
+990,IL4,smooth muscle cell,cell-cytokine
+991,IL4,neuron,cell-cytokine
+992,IL4,embryonic stem cell,cell-cytokine
+993,IL4,"effector memory CD4-positive, alpha-beta T cell",cell-cytokine
+994,IL4,bone cell,cell-cytokine
+995,IL4,T-helper 9 cell,cell-cytokine
+996,IL4,odontoclast,cell-cytokine
+997,IL4,fibrocyte,cell-cytokine
+998,IL4,promyelocyte,cell-cytokine
+999,IL4,retinal cell,cell-cytokine
+1000,IL4,"CD4-positive, alpha-beta memory T cell",cell-cytokine
+1001,IL4,alveolar macrophage,cell-cytokine
+1002,IL4,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+1003,IL4,induced T-regulatory cell,cell-cytokine
+1004,IL4,myoblast,cell-cytokine
+1005,IL4,keratocyte,cell-cytokine
+1006,IL4,aortic endothelial cell,cell-cytokine
+1007,IL4,myeloid suppressor cell,cell-cytokine
+1008,IL4,basal cell,cell-cytokine
+1009,IL4,mature microglial cell,cell-cytokine
+1010,IL4,preadipocyte,cell-cytokine
+1011,IL4,"naive thymus-derived CD4-positive, alpha-beta T cell",cell-cytokine
+1012,IL4,"CD8-positive, alpha-beta regulatory T cell",cell-cytokine
+1013,IL4,pro-B cell,cell-cytokine
+1014,IL4,CD4-positive helper T cell,cell-cytokine
+1015,IL4,hippocampal neuron,cell-cytokine
+1016,IL4,follicular dendritic cell,cell-cytokine
+1017,IL4,conventional dendritic cell,cell-cytokine
+1018,EBI3,macrophage,cell-cytokine
+1019,EBI3,"CD4-positive, alpha-beta T cell",cell-cytokine
+1020,EBI3,"CD8-positive, alpha-beta T cell",cell-cytokine
+1021,IL17C,T-helper 17 cell,cell-cytokine
+1022,IL25,eosinophil,cell-cytokine
+1023,IL25,T-helper 2 cell,cell-cytokine
+1024,IL25,endothelial cell,cell-cytokine
+1025,IL25,fibroblast,cell-cytokine
+1026,IL25,macrophage,cell-cytokine
+1027,IL25,T cell,cell-cytokine
+1028,IL25,T-helper 17 cell,cell-cytokine
+1029,IL25,epithelial cell,cell-cytokine
+1030,IL25,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1031,IL25,T-helper 9 cell,cell-cytokine
+1032,IL25,plasmacytoid dendritic cell,cell-cytokine
+1033,IL25,basophil,cell-cytokine
+1034,IL25,B cell,cell-cytokine
+1035,IL25,inflammatory macrophage,cell-cytokine
+1036,IL25,vascular associated smooth muscle cell,cell-cytokine
+1037,IL25,"CD4-positive, alpha-beta T cell",cell-cytokine
+1038,IL25,T-helper 1 cell,cell-cytokine
+1039,IL25,dendritic cell,cell-cytokine
+1040,IL27,T-helper 17 cell,cell-cytokine
+1041,IL27,T cell,cell-cytokine
+1042,IL27,macrophage,cell-cytokine
+1043,IL27,T-helper 1 cell,cell-cytokine
+1044,IL27,"CD8-positive, alpha-beta T cell",cell-cytokine
+1045,IL27,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1046,IL27,neutrophil,cell-cytokine
+1047,IL27,B cell,cell-cytokine
+1048,IL27,hepatocyte,cell-cytokine
+1049,IL27,"CD4-positive, alpha-beta T cell",cell-cytokine
+1050,IL27,natural killer cell,cell-cytokine
+1051,IL27,regulatory T cell,cell-cytokine
+1052,IL27,myeloid cell,cell-cytokine
+1053,IL27,microglial cell,cell-cytokine
+1054,IL27,pneumocyte,cell-cytokine
+1055,IL27,dendritic cell,cell-cytokine
+1056,IL27,T-helper 2 cell,cell-cytokine
+1057,IL27,hematopoietic stem cell,cell-cytokine
+1058,IL27,monocyte,cell-cytokine
+1059,IL27,platelet,cell-cytokine
+1060,IL27,germinal center B cell,cell-cytokine
+1061,IL27,professional antigen presenting cell,cell-cytokine
+1062,IL27,osteoclast,cell-cytokine
+1063,IL27,Tr1 cell,cell-cytokine
+1064,IL27,helper T cell,cell-cytokine
+1065,IL27,endothelial cell,cell-cytokine
+1066,IL27,Tc17 cell,cell-cytokine
+1067,IL27,"CD8-positive, alpha-beta memory T cell",cell-cytokine
+1068,IL27,T follicular helper cell,cell-cytokine
+1069,IL27,mature NK T cell,cell-cytokine
+1070,IL27,naive T cell,cell-cytokine
+1071,IL27,osteoblast,cell-cytokine
+1072,IL27,mature B cell,cell-cytokine
+1073,IL27,mesothelial cell of pleura,cell-cytokine
+1074,IL27,cardiac muscle cell,cell-cytokine
+1075,IL27,T-helper 9 cell,cell-cytokine
+1076,IL27,eosinophil,cell-cytokine
+1077,IFNA1,leukocyte,cell-cytokine
+1078,IFNA1,"CD4-positive, alpha-beta T cell",cell-cytokine
+1079,IL18,macrophage,cell-cytokine
+1080,IL18,T cell,cell-cytokine
+1081,IL18,natural killer cell,cell-cytokine
+1082,IL18,keratinocyte,cell-cytokine
+1083,IL18,monocyte,cell-cytokine
+1084,IL18,neutrophil,cell-cytokine
+1085,IL18,T-helper 1 cell,cell-cytokine
+1086,IL18,leukocyte,cell-cytokine
+1087,IL18,"CD4-positive, alpha-beta T cell",cell-cytokine
+1088,IL18,T-helper 2 cell,cell-cytokine
+1089,IL18,dendritic cell,cell-cytokine
+1090,IL18,lymphocyte,cell-cytokine
+1091,IL18,endothelial cell,cell-cytokine
+1092,IL18,"CD8-positive, alpha-beta T cell",cell-cytokine
+1093,IL18,eosinophil,cell-cytokine
+1094,IL18,osteoblast,cell-cytokine
+1095,IL18,cardiac muscle cell,cell-cytokine
+1096,IL18,articular chondrocyte,cell-cytokine
+1097,IL18,B cell,cell-cytokine
+1098,IL18,goblet cell,cell-cytokine
+1099,IL18,cytotoxic T cell,cell-cytokine
+1100,IL18,neuron,cell-cytokine
+1101,IL18,osteoclast,cell-cytokine
+1102,IL18,mature NK T cell,cell-cytokine
+1103,IL18,hepatocyte,cell-cytokine
+1104,IL18,erythrocyte,cell-cytokine
+1105,IL18,theca cell,cell-cytokine
+1106,IL18,fibroblast,cell-cytokine
+1107,IL18,chondrocyte,cell-cytokine
+1108,IL18,epithelial cell,cell-cytokine
+1109,IL18,muscle cell,cell-cytokine
+1110,IL18,Kupffer cell,cell-cytokine
+1111,IL18,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+1112,IL18,peritoneal macrophage,cell-cytokine
+1113,IL18,glial cell,cell-cytokine
+1114,IL18,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1115,IL18,oocyte,cell-cytokine
+1116,IL18,basophil,cell-cytokine
+1117,IL18,acinar cell,cell-cytokine
+1118,IL18,early T lineage precursor,cell-cytokine
+1119,IL18,glutamatergic neuron,cell-cytokine
+1120,IL18,multinucleated giant cell,cell-cytokine
+1121,IL18,hair follicle melanocyte,cell-cytokine
+1122,IL11,stem cell,cell-cytokine
+1123,IL11,stromal cell,cell-cytokine
+1124,IL11,fibroblast,cell-cytokine
+1125,IL11,osteoblast,cell-cytokine
+1126,IL11,platelet,cell-cytokine
+1127,IL11,megakaryocyte,cell-cytokine
+1128,IL11,osteoclast,cell-cytokine
+1129,IL11,epithelial cell,cell-cytokine
+1130,IL11,B cell,cell-cytokine
+1131,IL11,erythroid progenitor cell,cell-cytokine
+1132,IL11,vascular associated smooth muscle cell,cell-cytokine
+1133,IL11,bone marrow cell,cell-cytokine
+1134,IL11,T-helper 2 cell,cell-cytokine
+1135,IL11,macrophage,cell-cytokine
+1136,IL11,cardiac muscle cell,cell-cytokine
+1137,IL11,oligodendrocyte,cell-cytokine
+1138,IL11,chondrocyte,cell-cytokine
+1139,IL11,intestinal epithelial cell,cell-cytokine
+1140,IL11,granulocyte monocyte progenitor cell,cell-cytokine
+1141,IL11,mast cell,cell-cytokine
+1142,IL17A,T cell,cell-cytokine
+1143,IL17A,T-helper 17 cell,cell-cytokine
+1144,IL17A,"CD4-positive, alpha-beta T cell",cell-cytokine
+1145,IL17A,neutrophil,cell-cytokine
+1146,IL17A,B cell,cell-cytokine
+1147,IL17A,macrophage,cell-cytokine
+1148,IL17A,leukocyte,cell-cytokine
+1149,IL17A,fat cell,cell-cytokine
+1150,IL17A,cardiac muscle cell,cell-cytokine
+1151,IL17A,"CD8-positive, alpha-beta T cell",cell-cytokine
+1152,IL17A,lymphocyte,cell-cytokine
+1153,IL17A,keratinocyte,cell-cytokine
+1154,IL17A,respiratory epithelial cell,cell-cytokine
+1155,IL17A,T-helper 1 cell,cell-cytokine
+1156,IL17A,goblet cell,cell-cytokine
+1157,IL17A,eosinophil,cell-cytokine
+1158,IL17A,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1159,IL17A,platelet,cell-cytokine
+1160,IL17A,myeloid cell,cell-cytokine
+1161,IL17A,natural killer cell,cell-cytokine
+1162,IL17A,osteoclast,cell-cytokine
+1163,IL17A,intestinal epithelial cell,cell-cytokine
+1164,IL17A,monocyte,cell-cytokine
+1165,IL17A,fibroblast,cell-cytokine
+1166,IL17A,astrocyte,cell-cytokine
+1167,IL17A,keratocyte,cell-cytokine
+1168,IL17A,epithelial cell of lung,cell-cytokine
+1169,IL17A,cytotoxic T cell,cell-cytokine
+1170,IL17A,osteoblast,cell-cytokine
+1171,IL17A,mature neutrophil,cell-cytokine
+1172,IL17A,stromal cell,cell-cytokine
+1173,IL17A,hematopoietic stem cell,cell-cytokine
+1174,IL17A,endothelial cell,cell-cytokine
+1175,IL17A,alveolar macrophage,cell-cytokine
+1176,IL17A,T-helper 2 cell,cell-cytokine
+1177,IL17A,fetal cardiomyocyte,cell-cytokine
+1178,IL17A,retinal cell,cell-cytokine
+1179,IL17A,synovial cell,cell-cytokine
+1180,IL17A,vascular associated smooth muscle cell,cell-cytokine
+1181,IL17A,glial cell,cell-cytokine
+1182,IL17A,mesenchymal cell,cell-cytokine
+1183,IL17A,type B pancreatic cell,cell-cytokine
+1184,IL17A,cardiac fibroblast,cell-cytokine
+1185,IL17A,hepatocyte,cell-cytokine
+1186,IL17A,epithelial cell,cell-cytokine
+1187,IL17A,tendon cell,cell-cytokine
+1188,IL24,melanocyte,cell-cytokine
+1189,IL24,keratinocyte,cell-cytokine
+1190,IL24,T-helper 2 cell,cell-cytokine
+1191,IL24,lymphocyte,cell-cytokine
+1192,IL24,B cell,cell-cytokine
+1193,IL24,vascular associated smooth muscle cell,cell-cytokine
+1194,IL24,embryonic stem cell,cell-cytokine
+1195,IL24,myeloid cell,cell-cytokine
+1196,IFNB1,fibroblast,cell-cytokine
+1197,IFNB1,macrophage,cell-cytokine
+1198,IFNB1,T cell,cell-cytokine
+1199,IFNB1,monocyte,cell-cytokine
+1200,IFNB1,B cell,cell-cytokine
+1201,IFNB1,natural killer cell,cell-cytokine
+1202,IFNB1,leukocyte,cell-cytokine
+1203,IFNB1,"CD4-positive, alpha-beta T cell",cell-cytokine
+1204,IFNB1,T-helper 17 cell,cell-cytokine
+1205,IFNB1,lymphocyte,cell-cytokine
+1206,IFNB1,neutrophil,cell-cytokine
+1207,IFNB1,astrocyte,cell-cytokine
+1208,IFNB1,T-helper 1 cell,cell-cytokine
+1209,IFNB1,glial cell,cell-cytokine
+1210,IFNB1,inflammatory macrophage,cell-cytokine
+1211,IFNB1,neuron,cell-cytokine
+1212,IFNB1,endothelial cell,cell-cytokine
+1213,IFNB1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1214,IFNB1,dendritic cell,cell-cytokine
+1215,IFNB1,endothelial cell of lymphatic vessel,cell-cytokine
+1216,IFNB1,osteoclast,cell-cytokine
+1217,IFNB1,epithelial cell,cell-cytokine
+1218,IFNB1,peritoneal macrophage,cell-cytokine
+1219,IFNB1,melanocyte,cell-cytokine
+1220,IFNB1,basal cell,cell-cytokine
+1221,IFNB1,"CD8-positive, alpha-beta T cell",cell-cytokine
+1222,IFNB1,epithelial cell of thymus,cell-cytokine
+1223,IFNB1,plasmacytoid dendritic cell,cell-cytokine
+1224,IFNB1,microglial cell,cell-cytokine
+1225,IFNB1,regulatory B cell,cell-cytokine
+1226,IFNB1,cytotoxic T cell,cell-cytokine
+1227,IFNB1,mature microglial cell,cell-cytokine
+1228,IFNB1,natural T-regulatory cell,cell-cytokine
+1229,IFNB1,myoblast,cell-cytokine
+1230,IFNB1,glomerular visceral epithelial cell,cell-cytokine
+1231,IFNB1,respiratory epithelial cell,cell-cytokine
+1232,IFNB1,smooth muscle cell,cell-cytokine
+1233,IFNB1,dopaminergic neuron,cell-cytokine
+1234,IFNA6,"CD8-positive, alpha-beta T cell",cell-cytokine
+1235,IFNG,T cell,cell-cytokine
+1236,IFNG,"CD8-positive, alpha-beta T cell",cell-cytokine
+1237,IFNG,natural killer cell,cell-cytokine
+1238,IFNG,"CD4-positive, alpha-beta T cell",cell-cytokine
+1239,IFNG,macrophage,cell-cytokine
+1240,IFNG,lymphocyte,cell-cytokine
+1241,IFNG,T-helper 1 cell,cell-cytokine
+1242,IFNG,monocyte,cell-cytokine
+1243,IFNG,leukocyte,cell-cytokine
+1244,IFNG,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1245,IFNG,B cell,cell-cytokine
+1246,IFNG,keratinocyte,cell-cytokine
+1247,IFNG,neutrophil,cell-cytokine
+1248,IFNG,fibroblast,cell-cytokine
+1249,IFNG,dendritic cell,cell-cytokine
+1250,IFNG,peritoneal macrophage,cell-cytokine
+1251,IFNG,endothelial cell,cell-cytokine
+1252,IFNG,eosinophil,cell-cytokine
+1253,IFNG,cytotoxic T cell,cell-cytokine
+1254,IFNG,microglial cell,cell-cytokine
+1255,IFNG,hepatocyte,cell-cytokine
+1256,IFNG,memory T cell,cell-cytokine
+1257,IFNG,neuron,cell-cytokine
+1258,IFNG,gamma-delta T cell,cell-cytokine
+1259,IFNG,epithelial cell,cell-cytokine
+1260,IFNG,mature NK T cell,cell-cytokine
+1261,IFNG,T-helper 2 cell,cell-cytokine
+1262,IFNG,effector T cell,cell-cytokine
+1263,IFNG,mast cell,cell-cytokine
+1264,IFNG,Tc1 cell,cell-cytokine
+1265,IFNG,astrocyte,cell-cytokine
+1266,IFNG,mononuclear phagocyte,cell-cytokine
+1267,IFNG,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+1268,IFNG,helper T cell,cell-cytokine
+1269,IFNG,alveolar macrophage,cell-cytokine
+1270,IFNG,"CD8-positive, alpha-beta memory T cell",cell-cytokine
+1271,IFNG,inflammatory macrophage,cell-cytokine
+1272,IFNG,hematopoietic stem cell,cell-cytokine
+1273,IFNG,cardiac muscle cell,cell-cytokine
+1274,IFNG,oligodendrocyte,cell-cytokine
+1275,IFNG,T-helper 17 cell,cell-cytokine
+1276,IFNG,osteoclast,cell-cytokine
+1277,IFNG,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+1278,IFNG,mature natural killer cell,cell-cytokine
+1279,IFNG,"CD8-positive, CD28-negative, alpha-beta regulatory T cell",cell-cytokine
+1280,IFNG,thymocyte,cell-cytokine
+1281,IFNG,mesenchymal cell,cell-cytokine
+1282,IFNG,erythrocyte,cell-cytokine
+1283,IFNG,megakaryocyte,cell-cytokine
+1284,IFNG,platelet,cell-cytokine
+1285,IFNG,granulocyte monocyte progenitor cell,cell-cytokine
+1286,IFNG,granulocyte,cell-cytokine
+1287,IFNG,erythroid progenitor cell,cell-cytokine
+1288,IFNG,Kupffer cell,cell-cytokine
+1289,IFNG,mature neutrophil,cell-cytokine
+1290,IFNG,enterocyte,cell-cytokine
+1291,IFNG,stem cell,cell-cytokine
+1292,IFNG,endothelial cell of vascular tree,cell-cytokine
+1293,IFNG,intestinal epithelial cell,cell-cytokine
+1294,IFNG,trophoblast cell,cell-cytokine
+1295,IFNG,chondrocyte,cell-cytokine
+1296,IFNG,naive T cell,cell-cytokine
+1297,IFNG,myeloid dendritic cell,cell-cytokine
+1298,IFNG,CD4-positive helper T cell,cell-cytokine
+1299,IFNG,myoblast,cell-cytokine
+1300,IFNG,mesangial cell,cell-cytokine
+1301,IFNG,respiratory epithelial cell,cell-cytokine
+1302,IFNG,smooth muscle cell,cell-cytokine
+1303,IFNG,type B pancreatic cell,cell-cytokine
+1304,IFNG,professional antigen presenting cell,cell-cytokine
+1305,IFNG,bronchial epithelial cell,cell-cytokine
+1306,IFNG,intraepithelial lymphocyte,cell-cytokine
+1307,IFNG,keratocyte,cell-cytokine
+1308,IFNG,multinucleated giant cell,cell-cytokine
+1309,IFNG,muscle cell,cell-cytokine
+1310,IFNG,goblet cell,cell-cytokine
+1311,IFNG,conventional dendritic cell,cell-cytokine
+1312,IFNG,PP cell,cell-cytokine
+1313,IFNG,stromal cell,cell-cytokine
+1314,IFNG,dendritic epidermal T cell,cell-cytokine
+1315,IFNG,Leydig cell,cell-cytokine
+1316,IFNG,mucus secreting cell,cell-cytokine
+1317,IFNG,neuronal stem cell,cell-cytokine
+1318,IFNG,mature astrocyte,cell-cytokine
+1319,IFNG,lung endothelial cell,cell-cytokine
+1320,IFNG,follicular dendritic cell,cell-cytokine
+1321,IFNG,myeloid cell,cell-cytokine
+1322,IFNG,lens epithelial cell,cell-cytokine
+1323,IFNG,epidermal cell,cell-cytokine
+1324,IFNG,germinal center B cell,cell-cytokine
+1325,IFNG,Langerhans cell,cell-cytokine
+1326,IFNG,bladder cell,cell-cytokine
+1327,IFNG,fat cell,cell-cytokine
+1328,IFNG,reticulocyte,cell-cytokine
+1329,IFNG,dopaminergic neuron,cell-cytokine
+1330,IFNG,"CD8-positive, alpha-beta thymocyte",cell-cytokine
+1331,IFNG,melanocyte,cell-cytokine
+1332,IFNG,epithelial cell of lung,cell-cytokine
+1333,IFNG,decidual natural killer cell,cell-cytokine
+1334,IFNG,interstitial cell of Cajal,cell-cytokine
+1335,IFNG,endothelial cell of lymphatic vessel,cell-cytokine
+1336,IFNG,bone marrow macrophage,cell-cytokine
+1337,IFNG,embryonic stem cell,cell-cytokine
+1338,IFNG,retinal pigment epithelial cell,cell-cytokine
+1339,IFNG,alternatively activated macrophage,cell-cytokine
+1340,IFNG,cholangiocyte,cell-cytokine
+1341,IFNG,sensory neuron,cell-cytokine
+1342,IFNG,osteoblast,cell-cytokine
+1343,IFNG,Clara cell,cell-cytokine
+1344,IFNG,regulatory T cell,cell-cytokine
+1345,IFNG,stellate cell,cell-cytokine
+1346,IFNG,immature B cell,cell-cytokine
+1347,IFNG,T-helper 9 cell,cell-cytokine
+1348,IFNG,skin fibroblast,cell-cytokine
+1349,IFNG,oncocyte,cell-cytokine
+1350,IFNG,vascular associated smooth muscle cell,cell-cytokine
+1351,IFNG,pericyte cell,cell-cytokine
+1352,IFNG,germ cell,cell-cytokine
+1353,IFNG,lining cell,cell-cytokine
+1354,IFNG,adipose macrophage,cell-cytokine
+1355,IFNG,Be cell,cell-cytokine
+1356,IFNG,"CD8-positive, alpha-beta regulatory T cell",cell-cytokine
+1357,IL1A,keratinocyte,cell-cytokine
+1358,IL1A,macrophage,cell-cytokine
+1359,IL1A,monocyte,cell-cytokine
+1360,IL1A,fibroblast,cell-cytokine
+1361,IL1A,osteoclast,cell-cytokine
+1362,IL1A,endothelial cell,cell-cytokine
+1363,IL1A,neutrophil,cell-cytokine
+1364,IL1A,epithelial cell,cell-cytokine
+1365,IL1A,T cell,cell-cytokine
+1366,IL1A,hepatocyte,cell-cytokine
+1367,IL1A,Sertoli cell,cell-cytokine
+1368,IL1A,platelet,cell-cytokine
+1369,IL1A,chondrocyte,cell-cytokine
+1370,IL1A,B cell,cell-cytokine
+1371,IL1A,stem cell,cell-cytokine
+1372,IL1A,endothelial cell of vascular tree,cell-cytokine
+1373,IL1A,leukocyte,cell-cytokine
+1374,IL1A,stromal cell,cell-cytokine
+1375,IL1A,vascular associated smooth muscle cell,cell-cytokine
+1376,IL1A,cytotoxic T cell,cell-cytokine
+1377,IL1A,natural killer cell,cell-cytokine
+1378,IL1A,acinar cell,cell-cytokine
+1379,IL1A,dopaminergic neuron,cell-cytokine
+1380,IL1A,lymphocyte,cell-cytokine
+1381,IL1A,"CD4-positive, alpha-beta T cell",cell-cytokine
+1382,IL1A,precursor B cell,cell-cytokine
+1383,IL1A,preadipocyte,cell-cytokine
+1384,IL1A,astrocyte,cell-cytokine
+1385,IL1A,hair follicle melanocyte,cell-cytokine
+1386,IL1A,stellate cell,cell-cytokine
+1387,IL1A,marrow fibroblast,cell-cytokine
+1388,IL1A,mast cell,cell-cytokine
+1389,IL1A,endothelial cell of lymphatic vessel,cell-cytokine
+1390,IL1A,Kupffer cell,cell-cytokine
+1391,IL1A,T-helper 1 cell,cell-cytokine
+1392,IL1A,helper T cell,cell-cytokine
+1393,IL1A,mesenchymal cell,cell-cytokine
+1394,HGF,epithelial cell,cell-cytokine
+1395,HGF,endothelial cell,cell-cytokine
+1396,HGF,mesenchymal cell,cell-cytokine
+1397,HGF,fibroblast,cell-cytokine
+1398,HGF,intestinal epithelial cell,cell-cytokine
+1399,HGF,stem cell,cell-cytokine
+1400,HGF,stromal cell,cell-cytokine
+1401,HGF,endothelial cell of vascular tree,cell-cytokine
+1402,HGF,melanocyte,cell-cytokine
+1403,HGF,type B pancreatic cell,cell-cytokine
+1404,HGF,neuron,cell-cytokine
+1405,HGF,neutrophil,cell-cytokine
+1406,HGF,macrophage,cell-cytokine
+1407,HGF,enteric neuron,cell-cytokine
+1408,HGF,dendritic cell,cell-cytokine
+1409,HGF,myofibroblast cell,cell-cytokine
+1410,HGF,kidney cell,cell-cytokine
+1411,HGF,osteoblast,cell-cytokine
+1412,HGF,myoblast,cell-cytokine
+1413,HGF,glomerular visceral epithelial cell,cell-cytokine
+1414,HGF,adult endothelial progenitor cell,cell-cytokine
+1415,HGF,zygote,cell-cytokine
+1416,HGF,trichogen cell,cell-cytokine
+1417,HGF,motor neuron,cell-cytokine
+1418,HGF,glomerular cell,cell-cytokine
+1419,HGF,smooth muscle myoblast,cell-cytokine
+1420,HGF,vascular associated smooth muscle cell,cell-cytokine
+1421,HGF,leukocyte,cell-cytokine
+1422,HGF,muscle cell,cell-cytokine
+1423,HGF,osteoclast,cell-cytokine
+1424,HGF,mesangial cell,cell-cytokine
+1425,HGF,hepatic stellate cell,cell-cytokine
+1426,HGF,bronchial epithelial cell,cell-cytokine
+1427,HGF,monocyte,cell-cytokine
+1428,HGF,keratinocyte,cell-cytokine
+1429,HGF,myeloid cell,cell-cytokine
+1430,HGF,enterocyte,cell-cytokine
+1431,HGF,cerebellar neuron,cell-cytokine
+1432,FGF2,endothelial cell,cell-cytokine
+1433,FGF2,neuron,cell-cytokine
+1434,FGF2,fibroblast,cell-cytokine
+1435,FGF2,osteoblast,cell-cytokine
+1436,FGF2,melanocyte,cell-cytokine
+1437,FGF2,astrocyte,cell-cytokine
+1438,FGF2,stromal cell,cell-cytokine
+1439,FGF2,smooth muscle cell,cell-cytokine
+1440,FGF2,mesenchymal cell,cell-cytokine
+1441,FGF2,myoblast,cell-cytokine
+1442,FGF2,platelet,cell-cytokine
+1443,FGF2,stem cell,cell-cytokine
+1444,FGF2,chondrocyte,cell-cytokine
+1445,FGF2,mast cell,cell-cytokine
+1446,FGF2,endothelial cell of vascular tree,cell-cytokine
+1447,FGF2,glial cell,cell-cytokine
+1448,FGF2,oligodendrocyte,cell-cytokine
+1449,FGF2,aortic endothelial cell,cell-cytokine
+1450,FGF2,keratinocyte,cell-cytokine
+1451,FGF2,osteoclast,cell-cytokine
+1452,FGF2,vascular associated smooth muscle cell,cell-cytokine
+1453,FGF2,synovial cell,cell-cytokine
+1454,FGF2,germ cell,cell-cytokine
+1455,FGF2,neuroblast (sensu Nematoda and Protostomia),cell-cytokine
+1456,FGF2,hepatocyte,cell-cytokine
+1457,FGF2,corneal endothelial cell,cell-cytokine
+1458,FGF2,oocyte,cell-cytokine
+1459,FGF2,macrophage,cell-cytokine
+1460,FGF2,neuronal stem cell,cell-cytokine
+1461,FGF2,cardiac muscle cell,cell-cytokine
+1462,FGF2,hippocampal neuron,cell-cytokine
+1463,FGF2,preadipocyte,cell-cytokine
+1464,FGF2,leukocyte,cell-cytokine
+1465,FGF2,articular chondrocyte,cell-cytokine
+1466,FGF2,epithelial cell,cell-cytokine
+1467,FGF2,endothelial cell of lymphatic vessel,cell-cytokine
+1468,FGF2,multi fate stem cell,cell-cytokine
+1469,FGF2,acinar cell,cell-cytokine
+1470,FGF2,microglial cell,cell-cytokine
+1471,FGF2,muscle cell,cell-cytokine
+1472,FGF2,vein endothelial cell,cell-cytokine
+1473,FGF2,fat cell,cell-cytokine
+1474,FGF2,hemangioblast,cell-cytokine
+1475,FGF2,lymphocyte,cell-cytokine
+1476,FGF2,adult endothelial progenitor cell,cell-cytokine
+1477,FGF2,embryonic stem cell,cell-cytokine
+1478,FGF2,capillary endothelial cell,cell-cytokine
+1479,FGF2,cementoblast,cell-cytokine
+1480,FGF2,motor neuron,cell-cytokine
+1481,FGF2,dopaminergic neuron,cell-cytokine
+1482,FGF2,smooth muscle myoblast,cell-cytokine
+1483,FGF2,osteocyte,cell-cytokine
+1484,FGF2,bone marrow cell,cell-cytokine
+1485,FGF2,myelinating Schwann cell,cell-cytokine
+1486,FGF2,preosteoblast,cell-cytokine
+1487,FGF2,melanoblast,cell-cytokine
+1488,FGF2,crystallin accumulating cell,cell-cytokine
+1489,FGF2,ependymal cell,cell-cytokine
+1490,FGF2,hepatic stellate cell,cell-cytokine
+1491,FGF2,granulosa cell,cell-cytokine
+1492,FGF2,"CD8-positive, alpha-beta T cell",cell-cytokine
+1493,FGF2,neuron of cerebral cortex,cell-cytokine
+1494,FGF2,skin fibroblast,cell-cytokine
+1495,FGF2,Sertoli cell,cell-cytokine
+1496,FGF2,oligodendrocyte precursor cell,cell-cytokine
+1497,FGF2,neural cell,cell-cytokine
+1498,FGF2,anterior cell,cell-cytokine
+1499,FGF2,trichogen cell,cell-cytokine
+1500,FGF2,cortical cell of adrenal gland,cell-cytokine
+1501,FGF2,endodermal cell,cell-cytokine
+1502,FGF2,mammotroph,cell-cytokine
+1503,FGF2,lens epithelial cell,cell-cytokine
+1504,FGF2,kidney cell,cell-cytokine
+1505,FGF2,sensory hair cell,cell-cytokine
+1506,FGF2,trophoblast cell,cell-cytokine
+1507,FGF2,erythrocyte,cell-cytokine
+1508,FGF2,dental pulp cell,cell-cytokine
+1509,FGF2,blood cell,cell-cytokine
+1510,FGF2,odontoblast,cell-cytokine
+1511,FGF2,pluripotent stem cell,cell-cytokine
+1512,FGF1,neuron,cell-cytokine
+1513,FGF1,endothelial cell,cell-cytokine
+1514,FGF1,fibroblast,cell-cytokine
+1515,FGF1,astrocyte,cell-cytokine
+1516,FGF1,hepatocyte,cell-cytokine
+1517,FGF1,ependymal cell,cell-cytokine
+1518,FGF1,macrophage,cell-cytokine
+1519,FGF1,preadipocyte,cell-cytokine
+1520,FGF1,hematopoietic stem cell,cell-cytokine
+1521,FGF1,neutrophil,cell-cytokine
+1522,FGF1,lens epithelial cell,cell-cytokine
+1523,FGF1,adult endothelial progenitor cell,cell-cytokine
+1524,FGF1,T cell,cell-cytokine
+1525,FGF1,osteoblast,cell-cytokine
+1526,FGF1,cardiac muscle cell,cell-cytokine
+1527,FGF1,mammary epithelial cell,cell-cytokine
+1528,FGF1,chondrocyte,cell-cytokine
+1529,FGF1,amacrine cell,cell-cytokine
+1530,FGF1,microglial cell,cell-cytokine
+1531,FGF1,fibroblast of outer membrane of prostatic capsule,cell-cytokine
+1532,IFNK,keratinocyte,cell-cytokine
+1533,IL12A,T cell,cell-cytokine
+1534,IL12A,B cell,cell-cytokine
+1535,IFNL1,mast cell,cell-cytokine
+1536,IFNL1,macrophage,cell-cytokine
+1537,IFNL1,hepatocyte,cell-cytokine
+1538,IFNL2,T cell,cell-cytokine
+1539,IFNL2,neutrophil,cell-cytokine
+1540,IFNL2,eosinophil,cell-cytokine
+1541,IFNL2,natural killer cell,cell-cytokine
+1542,IFNA2,leukocyte,cell-cytokine
+1543,IFNA2,T cell,cell-cytokine
+1544,IL19,macrophage,cell-cytokine
+1545,IL19,alternatively activated macrophage,cell-cytokine
+1546,IL19,keratinocyte,cell-cytokine
+1547,IL19,leukocyte,cell-cytokine
+1548,IL19,mature microglial cell,cell-cytokine
+1549,IL17B,fibroblast,cell-cytokine
+1550,IL17B,neutrophil,cell-cytokine
+1551,IL9,T-helper 9 cell,cell-cytokine
+1552,IL9,T cell,cell-cytokine
+1553,IL9,T-helper 2 cell,cell-cytokine
+1554,IL9,mast cell,cell-cytokine
+1555,IL9,eosinophil,cell-cytokine
+1556,IL9,B cell,cell-cytokine
+1557,IL9,leukocyte,cell-cytokine
+1558,IL9,T-helper 17 cell,cell-cytokine
+1559,IL9,keratinocyte,cell-cytokine
+1560,IL9,epithelial cell,cell-cytokine
+1561,IL9,goblet cell,cell-cytokine
+1562,IL9,"CD4-positive, alpha-beta T cell",cell-cytokine
+1563,IL9,B-1 B cell,cell-cytokine
+1564,IL9,Tc1 cell,cell-cytokine
+1565,IL9,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1566,IL9,neutrophil,cell-cytokine
+1567,THPO,platelet,cell-cytokine
+1568,THPO,megakaryocyte,cell-cytokine
+1569,THPO,megakaryocyte-erythroid progenitor cell,cell-cytokine
+1570,THPO,mesenchymal cell,cell-cytokine
+1571,THPO,stem cell,cell-cytokine
+1572,THPO,hematopoietic stem cell,cell-cytokine
+1573,THPO,neuron,cell-cytokine
+1574,THPO,cardiac muscle cell,cell-cytokine
+1575,THPO,blood cell,cell-cytokine
+1576,THPO,plasma cell,cell-cytokine
+1577,THPO,mast cell,cell-cytokine
+1578,THPO,hematopoietic multipotent progenitor cell,cell-cytokine
+1579,TNFSF11,osteoclast,cell-cytokine
+1580,TNFSF11,osteoblast,cell-cytokine
+1581,TNFSF11,osteocyte,cell-cytokine
+1582,TNFSF11,hypertrophic chondrocyte,cell-cytokine
+1583,TNFSF8,neutrophil,cell-cytokine
+1584,TNFSF8,B cell,cell-cytokine
+1585,TNFSF8,"CD4-positive, alpha-beta T cell",cell-cytokine
+1586,TNFSF8,mast cell,cell-cytokine
+1587,TNFSF8,eosinophil,cell-cytokine
+1588,TNFSF9,T cell,cell-cytokine
+1589,TNFSF9,"CD8-positive, alpha-beta T cell",cell-cytokine
+1590,TNFSF9,"CD4-positive, alpha-beta T cell",cell-cytokine
+1591,TNFSF9,monocyte,cell-cytokine
+1592,TNFSF9,natural killer cell,cell-cytokine
+1593,TNFSF9,B cell,cell-cytokine
+1594,TNFSF9,professional antigen presenting cell,cell-cytokine
+1595,TNFSF9,osteoclast,cell-cytokine
+1596,TNFSF9,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1597,TNFSF9,myeloid cell,cell-cytokine
+1598,TNFSF9,memory T cell,cell-cytokine
+1599,TNFSF9,leukocyte,cell-cytokine
+1600,TNFSF9,macrophage,cell-cytokine
+1601,TNFSF9,peritoneal macrophage,cell-cytokine
+1602,TNFSF9,lymphocyte,cell-cytokine
+1603,TNFSF9,dendritic cell,cell-cytokine
+1604,TNFSF9,regulatory T cell,cell-cytokine
+1605,TNFSF9,neutrophil,cell-cytokine
+1606,TNFSF9,T-helper 1 cell,cell-cytokine
+1607,TNFSF9,neuronal stem cell,cell-cytokine
+1608,TNF,macrophage,cell-cytokine
+1609,TNF,monocyte,cell-cytokine
+1610,TNF,T cell,cell-cytokine
+1611,TNF,endothelial cell,cell-cytokine
+1612,TNF,neutrophil,cell-cytokine
+1613,TNF,microglial cell,cell-cytokine
+1614,TNF,hepatocyte,cell-cytokine
+1615,TNF,leukocyte,cell-cytokine
+1616,TNF,mast cell,cell-cytokine
+1617,TNF,lymphocyte,cell-cytokine
+1618,TNF,fat cell,cell-cytokine
+1619,TNF,fibroblast,cell-cytokine
+1620,TNF,"CD4-positive, alpha-beta T cell",cell-cytokine
+1621,TNF,alveolar macrophage,cell-cytokine
+1622,TNF,neuron,cell-cytokine
+1623,TNF,keratinocyte,cell-cytokine
+1624,TNF,astrocyte,cell-cytokine
+1625,TNF,osteoclast,cell-cytokine
+1626,TNF,Kupffer cell,cell-cytokine
+1627,TNF,B cell,cell-cytokine
+1628,TNF,peritoneal macrophage,cell-cytokine
+1629,TNF,dendritic cell,cell-cytokine
+1630,TNF,epithelial cell,cell-cytokine
+1631,TNF,natural killer cell,cell-cytokine
+1632,TNF,"CD8-positive, alpha-beta T cell",cell-cytokine
+1633,TNF,cardiac muscle cell,cell-cytokine
+1634,TNF,eosinophil,cell-cytokine
+1635,TNF,synovial cell,cell-cytokine
+1636,TNF,chondrocyte,cell-cytokine
+1637,TNF,osteoblast,cell-cytokine
+1638,TNF,platelet,cell-cytokine
+1639,TNF,endothelial cell of vascular tree,cell-cytokine
+1640,TNF,mature microglial cell,cell-cytokine
+1641,TNF,glial cell,cell-cytokine
+1642,TNF,oligodendrocyte,cell-cytokine
+1643,TNF,intestinal epithelial cell,cell-cytokine
+1644,TNF,vein endothelial cell,cell-cytokine
+1645,TNF,embryonic stem cell,cell-cytokine
+1646,TNF,stromal cell,cell-cytokine
+1647,TNF,granulocyte,cell-cytokine
+1648,TNF,thymocyte,cell-cytokine
+1649,TNF,aortic endothelial cell,cell-cytokine
+1650,TNF,mature neutrophil,cell-cytokine
+1651,TNF,respiratory epithelial cell,cell-cytokine
+1652,TNF,muscle cell,cell-cytokine
+1653,TNF,preadipocyte,cell-cytokine
+1654,TNF,enterocyte,cell-cytokine
+1655,TNF,myeloid cell,cell-cytokine
+1656,TNF,myoblast,cell-cytokine
+1657,TNF,vascular associated smooth muscle cell,cell-cytokine
+1658,TNF,erythrocyte,cell-cytokine
+1659,TNF,mononuclear phagocyte,cell-cytokine
+1660,TNF,mesenchymal cell,cell-cytokine
+1661,TNF,plasmacytoid dendritic cell,cell-cytokine
+1662,TNF,alternatively activated macrophage,cell-cytokine
+1663,TNF,glomerular visceral epithelial cell,cell-cytokine
+1664,TNF,stem cell,cell-cytokine
+1665,TNF,myelinating Schwann cell,cell-cytokine
+1666,TNF,type B pancreatic cell,cell-cytokine
+1667,TNF,inflammatory macrophage,cell-cytokine
+1668,TNF,myotube,cell-cytokine
+1669,TNF,trophoblast cell,cell-cytokine
+1670,TNF,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1671,TNF,mesangial cell,cell-cytokine
+1672,TNF,conventional dendritic cell,cell-cytokine
+1673,TNF,Langerhans cell,cell-cytokine
+1674,TNF,epidermal cell,cell-cytokine
+1675,TNF,type II pneumocyte,cell-cytokine
+1676,TNF,splenic macrophage,cell-cytokine
+1677,TNF,classical monocyte,cell-cytokine
+1678,TNF,smooth muscle cell,cell-cytokine
+1679,TNF,bronchial epithelial cell,cell-cytokine
+1680,TNF,adult endothelial progenitor cell,cell-cytokine
+1681,TNF,cytotoxic T cell,cell-cytokine
+1682,TNF,epithelial cell of lung,cell-cytokine
+1683,TNF,common lymphoid progenitor,cell-cytokine
+1684,TNF,granulocyte monocyte progenitor cell,cell-cytokine
+1685,TNF,myeloid dendritic cell,cell-cytokine
+1686,TNF,gamma-delta T cell,cell-cytokine
+1687,TNF,neural cell,cell-cytokine
+1688,TNF,trichogen cell,cell-cytokine
+1689,TNF,cementoblast,cell-cytokine
+1690,TNF,melanocyte,cell-cytokine
+1691,TNF,skeletal muscle cell,cell-cytokine
+1692,TNF,hematopoietic stem cell,cell-cytokine
+1693,TNF,smooth muscle myoblast,cell-cytokine
+1694,TNF,dopaminergic neuron,cell-cytokine
+1695,TNF,sperm,cell-cytokine
+1696,TNF,granulosa cell,cell-cytokine
+1697,TNF,"CD14-positive, CD16-positive monocyte",cell-cytokine
+1698,TNF,T-helper 1 cell,cell-cytokine
+1699,TNF,goblet cell,cell-cytokine
+1700,TNF,retinal ganglion cell,cell-cytokine
+1701,TNF,germ cell,cell-cytokine
+1702,TNF,Leydig cell,cell-cytokine
+1703,TNF,enucleate erythrocyte,cell-cytokine
+1704,TNF,articular chondrocyte,cell-cytokine
+1705,TNF,brown fat cell,cell-cytokine
+1706,TNF,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+1707,TNF,Sertoli cell,cell-cytokine
+1708,TNF,hippocampal neuron,cell-cytokine
+1709,TNF,pneumocyte,cell-cytokine
+1710,TNF,kidney cell,cell-cytokine
+1711,TNF,regulatory T cell,cell-cytokine
+1712,TNF,spermatocyte,cell-cytokine
+1713,TNF,pancreatic acinar cell,cell-cytokine
+1714,TNF,effector T cell,cell-cytokine
+1715,TNF,M cell,cell-cytokine
+1716,TNF,corneal epithelial cell,cell-cytokine
+1717,TNF,granule cell,cell-cytokine
+1718,TNF,T-helper 2 cell,cell-cytokine
+1719,TNF,endothelial cell of lymphatic vessel,cell-cytokine
+1720,TNF,subcutaneous fat cell,cell-cytokine
+1721,TNF,regulatory B cell,cell-cytokine
+1722,TNF,GABAergic neuron,cell-cytokine
+1723,TNF,dental pulp cell,cell-cytokine
+1724,TNF,pro-T cell,cell-cytokine
+1725,TNF,mucus secreting cell,cell-cytokine
+1726,TNF,paneth cell,cell-cytokine
+1727,TNF,multinuclear osteoclast,cell-cytokine
+1728,TNF,Purkinje cell,cell-cytokine
+1729,TNF,mesothelial cell of pleura,cell-cytokine
+1730,TNF,myometrial cell,cell-cytokine
+1731,TNF,sensory neuron,cell-cytokine
+1732,TNF,cerebellar granule cell,cell-cytokine
+1733,TNF,gingival epithelial cell,cell-cytokine
+1734,TNF,mature NK T cell,cell-cytokine
+1735,TNF,motor neuron,cell-cytokine
+1736,TNF,"CD4-positive, alpha-beta cytotoxic T cell",cell-cytokine
+1737,TNF,B-2 B cell,cell-cytokine
+1738,TNF,acinar cell of sebaceous gland,cell-cytokine
+1739,TNF,T-helper 17 cell,cell-cytokine
+1740,TNF,naive T cell,cell-cytokine
+1741,TNF,cortical cell of adrenal gland,cell-cytokine
+1742,TNF,myeloid suppressor cell,cell-cytokine
+1743,TNF,fibrocyte,cell-cytokine
+1744,TNF,pericyte cell,cell-cytokine
+1745,TNF,plasma cell,cell-cytokine
+1746,TNF,CD1c-positive myeloid dendritic cell,cell-cytokine
+1747,TNFSF15,T cell,cell-cytokine
+1748,TNFSF15,"CD4-positive, alpha-beta T cell",cell-cytokine
+1749,TNFSF15,"CD8-positive, alpha-beta T cell",cell-cytokine
+1750,TNFSF15,induced T-regulatory cell,cell-cytokine
+1751,TNFSF15,natural killer cell,cell-cytokine
+1752,TNFSF15,endothelial cell,cell-cytokine
+1753,TNFSF15,T-helper 1 cell,cell-cytokine
+1754,TNFSF15,synovial cell,cell-cytokine
+1755,TNFSF15,B cell,cell-cytokine
+1756,TNFSF15,macrophage,cell-cytokine
+1757,TNFSF15,effector T cell,cell-cytokine
+1758,TNFSF15,endothelial cell of vascular tree,cell-cytokine
+1759,TNFSF15,leukocyte,cell-cytokine
+1760,TNFSF15,T-helper 9 cell,cell-cytokine
+1761,TNFSF13,T cell,cell-cytokine
+1762,TNFSF13,B cell,cell-cytokine
+1763,TNFSF14,promyelocyte,cell-cytokine
+1764,TNFSF14,macrophage,cell-cytokine
+1765,TNFSF14,T cell,cell-cytokine
+1766,TNFSF14,neutrophil,cell-cytokine
+1767,LTA,T cell,cell-cytokine
+1768,LTA,lymphocyte,cell-cytokine
+1769,LTA,B cell,cell-cytokine
+1770,LTA,stromal cell,cell-cytokine
+1771,LTA,"CD8-positive, alpha-beta T cell",cell-cytokine
+1772,LTA,follicular dendritic cell,cell-cytokine
+1773,LTA,natural killer cell,cell-cytokine
+1774,LTA,fibroblast,cell-cytokine
+1775,LTA,plasma cell,cell-cytokine
+1776,LTA,medullary thymic epithelial cell,cell-cytokine
+1777,LTA,M cell,cell-cytokine
+1778,TNFSF4,T cell,cell-cytokine
+1779,TNFSF4,"CD4-positive, alpha-beta T cell",cell-cytokine
+1780,TNFSF4,T-helper 2 cell,cell-cytokine
+1781,TNFSF4,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1782,TNFSF4,B cell,cell-cytokine
+1783,TNFSF4,eosinophil,cell-cytokine
+1784,TNFSF4,"CD8-positive, alpha-beta T cell",cell-cytokine
+1785,KITLG,mast cell,cell-cytokine
+1786,KITLG,stem cell,cell-cytokine
+1787,KITLG,hematopoietic stem cell,cell-cytokine
+1788,KITLG,melanocyte,cell-cytokine
+1789,KITLG,melanoblast,cell-cytokine
+1790,KITLG,erythroid progenitor cell,cell-cytokine
+1791,KITLG,germ cell,cell-cytokine
+1792,KITLG,Sertoli cell,cell-cytokine
+1793,KITLG,bone marrow cell,cell-cytokine
+1794,KITLG,hepatic stellate cell,cell-cytokine
+1795,KITLG,neuronal stem cell,cell-cytokine
+1796,KITLG,granulosa cell,cell-cytokine
+1797,KITLG,keratinocyte,cell-cytokine
+1798,KITLG,mesenchymal cell,cell-cytokine
+1799,KITLG,dendritic cell,cell-cytokine
+1800,KITLG,embryonic stem cell,cell-cytokine
+1801,CXCL12,stem cell,cell-cytokine
+1802,CXCL12,stromal cell,cell-cytokine
+1803,CXCL12,mesenchymal cell,cell-cytokine
+1804,CXCL12,T cell,cell-cytokine
+1805,CXCL12,hematopoietic stem cell,cell-cytokine
+1806,CXCL12,leukocyte,cell-cytokine
+1807,CXCL12,endothelial cell,cell-cytokine
+1808,CXCL12,platelet,cell-cytokine
+1809,CXCL12,neuron,cell-cytokine
+1810,CXCL12,lymphocyte,cell-cytokine
+1811,CXCL12,adult endothelial progenitor cell,cell-cytokine
+1812,CXCL12,osteoblast,cell-cytokine
+1813,CXCL12,neutrophil,cell-cytokine
+1814,CXCL12,fibroblast,cell-cytokine
+1815,CXCL12,"CD4-positive, alpha-beta T cell",cell-cytokine
+1816,CXCL12,interneuron,cell-cytokine
+1817,CXCL12,granule cell,cell-cytokine
+1818,CXCL12,thymocyte,cell-cytokine
+1819,CXCL12,neuroblast (sensu Nematoda and Protostomia),cell-cytokine
+1820,CXCL12,monocyte,cell-cytokine
+1821,CXCL12,B cell,cell-cytokine
+1822,CXCL12,chondrocyte,cell-cytokine
+1823,CXCL12,astrocyte,cell-cytokine
+1824,CXCL12,type B pancreatic cell,cell-cytokine
+1825,CXCL12,myeloid cell,cell-cytokine
+1826,CXCL12,macrophage,cell-cytokine
+1827,CXCL12,megakaryocyte,cell-cytokine
+1828,CXCL12,epithelial cell,cell-cytokine
+1829,CXCL12,fibrocyte,cell-cytokine
+1830,CXCL12,neuronal stem cell,cell-cytokine
+1831,CXCL12,keratinocyte,cell-cytokine
+1832,CXCL12,neural cell,cell-cytokine
+1833,CXCL12,microglial cell,cell-cytokine
+1834,CXCL12,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1835,CXCL12,glial cell,cell-cytokine
+1836,CXCL12,precursor B cell,cell-cytokine
+1837,CXCL12,T-helper 1 cell,cell-cytokine
+1838,CXCL12,plasmacytoid dendritic cell,cell-cytokine
+1839,CXCL12,granulocyte,cell-cytokine
+1840,CXCL12,osteoclast,cell-cytokine
+1841,CXCL12,mast cell,cell-cytokine
+1842,CXCL12,stellate cell,cell-cytokine
+1843,CXCL12,granulosa cell,cell-cytokine
+1844,CXCL12,enterocyte,cell-cytokine
+1845,CXCL12,germ cell,cell-cytokine
+1846,CXCL12,mesothelial cell of pleura,cell-cytokine
+1847,CXCL12,myoblast,cell-cytokine
+1848,CXCL12,oligodendrocyte,cell-cytokine
+1849,CXCL12,oocyte,cell-cytokine
+1850,CXCL12,mature CD4 single-positive thymocyte,cell-cytokine
+1851,CXCL12,odontoblast,cell-cytokine
+1852,CXCL12,glomerular visceral epithelial cell,cell-cytokine
+1853,CXCL12,cardiac muscle cell,cell-cytokine
+1854,CXCL12,bone marrow cell,cell-cytokine
+1855,CXCL12,endothelial cell of artery,cell-cytokine
+1856,CXCL12,pneumocyte,cell-cytokine
+1857,CXCL12,multi fate stem cell,cell-cytokine
+1858,CXCL12,mesothelial cell of peritoneum,cell-cytokine
+1859,CXCL12,hepatocyte,cell-cytokine
+1860,CXCL12,epithelial cell of thymus,cell-cytokine
+1861,CXCL12,"CD8-positive, alpha-beta T cell",cell-cytokine
+1862,CXCL12,endothelial cell of lymphatic vessel,cell-cytokine
+1863,TGFB3,chondrocyte,cell-cytokine
+1864,TGFB3,fibroblast,cell-cytokine
+1865,TGFB3,mesenchymal cell,cell-cytokine
+1866,TGFB3,fibrocyte,cell-cytokine
+1867,TGFB3,epithelial cell,cell-cytokine
+1868,TNFSF13B,B cell,cell-cytokine
+1869,TNFSF13B,neutrophil,cell-cytokine
+1870,TNFSF13B,T cell,cell-cytokine
+1871,TNFSF13B,T-helper 17 cell,cell-cytokine
+1872,TNFSF13B,follicular B cell,cell-cytokine
+1873,TNFSF13B,monocyte,cell-cytokine
+1874,TNFSF13B,naive B cell,cell-cytokine
+1875,RETN,fat cell,cell-cytokine
+1876,RETN,leukocyte,cell-cytokine
+1877,RETN,monocyte,cell-cytokine
+1878,RETN,endothelial cell,cell-cytokine
+1879,RETN,macrophage,cell-cytokine
+1880,RETN,preadipocyte,cell-cytokine
+1881,RETN,hematopoietic stem cell,cell-cytokine
+1882,RETN,neutrophil,cell-cytokine
+1883,RETN,platelet,cell-cytokine
+1884,RETN,adult endothelial progenitor cell,cell-cytokine
+1885,RETN,hepatocyte,cell-cytokine
+1886,RETN,sperm,cell-cytokine
+1887,RETN,vascular associated smooth muscle cell,cell-cytokine
+1888,RETN,trophoblast cell,cell-cytokine
+1889,RETN,erythrocyte,cell-cytokine
+1890,RETN,osteoblast,cell-cytokine
+1891,RETN,myoblast,cell-cytokine
+1892,RETN,aortic endothelial cell,cell-cytokine
+1893,PF4V1,endothelial cell,cell-cytokine
+1894,PDGFA,fibroblast,cell-cytokine
+1895,PDGFA,smooth muscle cell,cell-cytokine
+1896,PDGFA,oligodendrocyte,cell-cytokine
+1897,PDGFA,astrocyte,cell-cytokine
+1898,PDGFA,hepatic stellate cell,cell-cytokine
+1899,PDGFA,lens epithelial cell,cell-cytokine
+1900,PDGFA,cementoblast,cell-cytokine
+1901,PDGFA,platelet,cell-cytokine
+1902,PDGFB,pericyte cell,cell-cytokine
+1903,PDGFB,stromal cell,cell-cytokine
+1904,PDGFB,fibroblast,cell-cytokine
+1905,PDGFB,glomerular mesangial cell,cell-cytokine
+1906,PDGFB,astrocyte,cell-cytokine
+1907,PDGFB,hepatic stellate cell,cell-cytokine
+1908,PDGFB,hematopoietic stem cell,cell-cytokine
+1909,PDGFB,vascular associated smooth muscle cell,cell-cytokine
+1910,PDGFB,neuron,cell-cytokine
+1911,PDGFB,synovial cell,cell-cytokine
+1912,PF4,platelet,cell-cytokine
+1913,PF4,endothelial cell,cell-cytokine
+1914,PF4,macrophage,cell-cytokine
+1915,PF4,neutrophil,cell-cytokine
+1916,PF4,fibroblast,cell-cytokine
+1917,PF4,leukocyte,cell-cytokine
+1918,PF4,T cell,cell-cytokine
+1919,PF4,mast cell,cell-cytokine
+1920,PF4,professional antigen presenting cell,cell-cytokine
+1921,PF4,monocyte,cell-cytokine
+1922,PF4,megakaryocyte,cell-cytokine
+1923,PF4,microglial cell,cell-cytokine
+1924,PF4,neuron,cell-cytokine
+1925,PF4,stem cell,cell-cytokine
+1926,PF4,hepatic stellate cell,cell-cytokine
+1927,PF4,erythrocyte,cell-cytokine
+1928,PF4,stellate cell,cell-cytokine
+1929,PF4,hematopoietic stem cell,cell-cytokine
+1930,MIF,macrophage,cell-cytokine
+1931,MIF,leukocyte,cell-cytokine
+1932,MIF,neutrophil,cell-cytokine
+1933,MIF,lymphocyte,cell-cytokine
+1934,MIF,neuron,cell-cytokine
+1935,MIF,mature B cell,cell-cytokine
+1936,MIF,T-helper 2 cell,cell-cytokine
+1937,MIF,keratinocyte,cell-cytokine
+1938,MIF,cardiac muscle cell,cell-cytokine
+1939,MIF,neural cell,cell-cytokine
+1940,MIF,microglial cell,cell-cytokine
+1941,MIF,natural killer cell,cell-cytokine
+1942,MIF,eosinophil,cell-cytokine
+1943,LIF,embryonic stem cell,cell-cytokine
+1944,LIF,neuron,cell-cytokine
+1945,LIF,stem cell,cell-cytokine
+1946,LIF,macrophage,cell-cytokine
+1947,LIF,cardiac muscle cell,cell-cytokine
+1948,LIF,osteoclast,cell-cytokine
+1949,LIF,oligodendrocyte,cell-cytokine
+1950,LIF,neuronal stem cell,cell-cytokine
+1951,LIF,astrocyte,cell-cytokine
+1952,LIF,myoblast,cell-cytokine
+1953,LIF,Purkinje cell,cell-cytokine
+1954,LIF,oocyte,cell-cytokine
+1955,LIF,muscle cell,cell-cytokine
+1956,LIF,leukocyte,cell-cytokine
+1957,LIF,photoreceptor cell,cell-cytokine
+1958,LIF,T cell,cell-cytokine
+1959,LIF,keratinocyte,cell-cytokine
+1960,LIF,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+1961,LIF,motor neuron,cell-cytokine
+1962,CLCF1,fibroblast,cell-cytokine
+1963,CLCF1,corticotroph,cell-cytokine
+1964,CLCF1,B cell,cell-cytokine
+1965,XCL1,T cell,cell-cytokine
+1966,XCL1,"CD4-positive, alpha-beta T cell",cell-cytokine
+1967,XCL1,bone marrow cell,cell-cytokine
+1968,XCL1,microglial cell,cell-cytokine
+1969,XCL1,"CD8-positive, alpha-beta T cell",cell-cytokine
+1970,CX3CL1,leukocyte,cell-cytokine
+1971,CX3CL1,neuron,cell-cytokine
+1972,CX3CL1,natural killer cell,cell-cytokine
+1973,CX3CL1,microglial cell,cell-cytokine
+1974,CX3CL1,platelet,cell-cytokine
+1975,CX3CL1,monocyte,cell-cytokine
+1976,CX3CL1,lymphocyte,cell-cytokine
+1977,CX3CL1,astrocyte,cell-cytokine
+1978,CX3CL1,T cell,cell-cytokine
+1979,CX3CL1,macrophage,cell-cytokine
+1980,CX3CL1,mesangial cell,cell-cytokine
+1981,CX3CL1,"CD4-positive, alpha-beta T cell",cell-cytokine
+1982,CX3CL1,skeletal muscle cell,cell-cytokine
+1983,CX3CL1,endothelial cell of vascular tree,cell-cytokine
+1984,CX3CL1,osteoclast,cell-cytokine
+1985,CX3CL1,embryonic stem cell,cell-cytokine
+1986,CX3CL1,dendritic cell,cell-cytokine
+1987,CX3CL1,inflammatory macrophage,cell-cytokine
+1988,CX3CL1,plasma cell,cell-cytokine
+1989,CX3CL1,eosinophil,cell-cytokine
+1990,CX3CL1,muscle cell,cell-cytokine
+1991,TGFB1,fibroblast,cell-cytokine
+1992,TGFB1,platelet,cell-cytokine
+1993,TGFB1,T cell,cell-cytokine
+1994,TGFB1,epithelial cell,cell-cytokine
+1995,TGFB1,macrophage,cell-cytokine
+1996,TGFB1,endothelial cell,cell-cytokine
+1997,TGFB1,keratinocyte,cell-cytokine
+1998,TGFB1,hepatocyte,cell-cytokine
+1999,TGFB1,glomerular visceral epithelial cell,cell-cytokine
+2000,TGFB1,osteoblast,cell-cytokine
+2001,TGFB1,regulatory T cell,cell-cytokine
+2002,TGFB1,mast cell,cell-cytokine
+2003,TGFB1,chondrocyte,cell-cytokine
+2004,TGFB1,lymphocyte,cell-cytokine
+2005,TGFB1,"CD4-positive, alpha-beta T cell",cell-cytokine
+2006,TGFB1,mesenchymal cell,cell-cytokine
+2007,TGFB1,mesangial cell,cell-cytokine
+2008,TGFB1,monocyte,cell-cytokine
+2009,TGFB1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2010,TGFB1,stromal cell,cell-cytokine
+2011,TGFB1,astrocyte,cell-cytokine
+2012,TGFB1,microglial cell,cell-cytokine
+2013,TGFB1,cardiac fibroblast,cell-cytokine
+2014,TGFB1,osteoclast,cell-cytokine
+2015,TGFB1,B cell,cell-cytokine
+2016,TGFB1,natural killer cell,cell-cytokine
+2017,TGFB1,mesothelial cell,cell-cytokine
+2018,TGFB1,hematopoietic stem cell,cell-cytokine
+2019,TGFB1,odontoblast,cell-cytokine
+2020,TGFB1,neuron,cell-cytokine
+2021,TGFB1,stem cell,cell-cytokine
+2022,TGFB1,vascular associated smooth muscle cell,cell-cytokine
+2023,TGFB1,"CD8-positive, alpha-beta T cell",cell-cytokine
+2024,TGFB1,neutrophil,cell-cytokine
+2025,TGFB1,endothelial cell of vascular tree,cell-cytokine
+2026,TGFB1,bone marrow cell,cell-cytokine
+2027,TGFB1,myoblast,cell-cytokine
+2028,TGFB1,smooth muscle cell,cell-cytokine
+2029,TGFB1,granulosa cell,cell-cytokine
+2030,TGFB1,hepatic stellate cell,cell-cytokine
+2031,TGFB1,leukocyte,cell-cytokine
+2032,TGFB1,bronchial epithelial cell,cell-cytokine
+2033,TGFB1,muscle cell,cell-cytokine
+2034,TGFB1,pericyte cell,cell-cytokine
+2035,TGFB1,pneumocyte,cell-cytokine
+2036,TGFB1,epithelial cell of lung,cell-cytokine
+2037,TGFB1,cardiac muscle cell,cell-cytokine
+2038,TGFB1,mammary epithelial cell,cell-cytokine
+2039,TGFB1,keratocyte,cell-cytokine
+2040,TGFB1,articular chondrocyte,cell-cytokine
+2041,TGFB1,fibrocyte,cell-cytokine
+2042,TGFB1,prostate stromal cell,cell-cytokine
+2043,TGFB1,megakaryocyte,cell-cytokine
+2044,TGFB1,alveolar macrophage,cell-cytokine
+2045,TGFB1,eosinophil,cell-cytokine
+2046,TGFB1,bladder cell,cell-cytokine
+2047,TGFB1,epithelial cell of prostate,cell-cytokine
+2048,TGFB1,myeloid cell,cell-cytokine
+2049,TGFB1,endothelial cell of lymphatic vessel,cell-cytokine
+2050,TGFB1,synovial cell,cell-cytokine
+2051,TGFB1,fat cell,cell-cytokine
+2052,TGFB1,motor neuron,cell-cytokine
+2053,TGFB1,bone cell,cell-cytokine
+2054,TGFB1,embryonic stem cell,cell-cytokine
+2055,TGFB1,fibroblast of outer membrane of prostatic capsule,cell-cytokine
+2056,TGFB1,trophoblast cell,cell-cytokine
+2057,TGFB1,skin fibroblast,cell-cytokine
+2058,TGFB1,cortical cell of adrenal gland,cell-cytokine
+2059,TGFB1,cholangiocyte,cell-cytokine
+2060,TGFB1,ameloblast,cell-cytokine
+2061,TGFB1,Leydig cell,cell-cytokine
+2062,TGFB1,basal cell,cell-cytokine
+2063,TGFB1,oocyte,cell-cytokine
+2064,TGFB1,mesothelial cell of peritoneum,cell-cytokine
+2065,TGFB1,mature natural killer cell,cell-cytokine
+2066,TGFB1,melanocyte,cell-cytokine
+2067,TGFB1,dental pulp cell,cell-cytokine
+2068,TGFB1,pro-B cell,cell-cytokine
+2069,TGFB1,promonocyte,cell-cytokine
+2070,TGFB1,nasopharyngeal epithelial cell,cell-cytokine
+2071,TGFB1,stellate cell,cell-cytokine
+2072,TGFB1,acinar cell,cell-cytokine
+2073,TGFB1,basophil progenitor cell,cell-cytokine
+2074,TGFB1,muscle fibroblast,cell-cytokine
+2075,TGFB1,cytotoxic T cell,cell-cytokine
+2076,TGFB1,gingival epithelial cell,cell-cytokine
+2077,TGFB1,type II pneumocyte,cell-cytokine
+2078,TGFB1,vein endothelial cell,cell-cytokine
+2079,TGFB1,Sertoli cell,cell-cytokine
+2080,TGFB1,Langerhans cell,cell-cytokine
+2081,TGFB1,basophil,cell-cytokine
+2082,TGFB1,dopaminergic neuron,cell-cytokine
+2083,TGFB1,respiratory epithelial cell,cell-cytokine
+2084,TGFB1,kidney cell,cell-cytokine
+2085,TGFB1,cementoblast,cell-cytokine
+2086,TGFB1,T-helper 17 cell,cell-cytokine
+2087,TGFB1,T-helper 1 cell,cell-cytokine
+2088,TGFB1,effector T cell,cell-cytokine
+2089,TGFB1,oligodendrocyte,cell-cytokine
+2090,TGFB1,myotube,cell-cytokine
+2091,TGFB1,primary sensory neuron,cell-cytokine
+2092,TGFB1,mature microglial cell,cell-cytokine
+2093,TGFB1,myelinating Schwann cell,cell-cytokine
+2094,TGFB1,goblet cell,cell-cytokine
+2095,TGFB1,naive T cell,cell-cytokine
+2096,TGFB1,erythroid progenitor cell,cell-cytokine
+2097,TGFB1,preadipocyte,cell-cytokine
+2098,TGFB1,ligament cell,cell-cytokine
+2099,TGFB1,epithelioid macrophage,cell-cytokine
+2100,TGFB1,skeletal muscle cell,cell-cytokine
+2101,TGFB1,polygonal cell,cell-cytokine
+2102,TGFB1,type B pancreatic cell,cell-cytokine
+2103,TGFB1,mesodermal cell,cell-cytokine
+2104,TGFB1,neuron of cerebral cortex,cell-cytokine
+2105,TGFB1,helper T cell,cell-cytokine
+2106,TGFB1,tendon cell,cell-cytokine
+2107,TGFB1,plasmacytoid dendritic cell,cell-cytokine
+2108,TGFB1,induced T-regulatory cell,cell-cytokine
+2109,TGFB1,osteocyte,cell-cytokine
+2110,TGFB1,dendritic cell,cell-cytokine
+2111,TGFB1,aortic smooth muscle cell,cell-cytokine
+2112,TGFB1,intestinal epithelial cell,cell-cytokine
+2113,TGFA,keratinocyte,cell-cytokine
+2114,TGFA,hepatocyte,cell-cytokine
+2115,TGFA,epithelial cell,cell-cytokine
+2116,TGFA,astrocyte,cell-cytokine
+2117,TGFA,neuron,cell-cytokine
+2118,TGFA,chondrocyte,cell-cytokine
+2119,TGFA,monocyte,cell-cytokine
+2120,TGFA,fibroblast,cell-cytokine
+2121,TGFA,fibrocyte,cell-cytokine
+2122,TGFA,endothelial cell,cell-cytokine
+2123,TGFA,macrophage,cell-cytokine
+2124,TGFA,natural killer cell,cell-cytokine
+2125,TGFA,granulosa cell,cell-cytokine
+2126,TGFA,motor neuron,cell-cytokine
+2127,TGFA,articular chondrocyte,cell-cytokine
+2128,TGFA,Sertoli cell,cell-cytokine
+2129,TGFA,glial cell,cell-cytokine
+2130,TGFA,oocyte,cell-cytokine
+2131,TGFA,stromal cell,cell-cytokine
+2132,TGFA,multinucleated giant cell,cell-cytokine
+2133,TGFA,melanocyte,cell-cytokine
+2134,TGFA,auditory hair cell,cell-cytokine
+2135,TGFA,enterocyte,cell-cytokine
+2136,TGFA,embryonic cell,cell-cytokine
+2137,CKLF,myoblast,cell-cytokine
+2138,CKLF,endothelial cell,cell-cytokine
+2139,CCL3L1,eosinophil,cell-cytokine
+2140,GDF15,myelinating Schwann cell,cell-cytokine
+2141,GDF15,neuron,cell-cytokine
+2142,GDF15,cardiac muscle cell,cell-cytokine
+2143,GDF15,fibroblast,cell-cytokine
+2144,GDF15,muscle cell,cell-cytokine
+2145,GDF15,endothelial cell,cell-cytokine
+2146,GDF15,oligodendrocyte,cell-cytokine
+2147,GDF15,epithelial cell,cell-cytokine
+2148,GDF15,T cell,cell-cytokine
+2149,GDF15,macrophage,cell-cytokine
+2150,GDF15,microglial cell,cell-cytokine
+2151,GDF15,plasma cell,cell-cytokine
+2152,GDF15,embryonic stem cell,cell-cytokine
+2153,GDF15,sensory neuron,cell-cytokine
+2154,GDF15,osteoclast,cell-cytokine
+2155,GDF15,blastoderm cell,cell-cytokine
+2156,GDF15,osteocyte,cell-cytokine
+2157,GDF15,enterocyte,cell-cytokine
+2158,GDF15,neutrophil,cell-cytokine
+2159,GDF15,platelet,cell-cytokine
+2160,GDF15,mature astrocyte,cell-cytokine
+2161,GDF15,stem cell,cell-cytokine
+2162,GDF15,skeletal muscle cell,cell-cytokine
+2163,GDF15,oocyte,cell-cytokine
+2164,GDF15,neuron of cerebral cortex,cell-cytokine
+2165,GDF15,Sertoli cell,cell-cytokine
+2166,GDF15,reticulocyte,cell-cytokine
+2167,GDF15,trichogen cell,cell-cytokine
+2168,GDF15,natural killer cell,cell-cytokine
+2169,SPP1,osteoblast,cell-cytokine
+2170,SPP1,macrophage,cell-cytokine
+2171,SPP1,fibroblast,cell-cytokine
+2172,SPP1,smooth muscle cell,cell-cytokine
+2173,SPP1,leukocyte,cell-cytokine
+2174,SPP1,T cell,cell-cytokine
+2175,SPP1,osteoclast,cell-cytokine
+2176,SPP1,B cell,cell-cytokine
+2177,SPP1,mesenchymal cell,cell-cytokine
+2178,SPP1,glomerular visceral epithelial cell,cell-cytokine
+2179,SPP1,T-helper 1 cell,cell-cytokine
+2180,SPP1,"CD4-positive, alpha-beta T cell",cell-cytokine
+2181,SPP1,chondrocyte,cell-cytokine
+2182,SPP1,monocyte,cell-cytokine
+2183,SPP1,neutrophil,cell-cytokine
+2184,SPP1,endothelial cell,cell-cytokine
+2185,SPP1,cardiac fibroblast,cell-cytokine
+2186,SPP1,epithelial cell,cell-cytokine
+2187,SPP1,"CD8-positive, alpha-beta T cell",cell-cytokine
+2188,SPP1,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2189,SPP1,keratinocyte,cell-cytokine
+2190,SPP1,platelet,cell-cytokine
+2191,SPP1,cementoblast,cell-cytokine
+2192,OSM,leukocyte,cell-cytokine
+2193,OSM,macrophage,cell-cytokine
+2194,OSM,hepatocyte,cell-cytokine
+2195,OSM,astrocyte,cell-cytokine
+2196,OSM,keratinocyte,cell-cytokine
+2197,OSM,endothelial cell,cell-cytokine
+2198,OSM,stromal cell,cell-cytokine
+2199,OSM,osteoblast,cell-cytokine
+2200,OSM,synovial cell,cell-cytokine
+2201,OSM,connective tissue cell,cell-cytokine
+2202,IL34,macrophage,cell-cytokine
+2203,IL34,monocyte,cell-cytokine
+2204,IL34,inflammatory macrophage,cell-cytokine
+2205,IL34,alternatively activated macrophage,cell-cytokine
+2206,IL34,myeloid cell,cell-cytokine
+2207,IL34,microglial cell,cell-cytokine
+2208,IL34,fat cell,cell-cytokine
+2209,IL34,neutrophil,cell-cytokine
+2210,IL34,neuron,cell-cytokine
+2211,IL34,endothelial cell,cell-cytokine
+2212,IL10,T cell,cell-cytokine
+2213,IL10,macrophage,cell-cytokine
+2214,IL10,B cell,cell-cytokine
+2215,IL10,monocyte,cell-cytokine
+2216,IL10,"CD4-positive, alpha-beta T cell",cell-cytokine
+2217,IL10,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2218,IL10,lymphocyte,cell-cytokine
+2219,IL10,dendritic cell,cell-cytokine
+2220,IL10,"CD8-positive, alpha-beta T cell",cell-cytokine
+2221,IL10,leukocyte,cell-cytokine
+2222,IL10,T-helper 1 cell,cell-cytokine
+2223,IL10,regulatory B cell,cell-cytokine
+2224,IL10,neutrophil,cell-cytokine
+2225,IL10,microglial cell,cell-cytokine
+2226,IL10,Tr1 cell,cell-cytokine
+2227,IL10,regulatory T cell,cell-cytokine
+2228,IL10,T-helper 2 cell,cell-cytokine
+2229,IL10,professional antigen presenting cell,cell-cytokine
+2230,IL10,myeloid cell,cell-cytokine
+2231,IL10,alternatively activated macrophage,cell-cytokine
+2232,IL10,natural killer cell,cell-cytokine
+2233,IL10,peritoneal macrophage,cell-cytokine
+2234,IL10,induced T-regulatory cell,cell-cytokine
+2235,IL10,mast cell,cell-cytokine
+2236,IL10,plasmacytoid dendritic cell,cell-cytokine
+2237,IL10,myeloid dendritic cell,cell-cytokine
+2238,IL10,T-helper 17 cell,cell-cytokine
+2239,IL10,effector T cell,cell-cytokine
+2240,IL10,eosinophil,cell-cytokine
+2241,IL10,cytotoxic T cell,cell-cytokine
+2242,IL10,neuron,cell-cytokine
+2243,IL10,B-1 B cell,cell-cytokine
+2244,IL10,Kupffer cell,cell-cytokine
+2245,IL10,epidermal cell,cell-cytokine
+2246,IL10,B-1a B cell,cell-cytokine
+2247,IL10,adult endothelial progenitor cell,cell-cytokine
+2248,IL10,fibroblast,cell-cytokine
+2249,IL10,hematopoietic stem cell,cell-cytokine
+2250,IL10,memory B cell,cell-cytokine
+2251,IL10,epithelial cell,cell-cytokine
+2252,IL10,platelet,cell-cytokine
+2253,IL10,endothelial cell,cell-cytokine
+2254,IL10,mature microglial cell,cell-cytokine
+2255,IL10,Langerhans cell,cell-cytokine
+2256,IL10,"CD8-positive, alpha-beta regulatory T cell",cell-cytokine
+2257,IL10,gamma-delta T cell,cell-cytokine
+2258,IL10,mature neutrophil,cell-cytokine
+2259,IL10,plasma cell,cell-cytokine
+2260,IL10,bronchial epithelial cell,cell-cytokine
+2261,IL10,splenic macrophage,cell-cytokine
+2262,IL10,smooth muscle cell,cell-cytokine
+2263,IL10,conventional dendritic cell,cell-cytokine
+2264,IL10,erythrocyte,cell-cytokine
+2265,IL10,keratinocyte,cell-cytokine
+2266,IL10,granulocyte,cell-cytokine
+2267,IL10,pigmented ciliary epithelial cell,cell-cytokine
+2268,IL10,goblet cell,cell-cytokine
+2269,IL10,astrocyte,cell-cytokine
+2270,IL10,T-helper 9 cell,cell-cytokine
+2271,IL10,alveolar macrophage,cell-cytokine
+2272,IL10,osteoblast,cell-cytokine
+2273,IL10,hepatocyte,cell-cytokine
+2274,IL10,mononuclear phagocyte,cell-cytokine
+2275,IL10,tracheal epithelial cell,cell-cytokine
+2276,IL10,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+2277,IL10,mature B cell,cell-cytokine
+2278,IL10,memory T cell,cell-cytokine
+2279,IL10,embryonic stem cell,cell-cytokine
+2280,IL10,granulocyte monocyte progenitor cell,cell-cytokine
+2281,IL10,plasmablast,cell-cytokine
+2282,IL10,natural T-regulatory cell,cell-cytokine
+2283,IL10,fat cell,cell-cytokine
+2284,IL10,classical monocyte,cell-cytokine
+2285,IL10,neuronal stem cell,cell-cytokine
+2286,IL10,glial cell,cell-cytokine
+2287,IL10,naive T cell,cell-cytokine
+2288,IL10,chondrocyte,cell-cytokine
+2289,IL10,follicular dendritic cell,cell-cytokine
+2290,IL10,helper T cell,cell-cytokine
+2291,IL10,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+2292,IL10,"double-positive, alpha-beta thymocyte",cell-cytokine
+2293,IL10,osteoclast,cell-cytokine
+2294,IL10,mature NK T cell,cell-cytokine
+2295,IL10,"CD8-alpha-beta-positive, alpha-beta intraepithelial T cell",cell-cytokine
+2296,IL10,melanocyte,cell-cytokine
+2297,IL10,CD11c-low plasmacytoid dendritic cell,cell-cytokine
+2298,IL10,thymocyte,cell-cytokine
+2299,IL10,glomerular endothelial cell,cell-cytokine
+2300,IL10,cardiac muscle cell,cell-cytokine
+2301,IL12B,macrophage,cell-cytokine
+2302,IL12B,T-helper 1 cell,cell-cytokine
+2303,IL12B,T cell,cell-cytokine
+2304,IL12B,dendritic cell,cell-cytokine
+2305,IL12B,B cell,cell-cytokine
+2306,IL12B,memory B cell,cell-cytokine
+2307,IL12B,memory T cell,cell-cytokine
+2308,IL12B,Langerhans cell,cell-cytokine
+2309,IL12B,microglial cell,cell-cytokine
+2310,IL12B,neutrophil,cell-cytokine
+2311,IL12B,thymic plasmacytoid dendritic cell,cell-cytokine
+2312,IL12B,lymphocyte,cell-cytokine
+2313,IL12B,myoblast,cell-cytokine
+2314,IL12B,glial cell,cell-cytokine
+2315,CXCL8,neutrophil,cell-cytokine
+2316,CXCL8,monocyte,cell-cytokine
+2317,CXCL8,epithelial cell,cell-cytokine
+2318,CXCL8,endothelial cell,cell-cytokine
+2319,CXCL8,keratinocyte,cell-cytokine
+2320,CXCL8,macrophage,cell-cytokine
+2321,CXCL8,T cell,cell-cytokine
+2322,CXCL8,eosinophil,cell-cytokine
+2323,CXCL8,leukocyte,cell-cytokine
+2324,CXCL8,bronchial epithelial cell,cell-cytokine
+2325,CXCL8,intestinal epithelial cell,cell-cytokine
+2326,CXCL8,respiratory epithelial cell,cell-cytokine
+2327,CXCL8,fibroblast,cell-cytokine
+2328,CXCL8,mature neutrophil,cell-cytokine
+2329,CXCL8,mast cell,cell-cytokine
+2330,CXCL8,stromal cell,cell-cytokine
+2331,CXCL8,epithelial cell of lung,cell-cytokine
+2332,CXCL8,platelet,cell-cytokine
+2333,CXCL8,hepatocyte,cell-cytokine
+2334,CXCL8,alveolar macrophage,cell-cytokine
+2335,CXCL8,B cell,cell-cytokine
+2336,CXCL8,adult endothelial progenitor cell,cell-cytokine
+2337,CXCL8,mesenchymal cell,cell-cytokine
+2338,CXCL8,granulocyte,cell-cytokine
+2339,CXCL8,granulosa cell,cell-cytokine
+2340,CXCL8,enterocyte,cell-cytokine
+2341,CXCL8,neuron,cell-cytokine
+2342,CXCL8,chondrocyte,cell-cytokine
+2343,CXCL8,osteoclast,cell-cytokine
+2344,CXCL8,hematopoietic stem cell,cell-cytokine
+2345,CXCL8,astrocyte,cell-cytokine
+2346,CXCL8,lymphocyte,cell-cytokine
+2347,CXCL8,"CD4-positive, alpha-beta T cell",cell-cytokine
+2348,CXCL8,pneumocyte,cell-cytokine
+2349,CXCL8,stem cell,cell-cytokine
+2350,CXCL8,mesothelial cell,cell-cytokine
+2351,CXCL8,myeloid cell,cell-cytokine
+2352,CXCL8,basophil,cell-cytokine
+2353,CXCL8,fat cell,cell-cytokine
+2354,CXCL8,erythrocyte,cell-cytokine
+2355,CXCL8,endothelial cell of lymphatic vessel,cell-cytokine
+2356,CXCL8,epidermal cell,cell-cytokine
+2357,CXCL8,embryonic stem cell,cell-cytokine
+2358,CXCL8,urothelial cell,cell-cytokine
+2359,CXCL8,microglial cell,cell-cytokine
+2360,CXCL8,T-helper 17 cell,cell-cytokine
+2361,CXCL8,retinal pigment epithelial cell,cell-cytokine
+2362,CXCL8,dendritic cell,cell-cytokine
+2363,CXCL8,trophoblast cell,cell-cytokine
+2364,CXCL8,articular chondrocyte,cell-cytokine
+2365,CXCL8,pancreatic stellate cell,cell-cytokine
+2366,CXCL8,mature natural killer cell,cell-cytokine
+2367,CXCL8,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+2368,CXCL8,keratocyte,cell-cytokine
+2369,CXCL8,pleural macrophage,cell-cytokine
+2370,CXCL8,"CD8-positive, alpha-beta T cell",cell-cytokine
+2371,CXCL8,myoblast,cell-cytokine
+2372,CXCL8,synovial cell,cell-cytokine
+2373,CXCL8,melanocyte,cell-cytokine
+2374,CXCL8,large luteal cell,cell-cytokine
+2375,IL23A,T-helper 17 cell,cell-cytokine
+2376,IL23A,neutrophil,cell-cytokine
+2377,IL36RN,keratinocyte,cell-cytokine
+2378,IL1F10,macrophage,cell-cytokine
+2379,IL7,T cell,cell-cytokine
+2380,IL7,B cell,cell-cytokine
+2381,IL7,precursor B cell,cell-cytokine
+2382,IL7,stromal cell,cell-cytokine
+2383,IL7,"CD4-positive, alpha-beta T cell",cell-cytokine
+2384,IL7,lymphocyte,cell-cytokine
+2385,IL7,"CD8-positive, alpha-beta T cell",cell-cytokine
+2386,IL7,thymocyte,cell-cytokine
+2387,IL7,keratinocyte,cell-cytokine
+2388,IL7,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2389,IL7,naive T cell,cell-cytokine
+2390,IL7,mature T cell,cell-cytokine
+2391,IL7,leukocyte,cell-cytokine
+2392,IL7,"CD8-positive, alpha-beta memory T cell",cell-cytokine
+2393,IL7,natural killer cell,cell-cytokine
+2394,IL7,epithelial cell of thymus,cell-cytokine
+2395,IL7,pro-B cell,cell-cytokine
+2396,IL7,stem cell,cell-cytokine
+2397,IL7,gamma-delta T cell,cell-cytokine
+2398,IL7,T-helper 1 cell,cell-cytokine
+2399,IL7,chondrocyte,cell-cytokine
+2400,IL7,fibroblast,cell-cytokine
+2401,IL7,double negative thymocyte,cell-cytokine
+2402,IL7,intestinal epithelial cell,cell-cytokine
+2403,IL7,memory T cell,cell-cytokine
+2404,IL7,neuron,cell-cytokine
+2405,IL7,articular chondrocyte,cell-cytokine
+2406,IL7,bladder cell,cell-cytokine
+2407,IL7,ameloblast,cell-cytokine
+2408,IL7,cortical thymic epithelial cell,cell-cytokine
+2409,IL7,mesenchymal cell,cell-cytokine
+2410,IL7,macrophage,cell-cytokine
+2411,IL7,T-helper 17 cell,cell-cytokine
+2412,IL7,mature NK T cell,cell-cytokine
+2413,IL7,"CD22-positive, CD38-low small pre-B cell",cell-cytokine
+2414,IL7,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+2415,IL7,regulatory T cell,cell-cytokine
+2416,IL7,endothelial cell,cell-cytokine
+2417,IL7,enterocyte,cell-cytokine
+2418,IL7,peritoneal macrophage,cell-cytokine
+2419,IL7,fetal thymocyte,cell-cytokine
+2420,IL7,smooth muscle myoblast,cell-cytokine
+2421,IL7,epithelial cell,cell-cytokine
+2422,IL7,"CD4-positive, alpha-beta memory T cell",cell-cytokine
+2423,IL7,oocyte,cell-cytokine
+2424,IL7,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+2425,IL7,DN4 thymocyte,cell-cytokine
+2426,IL7,endothelial cell of lymphatic vessel,cell-cytokine
+2427,IL7,short term hematopoietic stem cell,cell-cytokine
+2428,IL7,osteoblast,cell-cytokine
+2429,IL7,"double-positive, alpha-beta thymocyte",cell-cytokine
+2430,IL20,endothelial cell,cell-cytokine
+2431,IL20,T-helper 2 cell,cell-cytokine
+2432,IL20,keratinocyte,cell-cytokine
+2433,IL20,"CD8-positive, alpha-beta T cell",cell-cytokine
+2434,IL20,osteoclast,cell-cytokine
+2435,IL3,basophil,cell-cytokine
+2436,IL3,mast cell,cell-cytokine
+2437,IL3,T cell,cell-cytokine
+2438,IL3,stem cell,cell-cytokine
+2439,IL3,megakaryocyte,cell-cytokine
+2440,IL3,platelet,cell-cytokine
+2441,IL3,bone marrow cell,cell-cytokine
+2442,IL3,granulocyte monocyte progenitor cell,cell-cytokine
+2443,IL3,neutrophil,cell-cytokine
+2444,IL3,erythroid progenitor cell,cell-cytokine
+2445,IL3,hematopoietic stem cell,cell-cytokine
+2446,IL3,osteoclast,cell-cytokine
+2447,IL3,leukocyte,cell-cytokine
+2448,IL3,eosinophil,cell-cytokine
+2449,IL3,common myeloid progenitor,cell-cytokine
+2450,IL3,lymphocyte,cell-cytokine
+2451,IL3,macrophage,cell-cytokine
+2452,IL3,keratinocyte,cell-cytokine
+2453,IL3,T-helper 2 cell,cell-cytokine
+2454,IL3,precursor B cell,cell-cytokine
+2455,IL3,endothelial cell,cell-cytokine
+2456,IL3,natural killer cell,cell-cytokine
+2457,IL3,"CD4-positive, alpha-beta T cell",cell-cytokine
+2458,IL3,B cell,cell-cytokine
+2459,IL3,monocyte,cell-cytokine
+2460,IL3,megakaryocyte progenitor cell,cell-cytokine
+2461,IL3,"CD8-positive, alpha-beta T cell",cell-cytokine
+2462,IL3,neuron,cell-cytokine
+2463,IL3,blood cell,cell-cytokine
+2464,IL3,megakaryocyte-erythroid progenitor cell,cell-cytokine
+2465,IL3,osteoblast,cell-cytokine
+2466,IL3,myeloid lineage restricted progenitor cell,cell-cytokine
+2467,IL3,dendritic cell,cell-cytokine
+2468,IL3,motor neuron,cell-cytokine
+2469,IL3,pluripotent stem cell,cell-cytokine
+2470,IL3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2471,IL3,mesenchymal cell,cell-cytokine
+2472,IL3,microglial cell,cell-cytokine
+2473,IL3,chondrocyte,cell-cytokine
+2474,IFNL3,natural killer cell,cell-cytokine
+2475,IFNL3,macrophage,cell-cytokine
+2476,IFNL3,T cell,cell-cytokine
+2477,IFNL3,hepatocyte,cell-cytokine
+2478,IFNL3,leukocyte,cell-cytokine
+2479,IFNL3,B cell,cell-cytokine
+2480,IFNL3,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2481,IFNL3,regulatory T cell,cell-cytokine
+2482,IL17F,T cell,cell-cytokine
+2483,IL17F,T-helper 17 cell,cell-cytokine
+2484,IL17F,keratinocyte,cell-cytokine
+2485,IL17F,professional antigen presenting cell,cell-cytokine
+2486,IL17F,osteoblast,cell-cytokine
+2487,IL17F,"CD4-positive, alpha-beta T cell",cell-cytokine
+2488,IL17F,neutrophil,cell-cytokine
+2489,IL17F,endothelial cell,cell-cytokine
+2490,IL17F,endothelial cell of vascular tree,cell-cytokine
+2491,IL33,eosinophil,cell-cytokine
+2492,IL33,mast cell,cell-cytokine
+2493,IL33,T-helper 2 cell,cell-cytokine
+2494,IL33,epithelial cell,cell-cytokine
+2495,IL33,"CD8-positive, alpha-beta T cell",cell-cytokine
+2496,IL33,macrophage,cell-cytokine
+2497,IL33,T cell,cell-cytokine
+2498,IL33,neutrophil,cell-cytokine
+2499,IL33,osteoclast,cell-cytokine
+2500,IL33,endothelial cell,cell-cytokine
+2501,IL33,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2502,IL33,goblet cell,cell-cytokine
+2503,IL33,astrocyte,cell-cytokine
+2504,IL33,natural killer cell,cell-cytokine
+2505,IL33,myeloid cell,cell-cytokine
+2506,IL33,fibroblast,cell-cytokine
+2507,IL33,microglial cell,cell-cytokine
+2508,IL33,fat cell,cell-cytokine
+2509,IL33,cardiac muscle cell,cell-cytokine
+2510,IL33,leukocyte,cell-cytokine
+2511,IL33,lymphocyte,cell-cytokine
+2512,IL33,dendritic cell,cell-cytokine
+2513,IL33,basophil,cell-cytokine
+2514,IL33,glial cell,cell-cytokine
+2515,IL33,alveolar macrophage,cell-cytokine
+2516,IL33,multinuclear osteoclast,cell-cytokine
+2517,IL33,stromal cell,cell-cytokine
+2518,IL33,nuocyte,cell-cytokine
+2519,IL33,mature microglial cell,cell-cytokine
+2520,IL33,fibrocyte,cell-cytokine
+2521,IL33,muscle cell,cell-cytokine
+2522,IL33,melanocyte,cell-cytokine
+2523,IL33,erythroid progenitor cell,cell-cytokine
+2524,IL33,hair follicle melanocyte,cell-cytokine
+2525,IL33,helper T cell,cell-cytokine
+2526,IL33,"CD4-positive, alpha-beta T cell",cell-cytokine
+2527,IL33,B-1 B cell,cell-cytokine
+2528,IL33,osteoblast,cell-cytokine
+2529,IL33,cholangiocyte,cell-cytokine
+2530,IL33,alternatively activated macrophage,cell-cytokine
+2531,IL1RN,monocyte,cell-cytokine
+2532,IL1RN,macrophage,cell-cytokine
+2533,IL1RN,neutrophil,cell-cytokine
+2534,IL1RN,mature neutrophil,cell-cytokine
+2535,IL1RN,hepatocyte,cell-cytokine
+2536,IL1RN,neuron,cell-cytokine
+2537,IL1RN,keratinocyte,cell-cytokine
+2538,IL1RN,leukocyte,cell-cytokine
+2539,IL1RN,T-helper 17 cell,cell-cytokine
+2540,IL1RN,mononuclear phagocyte,cell-cytokine
+2541,IL1RN,T cell,cell-cytokine
+2542,IL1RN,B cell,cell-cytokine
+2543,IL1RN,"CD4-positive, alpha-beta T cell",cell-cytokine
+2544,IL1RN,fibroblast,cell-cytokine
+2545,IL1RN,thymocyte,cell-cytokine
+2546,IL1RN,microglial cell,cell-cytokine
+2547,IL1RN,neuron of cerebral cortex,cell-cytokine
+2548,IL1RN,muscle cell,cell-cytokine
+2549,IL1RN,classical monocyte,cell-cytokine
+2550,IL1RN,pericyte cell,cell-cytokine
+2551,IL1RN,cardiac muscle cell,cell-cytokine
+2552,IL1RN,T-helper 1 cell,cell-cytokine
+2553,IL1RN,trophoblast cell,cell-cytokine
+2554,IL1RN,M cell,cell-cytokine
+2555,IL1RN,dendritic epidermal T cell,cell-cytokine
+2556,IL1RN,articular chondrocyte,cell-cytokine
+2557,IL1RN,epithelial cell,cell-cytokine
+2558,IL1RN,myelinating Schwann cell,cell-cytokine
+2559,IL1RN,Sertoli cell,cell-cytokine
+2560,IL1RN,mast cell,cell-cytokine
+2561,IL1RN,pneumocyte,cell-cytokine
+2562,IL36G,keratinocyte,cell-cytokine
+2563,IL2,T cell,cell-cytokine
+2564,IL2,lymphocyte,cell-cytokine
+2565,IL2,natural killer cell,cell-cytokine
+2566,IL2,"CD4-positive, alpha-beta T cell",cell-cytokine
+2567,IL2,B cell,cell-cytokine
+2568,IL2,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2569,IL2,mature natural killer cell,cell-cytokine
+2570,IL2,"CD8-positive, alpha-beta T cell",cell-cytokine
+2571,IL2,thymocyte,cell-cytokine
+2572,IL2,monocyte,cell-cytokine
+2573,IL2,cytotoxic T cell,cell-cytokine
+2574,IL2,helper T cell,cell-cytokine
+2575,IL2,dendritic cell,cell-cytokine
+2576,IL2,T-helper 1 cell,cell-cytokine
+2577,IL2,naive T cell,cell-cytokine
+2578,IL2,leukocyte,cell-cytokine
+2579,IL2,regulatory T cell,cell-cytokine
+2580,IL2,fibroblast,cell-cytokine
+2581,IL2,eosinophil,cell-cytokine
+2582,IL2,gamma-delta T cell,cell-cytokine
+2583,IL2,neutrophil,cell-cytokine
+2584,IL2,effector T cell,cell-cytokine
+2585,IL2,macrophage,cell-cytokine
+2586,IL2,bone marrow cell,cell-cytokine
+2587,IL2,T-helper 2 cell,cell-cytokine
+2588,IL2,mast cell,cell-cytokine
+2589,IL2,mature NK T cell,cell-cytokine
+2590,IL2,platelet,cell-cytokine
+2591,IL2,"CD8-positive, alpha-beta cytotoxic T cell",cell-cytokine
+2592,IL2,induced T-regulatory cell,cell-cytokine
+2593,IL2,erythrocyte,cell-cytokine
+2594,IL2,fetal thymocyte,cell-cytokine
+2595,IL2,oocyte,cell-cytokine
+2596,IL2,CD4-positive helper T cell,cell-cytokine
+2597,IL2,neuron,cell-cytokine
+2598,IL2,granulocyte monocyte progenitor cell,cell-cytokine
+2599,IL2,keratinocyte,cell-cytokine
+2600,IL2,endothelial cell,cell-cytokine
+2601,IL2,hippocampal neuron,cell-cytokine
+2602,IL2,T-helper 17 cell,cell-cytokine
+2603,IL2,stem cell,cell-cytokine
+2604,IL2,memory T cell,cell-cytokine
+2605,IL2,naive B cell,cell-cytokine
+2606,IL2,myeloid cell,cell-cytokine
+2607,IL2,hematopoietic stem cell,cell-cytokine
+2608,IL2,blood cell,cell-cytokine
+2609,IL2,"CD4-positive, alpha-beta memory T cell",cell-cytokine
+2610,IL2,mesothelial cell,cell-cytokine
+2611,IL2,glomerular visceral epithelial cell,cell-cytokine
+2612,IL2,"naive thymus-derived CD4-positive, alpha-beta T cell",cell-cytokine
+2613,IL2,pyramidal cell,cell-cytokine
+2614,IL2,double negative thymocyte,cell-cytokine
+2615,IL2,CD103-positive dendritic cell,cell-cytokine
+2616,IL2,microglial cell,cell-cytokine
+2617,IL2,memory B cell,cell-cytokine
+2618,IL2,decidual natural killer cell,cell-cytokine
+2619,IL2,basophil progenitor cell,cell-cytokine
+2620,IL2,type B pancreatic cell,cell-cytokine
+2621,IL2,natural T-regulatory cell,cell-cytokine
+2622,IL2,T follicular helper cell,cell-cytokine
+2623,IL6,macrophage,cell-cytokine
+2624,IL6,monocyte,cell-cytokine
+2625,IL6,fibroblast,cell-cytokine
+2626,IL6,T cell,cell-cytokine
+2627,IL6,B cell,cell-cytokine
+2628,IL6,endothelial cell,cell-cytokine
+2629,IL6,osteoblast,cell-cytokine
+2630,IL6,lymphocyte,cell-cytokine
+2631,IL6,leukocyte,cell-cytokine
+2632,IL6,neutrophil,cell-cytokine
+2633,IL6,hepatocyte,cell-cytokine
+2634,IL6,keratinocyte,cell-cytokine
+2635,IL6,platelet,cell-cytokine
+2636,IL6,osteoclast,cell-cytokine
+2637,IL6,fat cell,cell-cytokine
+2638,IL6,astrocyte,cell-cytokine
+2639,IL6,mast cell,cell-cytokine
+2640,IL6,stromal cell,cell-cytokine
+2641,IL6,"CD4-positive, alpha-beta T cell",cell-cytokine
+2642,IL6,neuron,cell-cytokine
+2643,IL6,mesenchymal cell,cell-cytokine
+2644,IL6,plasma cell,cell-cytokine
+2645,IL6,chondrocyte,cell-cytokine
+2646,IL6,megakaryocyte,cell-cytokine
+2647,IL6,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine
+2648,IL6,epithelial cell,cell-cytokine
+2649,IL6,Kupffer cell,cell-cytokine
+2650,IL6,microglial cell,cell-cytokine
+2651,IL6,oocyte,cell-cytokine
+2652,IL6,bone marrow cell,cell-cytokine
+2653,IL6,muscle cell,cell-cytokine
+2654,IL6,peritoneal macrophage,cell-cytokine
+2655,IL6,eosinophil,cell-cytokine
+2656,IL6,T-helper 17 cell,cell-cytokine
+2657,IL6,cardiac muscle cell,cell-cytokine
+2658,IL6,mesangial cell,cell-cytokine
+2659,IL6,myeloid cell,cell-cytokine
+2660,IL6,erythrocyte,cell-cytokine
+2661,IL6,enterocyte,cell-cytokine
+2662,IL6,thymocyte,cell-cytokine
+2663,IL6,sperm,cell-cytokine
+2664,IL6,splenic macrophage,cell-cytokine
+2665,IL6,glomerular visceral epithelial cell,cell-cytokine
+2666,IL6,stem cell,cell-cytokine
+2667,IL6,smooth muscle cell,cell-cytokine
+2668,IL6,natural killer cell,cell-cytokine
+2669,IL6,professional antigen presenting cell,cell-cytokine
+2670,IL6,T-helper 2 cell,cell-cytokine
+2671,IL6,granulocyte monocyte progenitor cell,cell-cytokine
+2672,IL6,alternatively activated macrophage,cell-cytokine
+2673,IL6,preadipocyte,cell-cytokine
+2674,IL6,Sertoli cell,cell-cytokine
+2675,IL6,dendritic cell,cell-cytokine
+2676,IL6,myoblast,cell-cytokine
+2677,IL6,T-helper 1 cell,cell-cytokine
+2678,IL6,"CD8-positive, alpha-beta T cell",cell-cytokine
+2679,IL6,hematopoietic stem cell,cell-cytokine
+2680,IL6,cholangiocyte,cell-cytokine
+2681,IL6,mammary epithelial cell,cell-cytokine
+2682,IL6,pericyte cell,cell-cytokine
+2683,IL6,granulosa cell,cell-cytokine
+2684,IL6,folliculostellate cell,cell-cytokine
+2685,IL6,endothelial cell of vascular tree,cell-cytokine
+2686,IL6,myeloid dendritic cell,cell-cytokine
+2687,IL6,plasmablast,cell-cytokine
+2688,IL6,hippocampal neuron,cell-cytokine
+2689,IL6,follicular dendritic cell,cell-cytokine
+2690,IL6,oligodendrocyte,cell-cytokine
+2691,IL6,motor neuron,cell-cytokine
+2692,IL6,bone cell,cell-cytokine
+2693,IL6,regulatory T cell,cell-cytokine
+2694,IL6,sensory neuron,cell-cytokine
+2695,IL6,smooth muscle myoblast,cell-cytokine
+2696,IL6,endocrine cell,cell-cytokine
+2697,IL6,B-1 B cell,cell-cytokine
+2698,IL6,cardiac fibroblast,cell-cytokine
+2699,IL6,T follicular helper cell,cell-cytokine
+2700,IL6,mesothelial cell,cell-cytokine
+2701,IL6,reticulocyte,cell-cytokine
+2702,IL6,neural cell,cell-cytokine
+2703,IL6,retinal cell,cell-cytokine
+2704,IL6,cap cell,cell-cytokine
+2705,IL6,"CD4-positive, alpha-beta intraepithelial T cell",cell-cytokine
+2706,IL6,osteocyte,cell-cytokine
+2707,IL6,melanocyte,cell-cytokine
+2708,IL6,megakaryocyte progenitor cell,cell-cytokine
+2709,IL6,myelinating Schwann cell,cell-cytokine
+2710,IL6,glial cell,cell-cytokine
+2711,IL6,"CD14-positive, CD16-positive monocyte",cell-cytokine
+2712,IL6,induced T-regulatory cell,cell-cytokine
+2713,IL6,magnocellular neurosecretory cell,cell-cytokine
+2714,IL6,helper T cell,cell-cytokine
+2715,IL6,CD4-positive helper T cell,cell-cytokine
+2716,IL6,granulocyte,cell-cytokine
+2717,IL6,mature neutrophil,cell-cytokine
+2718,IL6,hematopoietic multipotent progenitor cell,cell-cytokine
+2719,IL6,PP cell,cell-cytokine
+2720,IL6,corneal epithelial cell,cell-cytokine
+2721,IL6,adult endothelial progenitor cell,cell-cytokine
+2722,IL6,endothelial cell of lymphatic vessel,cell-cytokine
+2723,IL6,mature astrocyte,cell-cytokine
+2724,IL6,neuroendocrine cell,cell-cytokine
+2725,IL6,T-helper 22 cell,cell-cytokine
+2726,IL6,myotube,cell-cytokine
+2727,IL6,embryonic stem cell,cell-cytokine
+2728,IL6,male germ cell,cell-cytokine
+2729,IL6,multi fate stem cell,cell-cytokine
+2730,IL6,parietal cell,cell-cytokine
+2731,IL6,pneumocyte,cell-cytokine
+2732,IL6,cementoblast,cell-cytokine
+2733,IL6,effector T cell,cell-cytokine
+2734,IL6,spermatocyte,cell-cytokine
+2735,IL6,trophoblast cell,cell-cytokine
+2736,IL6,bladder cell,cell-cytokine
+2737,IL6,pluripotent stem cell,cell-cytokine
+2738,IL6,epithelial cell of prostate,cell-cytokine
+2739,IL6,neuronal stem cell,cell-cytokine
+2740,IL6,granule cell,cell-cytokine
+2741,IL6,Langerhans cell,cell-cytokine
+2742,IL6,keratocyte,cell-cytokine
+2743,IL6,aortic endothelial cell,cell-cytokine
+2744,IL6,intestinal epithelial cell,cell-cytokine
+2745,IL6,basal cell,cell-cytokine
+2746,IL6,germinal center B cell,cell-cytokine
+2747,IL6,mature microglial cell,cell-cytokine
+2748,IL6,pancreatic ductal cell,cell-cytokine
+2749,LECT2,hepatocyte,cell-cytokine
+2750,LECT2,macrophage,cell-cytokine
+2751,LECT2,endothelial cell,cell-cytokine
+2752,LECT2,neuron,cell-cytokine
+2753,LECT2,monocyte,cell-cytokine
+2754,LECT2,leukocyte,cell-cytokine
+13,IFNA,leukocyte,cell-cytokine+
+17,IL1,monocyte,cell-cytokine+
+23,IL17,T cell,cell-cytokine+
+25,IL1,macrophage,cell-cytokine+
+35,TGFB,fibroblast,cell-cytokine+
+45,IL12,T cell,cell-cytokine+
+47,IL12,macrophage,cell-cytokine+
+52,IFNA,plasmacytoid dendritic cell,cell-cytokine+
+54,IL17,T-helper 17 cell,cell-cytokine+
+56,IL17,"CD4-positive, alpha-beta T cell",cell-cytokine+
+57,TGFB,T cell,cell-cytokine+
+67,IL12,dendritic cell,cell-cytokine+
+69,IL1,thymocyte,cell-cytokine+
+71,IL12,monocyte,cell-cytokine+
+76,IL12,natural killer cell,cell-cytokine+
+81,IL1,T cell,cell-cytokine+
+86,TGFB,epithelial cell,cell-cytokine+
+89,TGFB,macrophage,cell-cytokine+
+91,TGFB,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine+
+102,IFNA,T cell,cell-cytokine+
+108,IFN1,plasmacytoid dendritic cell,cell-cytokine+
+125,IL12,"CD4-positive, alpha-beta T cell",cell-cytokine+
+136,TGFB,hepatocyte,cell-cytokine+
+139,IL1,B cell,cell-cytokine+
+143,TGFB,platelet,cell-cytokine+
+151,TGFB,chondrocyte,cell-cytokine+
+154,IL1,keratinocyte,cell-cytokine+
+158,IL1,endothelial cell,cell-cytokine+
+160,TGFB,B cell,cell-cytokine+
+163,IL17,helper T cell,cell-cytokine+
+166,TGFB,keratinocyte,cell-cytokine+
+169,IL17,neutrophil,cell-cytokine+
+173,IL17,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine+
+175,IFNA,dendritic cell,cell-cytokine+
+184,IFNA,monocyte,cell-cytokine+
+192,IL1,peritoneal macrophage,cell-cytokine+
+194,IL1,chondrocyte,cell-cytokine+
+195,IL1,neutrophil,cell-cytokine+
+206,Monocyte-CSF,granulocyte,cell-cytokine+
+216,TGFB,mesenchymal cell,cell-cytokine+
+222,IFN1,macrophage,cell-cytokine+
+241,IL17,T-helper 1 cell,cell-cytokine+
+247,IL1,fibroblast,cell-cytokine+
+256,TGFB,monocyte,cell-cytokine+
+261,IL17,"CD8-positive, alpha-beta T cell",cell-cytokine+
+264,IL1,leukocyte,cell-cytokine+
+265,TGFB,lymphocyte,cell-cytokine+
+270,IFNA,macrophage,cell-cytokine+
+280,TGFB,astrocyte,cell-cytokine+
+290,IL1,epithelial cell,cell-cytokine+
+291,IL12,professional antigen presenting cell,cell-cytokine+
+295,IL12,B cell,cell-cytokine+
+298,TGFB,leukocyte,cell-cytokine+
+300,TGFB,stromal cell,cell-cytokine+
+313,IL17,lymphocyte,cell-cytokine+
+315,TGFB,natural killer cell,cell-cytokine+
+316,TGFB,mesangial cell,cell-cytokine+
+323,TGFB,oocyte,cell-cytokine+
+342,TGFB,eosinophil,cell-cytokine+
+344,IFNA,lymphocyte,cell-cytokine+
+360,IL16,T cell,cell-cytokine+
+376,IFNA,fibroblast,cell-cytokine+
+378,IL1,mature microglial cell,cell-cytokine+
+385,IL35,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cell-cytokine+
+387,TGFB,"CD8-positive, alpha-beta T cell",cell-cytokine+
+409,IL1,neuron,cell-cytokine+
+411,TGFB,muscle cell,cell-cytokine+
+414,IFN1,dendritic cell,cell-cytokine+
+422,TGFB,induced T-regulatory cell,cell-cytokine+
+423,TGFB,glomerular visceral epithelial cell,cell-cytokine+
+424,IFNA,neutrophil,cell-cytokine+
+427,IL17,leukocyte,cell-cytokine+
+430,IL1,stromal cell,cell-cytokine+
+443,TGFB,T-helper 1 cell,cell-cytokine+
+445,IL23,macrophage,cell-cytokine+
+451,TGFB,microglial cell,cell-cytokine+
+459,IL1,osteoclast,cell-cytokine+
+461,IFN1,B cell,cell-cytokine+
+463,IL17,effector T cell,cell-cytokine+
+475,IL1,eosinophil,cell-cytokine+
+480,IFN1,leukocyte,cell-cytokine+
+485,IL17,gamma-delta T cell,cell-cytokine+
+491,TGFB,acinar cell,cell-cytokine+
+492,CCL6,epithelial cell of lung,cell-cytokine+
+495,IL12,microglial cell,cell-cytokine+
+502,IL35,regulatory T cell,cell-cytokine+
+503,IL23,monocyte,cell-cytokine+
+504,IL1,astrocyte,cell-cytokine+
+507,CCL6,T cell,cell-cytokine+
+509,TGFB,mast cell,cell-cytokine+
+523,TGFB,regulatory T cell,cell-cytokine+
+527,IL17,astrocyte,cell-cytokine+
+528,IL12,mature neutrophil,cell-cytokine+
+529,IL1,synovial cell,cell-cytokine+
+534,IL1,mononuclear phagocyte,cell-cytokine+
+537,IL12,peritoneal macrophage,cell-cytokine+
+538,TGFB,thymocyte,cell-cytokine+
+539,IL12,plasmacytoid dendritic cell,cell-cytokine+
+542,IL16,"CD4-positive, alpha-beta T cell",cell-cytokine+
+544,CCL6,lymphocyte,cell-cytokine+
+545,TGFB,cortical cell of adrenal gland,cell-cytokine+
+567,IL17,regulatory T cell,cell-cytokine+
+586,IL12,myeloid dendritic cell,cell-cytokine+
+604,IFN1,monocyte,cell-cytokine+
+609,TGFB,glomerular mesangial cell,cell-cytokine+
+615,IL1,epithelial cell of thymus,cell-cytokine+
+628,TGFB2,glial cell,cell-cytokine+
+631,IL23,microglial cell,cell-cytokine+
+645,PDGF,endothelial cell,cell-cytokine+
+647,TGFB,regulatory B cell,cell-cytokine+
+670,IFNA,bone marrow cell,cell-cytokine+
+678,IL1,Sertoli cell,cell-cytokine+
+690,IL16,eosinophil,cell-cytokine+
+695,CCL6,microglial cell,cell-cytokine+
+697,IL1,hepatocyte,cell-cytokine+
+700,IL16,bronchial epithelial cell,cell-cytokine+
+701,IL1,Leydig cell,cell-cytokine+
+710,TGFB,neuronal stem cell,cell-cytokine+
+712,IL12,bone marrow macrophage,cell-cytokine+
+713,IL1,sperm,cell-cytokine+
+715,IL12,alveolar macrophage,cell-cytokine+
+725,IFNA,epithelial cell,cell-cytokine+
+729,TGFB,zygote,cell-cytokine+
+735,IL12,memory B cell,cell-cytokine+
+737,CCL6,fat cell,cell-cytokine+
+743,IL23,lymphocyte,cell-cytokine+
+747,IL17,glial cell,cell-cytokine+
+763,IL12,epidermal cell,cell-cytokine+
+768,CCL6,neuron,cell-cytokine+
+773,IFN1,promyelocyte,cell-cytokine+
+777,IL1,Kupffer cell,cell-cytokine+
+779,IFNA,mature natural killer cell,cell-cytokine+
+784,IL1,smooth muscle cell,cell-cytokine+
+789,TGFB2,T-helper 2 cell,cell-cytokine+
+794,IFNA,thymic plasmacytoid dendritic cell,cell-cytokine+
+798,EGF,granulosa cell,cell-cytokine+
+804,IL32,B cell,cell-cytokine+
+807,IL17,microglial cell,cell-cytokine+
+812,CCL6,type II pneumocyte,cell-cytokine+
+815,IL17,natural killer cell,cell-cytokine+
+817,IL16,pneumocyte,cell-cytokine+
+820,TGF,Sertoli cell,cell-cytokine+
+823,IL1,cumulus cell,cell-cytokine+
+870,IL1,mesothelial cell of peritoneum,cell-cytokine+
+873,IL1,vascular associated smooth muscle cell,cell-cytokine+
+883,IL17,hepatocyte,cell-cytokine+
+890,CCL23,eosinophil,cell-cytokine+
+892,CCL9,macrophage,cell-cytokine+
+893,TGFB2,"double-positive, alpha-beta thymocyte",cell-cytokine+
+899,IL1,regulatory T cell,cell-cytokine+
+902,IL23,"CD4-positive, alpha-beta T cell",cell-cytokine+
+914,TGFB,articular chondrocyte,cell-cytokine+
+916,IL17,hematopoietic stem cell,cell-cytokine+
+921,IL1,type B pancreatic cell,cell-cytokine+
+929,IL17,mature NK T cell,cell-cytokine+
+932,TGFB,megakaryocyte progenitor cell,cell-cytokine+
+27,IL12,T-helper 1 cell,cytokine-cell+
+71,IFNA,natural killer cell,cytokine-cell+
+111,PDGF,fibroblast,cytokine-cell+
+117,TGFB,osteoblast,cytokine-cell+
+124,IL12,"CD8-positive, alpha-beta T cell",cytokine-cell+
+154,TGFB,osteoclast,cytokine-cell+
+189,IFNA,B cell,cytokine-cell+
+192,EGF,fibroblast,cytokine-cell+
+208,IL1,lymphocyte,cytokine-cell+
+225,PDGF,platelet,cytokine-cell+
+241,IL12,lymphocyte,cytokine-cell+
+291,TGFB,endothelial cell,cytokine-cell+
+295,EGF,epithelial cell,cytokine-cell+
+301,PDGF,smooth muscle cell,cytokine-cell+
+307,TGFB,keratocyte,cytokine-cell+
+311,TGFB,smooth muscle cell,cytokine-cell+
+318,IL12,mature NK T cell,cytokine-cell+
+329,TGFB,mammary epithelial cell,cytokine-cell+
+331,IFN1,T cell,cytokine-cell+
+340,TGFB,"CD4-positive, alpha-beta T cell",cytokine-cell+
+342,IL17,macrophage,cytokine-cell+
+343,IL17,B cell,cytokine-cell+
+371,TGFB,synovial cell,cytokine-cell+
+385,IL17,endothelial cell,cytokine-cell+
+389,IFNA,"CD8-positive, alpha-beta T cell",cytokine-cell+
+393,TGFB,hematopoietic stem cell,cytokine-cell+
+417,TGF,fibroblast,cytokine-cell+
+420,IL17,keratinocyte,cytokine-cell+
+422,TGFB,myoblast,cytokine-cell+
+437,IL17,fibroblast,cytokine-cell+
+459,IL1,osteoblast,cytokine-cell+
+462,IL17,osteoblast,cytokine-cell+
+475,IL23,T-helper 17 cell,cytokine-cell+
+477,CCL9,osteoclast,cytokine-cell+
+478,EGF,hepatocyte,cytokine-cell+
+484,TGFB,stem cell,cytokine-cell+
+490,TGFB,T-helper 17 cell,cytokine-cell+
+495,IL17,synovial cell,cytokine-cell+
+499,TGF,mesenchymal cell,cytokine-cell+
+503,IFNA,T-helper 1 cell,cytokine-cell+
+507,IL12,naive T cell,cytokine-cell+
+508,IFNA,hepatocyte,cytokine-cell+
+517,IFNA,platelet,cytokine-cell+
+523,IL12,leukocyte,cytokine-cell+
+556,IL23,osteoclast,cytokine-cell+
+561,CCL9,hepatocyte,cytokine-cell+
+574,TGFB,myeloid cell,cytokine-cell+
+595,IFN1,natural killer cell,cytokine-cell+
+598,IL1,mesangial cell,cytokine-cell+
+612,IFN1,T-helper 1 cell,cytokine-cell+
+616,TGFB2,endothelial cell,cytokine-cell+
+626,TGFB,skin fibroblast,cytokine-cell+
+643,IL17,neuron,cytokine-cell+
+648,PDGF,mesangial cell,cytokine-cell+
+651,CCL9,"CD4-positive, alpha-beta T cell",cytokine-cell+
+668,IFNA,stromal cell,cytokine-cell+
+685,TGFB,mesothelial cell,cytokine-cell+
+686,EGF,chondrocyte,cytokine-cell+
+687,IL23,T cell,cytokine-cell+
+688,TGFB,cardiac muscle cell,cytokine-cell+
+690,TGFB,neuron,cytokine-cell+
+703,PDGF,vascular associated smooth muscle cell,cytokine-cell+
+704,IL12,helper T cell,cytokine-cell+
+707,EGF,epidermal cell,cytokine-cell+
+715,IL1,bone marrow cell,cytokine-cell+
+725,IL12,T-helper 2 cell,cytokine-cell+
+738,TGFB,T-helper 2 cell,cytokine-cell+
+751,TGFB2,fibroblast,cytokine-cell+
+760,IL12,cytotoxic T cell,cytokine-cell+
+763,IFNA,megakaryocyte,cytokine-cell+
+765,EGF,smooth muscle cell,cytokine-cell+
+766,IL1,granulocyte,cytokine-cell+
+786,IFNA,memory T cell,cytokine-cell+
+789,TGFB2,neuron,cytokine-cell+
+802,TGFB,lens epithelial cell,cytokine-cell+
+805,TGFB,aortic endothelial cell,cytokine-cell+
+811,TGFB,pancreatic acinar cell,cytokine-cell+
+833,IFN1,lymphocyte,cytokine-cell+
+849,EGF,mammary epithelial cell,cytokine-cell+
+852,EGF,neuronal stem cell,cytokine-cell+
+857,TGFB,embryonic stem cell,cytokine-cell+
+858,IFN1,"CD4-positive, alpha-beta T cell",cytokine-cell+
+862,IL23,neutrophil,cytokine-cell+
+864,IFN1,neuron,cytokine-cell+
+874,PDGF,adult endothelial progenitor cell,cytokine-cell+
+875,IFNA,naive T cell,cytokine-cell+
+880,IL32,eosinophil,cytokine-cell+
+885,IFNA,granulocyte monocyte progenitor cell,cytokine-cell+
+887,IFN1,myeloid dendritic cell,cytokine-cell+
+891,TGFB,vascular associated smooth muscle cell,cytokine-cell+
+902,TGFB,epithelial cell of lung,cytokine-cell+
+903,IFNA,granulocyte,cytokine-cell+
+909,IL12,stem cell,cytokine-cell+
+910,IL12,"CD8-positive, alpha-beta cytotoxic T cell",cytokine-cell+
+911,IL17,monocyte,cytokine-cell+
+925,TGFB2,osteoclast,cytokine-cell+
+927,IFNA,"CD4-positive, alpha-beta T cell",cytokine-cell+
+942,IFNA,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cytokine-cell+
+947,IFNA,cytotoxic T cell,cytokine-cell+
+951,IL12,T-helper 17 cell,cytokine-cell+
+957,TGFB,connective tissue cell,cytokine-cell+
+961,IL1,T-helper 2 cell,cytokine-cell+
+982,IL17,mesenchymal cell,cytokine-cell+
+997,IL17,bronchial epithelial cell,cytokine-cell+
+1004,TGFB,bladder cell,cytokine-cell+
+1018,TGF,lymphocyte,cytokine-cell+
+1030,LECT1,endothelial cell,cytokine-cell+
+1037,IL1,alveolar macrophage,cytokine-cell+
+1041,TGFB,"CD4-positive, alpha-beta intraepithelial T cell",cytokine-cell+
+1043,PDGF,aortic smooth muscle cell,cytokine-cell+
+1058,PDGF,macrophage,cytokine-cell+
+1063,PDGF,neuron,cytokine-cell+
+1064,IL17,dendritic cell,cytokine-cell+
+1067,TGFB2,keratinocyte,cytokine-cell+
+1080,TGFB,neutrophil,cytokine-cell+
+1086,IL12,mature natural killer cell,cytokine-cell+
+1089,IL23,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cytokine-cell+
+1092,TGFB,pneumocyte,cytokine-cell+
+1094,IL12,eosinophil,cytokine-cell+
+1096,IL1,natural killer cell,cytokine-cell+
+1123,TGFB,oligodendrocyte,cytokine-cell+
+1124,TGFB,trophoblast cell,cytokine-cell+
+1129,TGFB,melanocyte,cytokine-cell+
+1142,IL1,articular chondrocyte,cytokine-cell+
+1157,IL12,Tc17 cell,cytokine-cell+
+1165,PDGF,muscle cell,cytokine-cell+
+1172,IL23,eosinophil,cytokine-cell+
+1174,PDGF,fibrocyte,cytokine-cell+
+1185,IFN1,cumulus cell,cytokine-cell+
+1186,IL12,effector T cell,cytokine-cell+
+1196,IL32,fat cell,cytokine-cell+
+1201,TGFB,mesothelial cell of peritoneum,cytokine-cell+
+1202,LECT1,B cell,cytokine-cell+
+1203,TGFB,bone marrow cell,cytokine-cell+
+1204,CCL6,"CD4-positive, alpha-beta T cell",cytokine-cell+
+1208,IL23,stromal cell,cytokine-cell+
+1214,IL1,mast cell,cytokine-cell+
+1221,IFNA,T-helper 2 cell,cytokine-cell+
+1227,EGF,bone marrow cell,cytokine-cell+
+1235,IFNA,long term hematopoietic stem cell,cytokine-cell+
+1252,IFNA,induced T-regulatory cell,cytokine-cell+
+1257,IFNA,eosinophil,cytokine-cell+
+1260,TGFB2,mesenchymal cell,cytokine-cell+
+1281,CCL6,endothelial cell,cytokine-cell+
+1283,IFN1,gamma-delta T cell,cytokine-cell+
+1284,TGFB2,T-helper 1 cell,cytokine-cell+
+1292,IL12,muscle cell,cytokine-cell+
+1294,IFN1,"CD8-positive, alpha-beta T cell",cytokine-cell+
+1300,CCL6,mast cell,cytokine-cell+
+1302,TGFB,fat cell,cytokine-cell+
+1303,IL1,stem cell,cytokine-cell+
+1305,PDGF,cementoblast,cytokine-cell+
+1309,IL16,monocyte,cytokine-cell+
+1310,TGF,odontoblast,cytokine-cell+
+1319,TGFB,trabecular meshwork cell,cytokine-cell+
+1330,IL17,cytotoxic T cell,cytokine-cell+
+1333,EGF,mesothelial cell,cytokine-cell+
+1347,IL17,stem cell,cytokine-cell+
+1348,IFNA,hematopoietic stem cell,cytokine-cell+
+1349,IL17,type II pneumocyte,cytokine-cell+
+1369,TGFB,white fat cell,cytokine-cell+
+1371,TGF,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cytokine-cell+
+1378,IL12,regulatory T cell,cytokine-cell+
+1382,IL12,neutrophil,cytokine-cell+
+1386,IL1,hematopoietic stem cell,cytokine-cell+
+1389,IFNA,memory B cell,cytokine-cell+
+1391,IL23,"CD8-positive, alpha-beta T cell",cytokine-cell+
+1407,Monocyte-CSF,T cell,cytokine-cell+
+1408,IFNA,T-helper 17 cell,cytokine-cell+
+1410,TGF,mammary epithelial cell,cytokine-cell+
+1411,IL23,epithelial cell,cytokine-cell+
+1412,IL1,hematopoietic multipotent progenitor cell,cytokine-cell+
+1414,IFNA,type B pancreatic cell,cytokine-cell+
+1438,IL32,neutrophil,cytokine-cell+
+1440,PDGF,pericyte cell,cytokine-cell+
+1442,IL17,platelet,cytokine-cell+
+1458,TGFB2,endothelial cell of lymphatic vessel,cytokine-cell+
+1464,TGFB,T-helper 22 cell,cytokine-cell+
+1472,TGFB,pericyte cell,cytokine-cell+
+1479,PDGF,aortic endothelial cell,cytokine-cell+
+1484,TGF,regulatory T cell,cytokine-cell+
+1487,IFN1,hepatocyte,cytokine-cell+
+1493,IFNA,epithelial cell of lung,cytokine-cell+
+1500,EGF,neuron,cytokine-cell+
+1501,TGFB,effector T cell,cytokine-cell+
+1508,IL1,epidermal cell,cytokine-cell+
+1510,TGFB,kidney cell,cytokine-cell+
+1513,IL17,eosinophil,cytokine-cell+
+1522,TGFB,granulosa cell,cytokine-cell+
+1536,IL23,helper T cell,cytokine-cell+
+1537,IL1,T-helper 1 cell,cytokine-cell+
+1544,TGFB2,neuron of cerebral cortex,cytokine-cell+
+1548,TGFB2,T cell,cytokine-cell+
+1557,TGFB,myelinating Schwann cell,cytokine-cell+
+1561,TGFB,peritoneal macrophage,cytokine-cell+
+1585,IL32,macrophage,cytokine-cell+
+1603,IL32,bronchial epithelial cell,cytokine-cell+
+1609,IL17,stellate cell,cytokine-cell+
+1613,CCL9,bone marrow cell,cytokine-cell+
+1624,EGF,type B pancreatic cell,cytokine-cell+
+1637,IL32,"CD4-positive, alpha-beta T cell",cytokine-cell+
+1643,IL35,"CD8-positive, alpha-beta T cell",cytokine-cell+
+1649,TDGF1P3,myoblast,cytokine-cell+
+1659,IL1,cardiac muscle cell,cytokine-cell+
+1660,IFNA,neuron,cytokine-cell+
+1661,IL17,ligament cell,cytokine-cell+
+1664,IL1,glial cell,cytokine-cell+
+1667,IL16,macrophage,cytokine-cell+
+1680,IL17,osteoclast,cytokine-cell+
+1681,IL1,plasma cell,cytokine-cell+
+1683,TGFB,respiratory epithelial cell,cytokine-cell+
+1685,PDGF,osteoblast,cytokine-cell+
+1686,TGFB,erythroblast,cytokine-cell+
+1697,EGF,sperm,cytokine-cell+
+1703,TGFB,skeletal muscle cell,cytokine-cell+
+1704,TDGF1P3,stem cell,cytokine-cell+
+1706,IL23,T-helper 22 cell,cytokine-cell+
+1710,TGFB2,macrophage,cytokine-cell+
+1712,IL23,cardiac fibroblast,cytokine-cell+
+1730,TGFB,"CD8-positive, alpha-beta memory T cell",cytokine-cell+
+1731,EGF,platelet,cytokine-cell+
+1732,IL23,skin fibroblast,cytokine-cell+
+1733,PDGF,hematopoietic stem cell,cytokine-cell+
+1752,TGFB,aortic smooth muscle cell,cytokine-cell+
+1754,IFNA,type I pneumocyte,cytokine-cell+
+1768,IL32,natural killer cell,cytokine-cell+
+1770,TGFB,pancreatic stellate cell,cytokine-cell+
+1785,IL17,dental pulp cell,cytokine-cell+
+1793,IFN1,epithelial cell,cytokine-cell+
+1794,IL17,mast cell,cytokine-cell+
+1801,TGF,epithelial cell of prostate,cytokine-cell+
+1803,TGFB,gamma-delta T cell,cytokine-cell+
+1808,IL17,fat cell,cytokine-cell+
+1812,TGFB,Leydig cell,cytokine-cell+
+1814,IL1,neural cell,cytokine-cell+
+1819,EGF,T cell,cytokine-cell+
+1821,IL17,endothelial cell of lymphatic vessel,cytokine-cell+
+1824,IL23,T-helper 1 cell,cytokine-cell+
+1828,TGFB,brown fat cell,cytokine-cell+
+1830,IFNA,oligodendrocyte,cytokine-cell+
+1835,TGFB,prostate stromal cell,cytokine-cell+
+1849,TGFB,neural cell,cytokine-cell+
+1853,IL1,intestinal epithelial cell,cytokine-cell+
+1856,IFNA,professional antigen presenting cell,cytokine-cell+
+1857,TGFB2,epithelial cell,cytokine-cell+
+1861,IL32,T-helper 1 cell,cytokine-cell+
+1871,IFNA,plasma cell,cytokine-cell+
+1874,IL23,B cell,cytokine-cell+
+1875,IFNA,astrocyte,cytokine-cell+
+1879,EGF,stromal cell,cytokine-cell+
+1882,TGFB2,mammary epithelial cell,cytokine-cell+
+1898,CCL6,fibroblast,cytokine-cell+
+1899,IL32,T cell,cytokine-cell+
+1906,IL1,myeloid cell,cytokine-cell+
+1911,TGF,lens epithelial cell,cytokine-cell+
+1914,IL17,epithelial cell,cytokine-cell+
+1917,TGFB2,chondrocyte,cytokine-cell+
+1924,IFNA,stem cell,cytokine-cell+
+1926,IFNA,myeloid dendritic cell,cytokine-cell+
+1937,CCL23,monocyte,cytokine-cell+
+1939,IL23,natural killer cell,cytokine-cell+
+1949,EGF,lymphocyte,cytokine-cell+
+1950,TGFB,cardiac fibroblast,cytokine-cell+
+1953,IL35,B cell,cytokine-cell+
+1957,TGFB,enterocyte,cytokine-cell+
+1975,IL32,glial cell,cytokine-cell+
+2000,IFNA,bladder cell,cytokine-cell+
+2001,IL1,type II pneumocyte,cytokine-cell+
+2002,IL17,alternatively activated macrophage,cytokine-cell+
+2004,TGFB2,astrocyte,cytokine-cell+
+2008,TGFB2,peritoneal macrophage,cytokine-cell+
+2016,TGFB,bone cell,cytokine-cell+
+2027,IL17,stromal cell,cytokine-cell+
+2031,CCL6,intestinal epithelial cell,cytokine-cell+
+2049,TGFB,crypt olfactory receptor neuron,cytokine-cell+
+2053,PDGF,mesenchymal cell,cytokine-cell+
+2075,TGFB,alternatively activated macrophage,cytokine-cell+
+2079,TGFB,subcutaneous fat cell,cytokine-cell+
+2122,TGFB,megakaryocyte,cytokine-cell+
+2128,TGFB,epiblast cell,cytokine-cell+
+2131,TGFB,germ cell,cytokine-cell+
+2141,CCL6,hematopoietic stem cell,cytokine-cell+
+2144,IL17,lung endothelial cell,cytokine-cell+
+2156,CCL23,endothelial cell,cytokine-cell+
+2160,TGFB2,stem cell,cytokine-cell+
+2161,TGFB,folliculostellate cell,cytokine-cell+
+2174,TGFB,dendritic cell,cytokine-cell+
+2176,IL1,granulocyte monocyte progenitor cell,cytokine-cell+
+2177,TGFB,hepatic stellate cell,cytokine-cell+
+2201,IL17,endothelial cell of vascular tree,cytokine-cell+
+2206,EGF,natural killer cell,cytokine-cell+
+2211,IL12,bone marrow cell,cytokine-cell+
+2217,IFN1,erythrocyte,cytokine-cell+
+2226,TGF,epithelial cell,cytokine-cell+
+2229,EGF,bladder cell,cytokine-cell+
+2231,IFN1,hematopoietic stem cell,cytokine-cell+
+2236,TGFB,odontoblast,cytokine-cell+
+2256,IFNA,endothelial cell,cytokine-cell+
+2257,TGFB,enucleate erythrocyte,cytokine-cell+
+2260,IL12,thymocyte,cytokine-cell+
+2262,TDGF1P3,embryonic stem cell,cytokine-cell+
+220,IL12,osteoclast,cytokine-cell-
+261,IL35,T-helper 17 cell,cytokine-cell-
+264,IL16,lymphocyte,cytokine-cell-
+294,TGFB,epithelial cell of prostate,cytokine-cell-
+304,IL23,regulatory T cell,cytokine-cell-
+374,IL1,fat cell,cytokine-cell-
+398,EGF,keratinocyte,cytokine-cell-
+529,CCL6,leukocyte,cytokine-cell-
+540,IL1,"CD4-positive, alpha-beta T cell",cytokine-cell-
+546,IL35,dendritic cell,cytokine-cell-
+551,IL12,endothelial cell,cytokine-cell-
+588,TGFB2,leukocyte,cytokine-cell-
+613,IFNA,fat cell,cytokine-cell-
+654,TGFB,"CD8-positive, alpha-beta cytotoxic T cell",cytokine-cell-
+655,TGFB,bronchial epithelial cell,cytokine-cell-
+675,IL35,"CD4-positive, alpha-beta T cell",cytokine-cell-
+680,IL32,dendritic cell,cytokine-cell-
+688,IFN1,erythroid lineage cell,cytokine-cell-
+689,IL12,blood cell,cytokine-cell-
+693,IL17,memory T cell,cytokine-cell-
+707,EGF,oocyte,cytokine-cell-
+716,IL35,T cell,cytokine-cell-
+718,IL17,induced T-regulatory cell,cytokine-cell-
+760,TGFB,glial cell,cytokine-cell-
+770,IFN1,platelet,cytokine-cell-
+801,TGF,"CD4-positive, alpha-beta T cell",cytokine-cell-
+803,TGFB,parietal cell,cytokine-cell-
+823,CCL9,fat cell,cytokine-cell-
+832,TGFB,smooth muscle myoblast,cytokine-cell-
+840,TGFB,mature natural killer cell,cytokine-cell-
+843,EGF,fat cell,cytokine-cell-
+850,TGF,T cell,cytokine-cell-
+864,IFNA,trophoblast cell,cytokine-cell-
+887,TGFB,double negative thymocyte,cytokine-cell-
+904,IL17,myotube,cytokine-cell-
+906,IL17,epidermal cell,cytokine-cell-
+911,IL12,decidual natural killer cell,cytokine-cell-
+917,IL12,mast cell,cytokine-cell-
+919,IL17,myoblast,cytokine-cell-
+921,TGFB2,epithelial cell of lung,cytokine-cell-
+934,TGFB,mature NK T cell,cytokine-cell-
+958,TGFB2,"CD8-positive, alpha-beta T cell",cytokine-cell-
+970,IL35,endothelial cell,cytokine-cell-
+985,TGFB,endothelial cell of lymphatic vessel,cytokine-cell-
+998,TGFB2,retinal ganglion cell,cytokine-cell-
+1004,IL12,type B pancreatic cell,cytokine-cell-
+1028,TGFB,sensory epithelial cell,cytokine-cell-
+1074,TGFB2,osteoblast,cytokine-cell-
+1075,TGFB,epidermal cell,cytokine-cell-
+1118,IFNA,glial cell,cytokine-cell-
+1125,TGFB,fibrocyte,cytokine-cell-
+1179,TGFB2,lymphocyte,cytokine-cell-
+1183,TGFB,inflammatory macrophage,cytokine-cell-
+1188,CCL6,macrophage,cytokine-cell-
+1191,IL12,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",cytokine-cell-
+1201,IL35,platelet,cytokine-cell-
+1224,TGFB,goblet cell,cytokine-cell-
+1227,IL23,keratinocyte,cytokine-cell-
+2627,TGF,hepatocyte,cytokine-cell
+2628,TGFB,promyelocyte,cytokine-cell
+2637,IL1,megakaryocyte,cytokine-cell
+2639,PDGF,Leydig cell,cytokine-cell
+2641,TGFB,Sertoli cell,cytokine-cell
+2643,IL1,microglial cell,cytokine-cell
+2645,TGF,keratinocyte,cytokine-cell
+2646,TGFB,basal cell,cytokine-cell
+2647,PDGF,oligodendrocyte,cytokine-cell
+2661,IFNA,keratinocyte,cytokine-cell
+2664,TGFB,stellate cell,cytokine-cell
+2681,TGFB,corneal endothelial cell,cytokine-cell
+2686,IL32,endothelial cell,cytokine-cell
+2687,TGF,photoreceptor cell,cytokine-cell
+2690,IL32,erythrocyte,cytokine-cell
+2692,IL16,neuron,cytokine-cell
+2704,IL23,T-helper 2 cell,cytokine-cell
+2710,TGFB2,hippocampal neuron,cytokine-cell
+2713,TGFB,ependymal cell,cytokine-cell
+2715,IL16,leukocyte,cytokine-cell
+2733,IL17,chondrocyte,cytokine-cell
+2734,IL12,suppressor macrophage,cytokine-cell
+2741,IL1,plasmacytoid dendritic cell,cytokine-cell
+2753,TGFB2,corneal epithelial cell,cytokine-cell
+2765,PDGF,preadipocyte,cytokine-cell
+2778,PDGF,retinal ganglion cell,cytokine-cell
+2780,TGFB,dopaminergic neuron,cytokine-cell
+2785,TGFB,acinar cell of sebaceous gland,cytokine-cell
+2787,TGFB2,germ cell,cytokine-cell
+2793,TGFB,neuroepithelial stem cell,cytokine-cell
+2807,EGF,thyrotroph,cytokine-cell
+2809,IFN1,pancreatic acinar cell,cytokine-cell
+2813,IFN1,primary neuron,cytokine-cell
+2815,IL17,splenic macrophage,cytokine-cell
+2826,IL1,bladder cell,cytokine-cell
+2829,IL17,Tc17 cell,cytokine-cell
+2841,TGFB,preadipocyte,cytokine-cell
+2846,IL32,leukocyte,cytokine-cell
+2853,TGFB,mesothelial cell of pleura,cytokine-cell
+2854,TGFB,adult endothelial progenitor cell,cytokine-cell
+2855,IL16,"CD8-positive, alpha-beta T cell",cytokine-cell
+2864,IL12,oocyte,cytokine-cell
+2878,CCL9,neutrophil,cytokine-cell
+2879,IL17,erythroid progenitor cell,cytokine-cell
+2882,IL32,chondrocyte,cytokine-cell
+2883,TGFB2,professional antigen presenting cell,cytokine-cell
+2888,IL12,stromal cell,cytokine-cell
+2892,TGF,stromal cell,cytokine-cell
+2893,IFN1,respiratory epithelial cell,cytokine-cell
+2895,IL17,CD4-positive helper T cell,cytokine-cell
+2898,IFN1,neutrophil,cytokine-cell
+2899,CCL6,oocyte,cytokine-cell
+2913,IL16,T-helper 1 cell,cytokine-cell
+2916,CCL14,eosinophil,cytokine-cell
+2918,TGFB,endocrine cell,cytokine-cell
+2919,IFN1,myeloid cell,cytokine-cell
+2923,IL12,inflammatory macrophage,cytokine-cell
+2926,TGFB,cytotoxic T cell,cytokine-cell
+2940,PDGF,eosinophil,cytokine-cell
+2953,IL12,basophil,cytokine-cell
+2956,CCL6,type B pancreatic cell,cytokine-cell
+2958,IL12,naive B cell,cytokine-cell
+2960,TDGF1P3,cardiac muscle cell,cytokine-cell
+2965,IL23,dendritic cell,cytokine-cell
+2971,CCL23,osteoclast,cytokine-cell
+2974,CCL23,osteoblast,cytokine-cell
+2975,TGFB,endocardial cell,cytokine-cell
+2989,IFN1,conventional dendritic cell,cytokine-cell
+2991,IL17,T-helper 9 cell,cytokine-cell
+2993,IL23,memory T cell,cytokine-cell
+2998,TGF,fat cell,cytokine-cell
+3003,TGFB,intestinal epithelial cell,cytokine-cell
+3007,IL16,astrocyte,cytokine-cell
+3018,IFN1,paneth cell,cytokine-cell
+3021,TGFB,dental pulp cell,cytokine-cell
