@@ -15,6 +15,3 @@ for i in range(len(cytokine)):
 
 df = pd.DataFrame.from_dict({"cytokine":Cytokine,"cell":Cell})
 df.to_csv("cell-cytokine.csv")
-
-
-

@@ -16,7 +16,7 @@ args = parser.parse_args()  # 解析参数
 
 df = pd.DataFrame()
 
-model = ['cell-cytokine','cell-cytokine+','cytokine-cell+','cytokine-cell-','cytokine-cell']
+model = ['cell-cytokine+','cytokine-cell+','cytokine-cell-','cytokine-cell']
 
 
 for i in model:

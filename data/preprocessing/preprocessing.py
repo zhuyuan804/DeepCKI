@@ -71,7 +71,6 @@ print("number of MFs, before enrich", num_mf_before)
 print("number of BPs, before enrich", num_bp_before)
 
 
-
 print("start enriching go annotations...")
 # enrich go terms using ancestors
 go = get_gene_ontology(os.path.join(args.data_path, "go-basic.obo"))
@@ -117,7 +116,6 @@ print("number of MFs, after enrich", num_mf_after)
 print("number of BPs, after enrich", num_bp_after)
 
 
-
 #### filter GO terms by the number of occurence
 print("filter GO terms by the number of occurence...")
 # filter GO by the number of occurence
@@ -151,7 +149,6 @@ write_go_list('mf',mf_list)
 write_go_list('bp',bp_list)
 
 
-
 #### encode GO terms
 print("encoding GO terms...")
 mf_dict = dict(zip(list(mf_list),range(len(mf_list))))
@@ -178,8 +175,6 @@ uniprot.drop(columns=['mf','cc','bp','Gene ontology (biological process)',
                       'Gene ontology (molecular function)'],inplace=True)
 
 #### obtain MP annotations
-
-
 
 
 #### encode amino acid sequence using CT
@@ -305,7 +300,6 @@ print("write files...")
 uniprot.to_pickle(os.path.join(args.data_path, args.species, "features.pkl"))
 uniprot[['Entry','entrez-gene-id','Gene names','Cross-reference (STRING)']].to_csv(os.path.join(args.data_path,args.species,"gene_list.csv"),
                                                                  index_label='ID')
-
 
 #################################
 ######## process PPIs ###########
