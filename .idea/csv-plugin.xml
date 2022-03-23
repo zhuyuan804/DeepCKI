@@ -59,13 +59,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\dataset\cell-cytokine\output\DNN\fre_roc.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\dataset\cytokine-cell+\cytokine-cell+.csv">
           <value>
             <Attribute>
