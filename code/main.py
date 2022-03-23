@@ -67,8 +67,8 @@ def train(args):
     if args.save_results:
         perf_cytokine_cell_all.to_csv(save_path + "_5cytokine_cell.csv")  # Save various evaluation indicators
 
-    # cytokines = [x for x in uniprot['cytokine'].values]
-    cytokines = [x for x in uniprot['Cytokine Ontology Label'].values]
+    cytokines = [x for x in uniprot['cytokine'].values]
+    # cytokines = [x for x in uniprot['Cytokine Ontology Label'].values]
     #save score
     cell_name = pd.read_excel("../data/cell name.xlsx")
     Cell_Ontology_ID = cell_name['Cell Ontology ID'].values
@@ -120,8 +120,7 @@ def train(args):
     Y_label = Y_cytokine_cell_data.reshape(-1, 1)
     Y_pred = y_cytokine_cell_data.reshape(-1, 1)
 
-    plot_roc(Y_label, Y_pred, '5-fold cross-validation',
-             os.path.join(args.data_path, args.species, "output", args.model))
+    plot_roc(Y_label, Y_pred, '5-fold cross-validation',os.path.join(args.data_path, args.species, "output", args.model))
 
     def output_data(Y_label,Y_pred,model):
         with open(os.path.join(args.data_path, args.species,"output",model,'Y_label_str.pkl'), 'wb') as file:
@@ -155,7 +154,7 @@ def train(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser( formatter_class=argparse.ArgumentDefaultsHelpFormatter)#创建解析器
     #global parameters
-    parser.add_argument('--species', type=str, default="cell-cytokine", help="which species to use.")
+    parser.add_argument('--species', type=str, default="cytokine-cell-", help="which species to use.")
     parser.add_argument('--data_path', type=str, default="../dataset/", help="path storing data.")
     parser.add_argument('--thr_ppi', type=float, default=0.3, help="threshold for combiend ppi network.")
     parser.add_argument('--supervised', type=str, default="nn", help="neural networks or svm")

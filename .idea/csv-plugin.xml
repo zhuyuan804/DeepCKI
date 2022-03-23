@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\dataset\cell-cytokine+\cell-cytokine+.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\dataset\cell-cytokine+\output\VGAE\cell-cytokine_pred01.csv">
           <value>
             <Attribute>
