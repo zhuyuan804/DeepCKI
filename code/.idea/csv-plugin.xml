@@ -213,13 +213,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\dataset\known_cell_cytokine\cytokine-cell-.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\dataset\known_cell_cytokine\cytokine-cell.csv">
           <value>
             <Attribute>
