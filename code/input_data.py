@@ -115,7 +115,6 @@ def load_data(uniprot, attribute,args):
 
     adj = sp.csr_matrix(adj)
      
-
     return adj, features
 
 

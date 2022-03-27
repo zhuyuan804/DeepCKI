@@ -19,7 +19,7 @@ def reshape(features):
 def train(args):
     # load feature dataframe
     print("loading features...") 
-    uniprot = pd.read_pickle(os.path.join(args.data_path, args.species + "/features.pkl"))
+    uniprot = pd.read_pickle(os.path.join(args.data_path, args.species ,"features.pkl"))
 
     print("#############################")
     adj, features = load_data(uniprot,0, args)
@@ -68,7 +68,7 @@ def train(args):
         perf_cytokine_cell_all.to_csv(save_path + "_5cytokine_cell.csv")  # Save various evaluation indicators
 
     cytokines = [x for x in uniprot['cytokine'].values]
-    # cytokines = [x for x in uniprot['Cytokine Ontology Label'].values]
+    cytokines = [x for x in uniprot['Cytokine Ontology Label'].values]
     #save score
     cell_name = pd.read_excel("../data/cell name.xlsx")
     Cell_Ontology_ID = cell_name['Cell Ontology ID'].values
@@ -135,7 +135,7 @@ def train(args):
     perf['roc_auc'] = [x[0] for x in roc_auc_list]
     perf['roc_thr'] = [x[0] for x in roc_thr_list]
     f = pd.DataFrame.from_dict(perf, orient='index', columns=None)
-    f.columns = cytokine_cell_label_list
+    # f.columns = cytokine_cell_label_list
     f.to_csv(os.path.join(args.data_path, args.species,"output",args.model, "fre_roc.csv"))
 
     def array_to_df(array,name,evaluation_index):
@@ -154,7 +154,7 @@ def train(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser( formatter_class=argparse.ArgumentDefaultsHelpFormatter)#创建解析器
     #global parameters
-    parser.add_argument('--species', type=str, default="cytokine-cell-", help="which species to use.")
+    parser.add_argument('--dataset_type', type=str, default="cell-cytokine_all", help="which species to use.")
     parser.add_argument('--data_path', type=str, default="../dataset/", help="path storing data.")
     parser.add_argument('--thr_ppi', type=float, default=0.3, help="threshold for combiend ppi network.")
     parser.add_argument('--supervised', type=str, default="nn", help="neural networks or svm")
@@ -164,7 +164,6 @@ if __name__ == "__main__":
     #parameters for traing GCN
     parser.add_argument('--lr', type=float, default=0.001, help="Initial learning rate.")
     parser.add_argument('--epochs_ppi', type=int, default=60, help="Number of epochs to train ppi.")
-    parser.add_argument('--epochs_simi', type=int, default=300, help="Number of epochs to train similarity network.")
     parser.add_argument('--hidden1', type=int, default=800, help="Number of units in hidden layer 1.")
     parser.add_argument('--hidden2', type=int, default=400, help="Number of units in hidden layer 2.")
     parser.add_argument('--weight_decay', type=float, default=0., help="Weight for L2 loss on embedding matrix.")

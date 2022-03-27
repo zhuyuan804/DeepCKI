@@ -1,0 +1,1780 @@
+cytokine,cell,Cell Ontology Label
+IL2,CL_0000084,T cell
+IFNG,CL_0000084,T cell
+CXCL8,CL_0000775,neutrophil
+CSF3,CL_0000775,neutrophil
+IFNG,CL_0000235,macrophage
+IFNG,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL2,CL_0000542,lymphocyte
+TNF,CL_0000235,macrophage
+IL5,CL_0000771,eosinophil
+CCL2,CL_0000576,monocyte
+CCL2,CL_0000235,macrophage
+IL7,CL_0000084,T cell
+IL10,CL_0000084,T cell
+CSF1,CL_0000235,macrophage
+TNF,CL_0000576,monocyte
+IL4,CL_0000236,B cell
+TGFB,CL_0000084,T cell
+TNF,CL_0000775,neutrophil
+TNF,CL_0000084,T cell
+IL4,CL_0000084,T cell
+CCL11,CL_0000771,eosinophil
+IL12,CL_0000084,T cell
+PPBP,CL_0000233,platelet
+TGFB,CL_0000057,fibroblast
+IL10,CL_0000235,macrophage
+IFNG,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL2,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CSF2,CL_0000775,neutrophil
+IL2,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL2,CL_0000623,natural killer cell
+FGF2,CL_0000115,endothelial cell
+TGFB1,CL_0000057,fibroblast
+IFNG,CL_0000576,monocyte
+IFNG,CL_0000545,T-helper 1 cell
+IL12,CL_0000545,T-helper 1 cell
+IL10,CL_0000236,B cell
+IL4,CL_0000546,T-helper 2 cell
+IL15,CL_0000623,natural killer cell
+IFNG,CL_0000542,lymphocyte
+PF4,CL_0000233,platelet
+IFNG,CL_0000623,natural killer cell
+CD40LG,CL_0000233,platelet
+IL2,CL_0000236,B cell
+IL6,CL_0000084,T cell
+IL2,CL_0000625,"CD8-positive, alpha-beta T cell"
+IFNA,CL_0000084,T cell
+TNFSF13B,CL_0000236,B cell
+TGFB,CL_0000066,epithelial cell
+THPO,CL_0000233,platelet
+CD40LG,CL_0000236,B cell
+IL6,CL_0000236,B cell
+TNF,CL_0000115,endothelial cell
+CSF3,CL_0000034,stem cell
+TNF,CL_0000738,leukocyte
+CSF2,CL_0000235,macrophage
+TGFB,CL_0000138,chondrocyte
+HGF,CL_0000066,epithelial cell
+TNF,CL_0000182,hepatocyte
+TNF,CL_0000542,lymphocyte
+IL7,CL_0000236,B cell
+TNFSF9,CL_0000084,T cell
+CSF3,CL_0000094,granulocyte
+CCL2,CL_0000738,leukocyte
+IL6,CL_0000738,leukocyte
+CSF2,CL_0000084,T cell
+TNF,CL_0000136,fat cell
+CD40LG,CL_0000084,T cell
+IL6,CL_0000182,hepatocyte
+IL6,CL_0000233,platelet
+IL1,CL_0000576,monocyte
+IL3,CL_0000767,basophil
+EPO,CL_0000595,enucleate erythrocyte
+IL1,CL_0000084,T cell
+CSF2,CL_0000576,monocyte
+CXCL1,CL_0000775,neutrophil
+CSF3,CL_0000037,hematopoietic stem cell
+IL15,CL_0000084,T cell
+IL12,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL10,CL_0000576,monocyte
+IL10,CL_0000545,T-helper 1 cell
+IL6,CL_0000235,macrophage
+EPO,CL_0000038,erythroid progenitor cell
+TGFB,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+KITLG,CL_0000097,mast cell
+IL10,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL1,CL_0000235,macrophage
+CXCL12,CL_0000034,stem cell
+TNF,CL_0000236,B cell
+TGFB,CL_0000182,hepatocyte
+IL17,CL_0000084,T cell
+CSF1,CL_0000092,osteoclast
+FGF2,CL_0000540,neuron
+CXCL8,CL_0000084,T cell
+IL21,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL5,CL_0000236,B cell
+IL15,CL_0000625,"CD8-positive, alpha-beta T cell"
+TGFB,CL_0000115,endothelial cell
+CCL2,CL_0000084,T cell
+IL17,CL_0000775,neutrophil
+CSF2,CL_0000771,eosinophil
+IL1B,CL_0000235,macrophage
+IL6,CL_0000057,fibroblast
+IL1B,CL_0000576,monocyte
+IL1,CL_0000236,B cell
+EPO,CL_0000232,erythrocyte
+IL7,CL_0000817,precursor B cell
+IFNG,CL_0000738,leukocyte
+IL4,CL_0000624,"CD4-positive, alpha-beta T cell"
+CXCL10,CL_0000084,T cell
+IL21,CL_0000084,T cell
+IL6,CL_0000576,monocyte
+IL7,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL21,CL_0000236,B cell
+TNF,CL_0000540,neuron
+IL10,CL_0000775,neutrophil
+CXCL13,CL_0000236,B cell
+IL6,CL_0000540,neuron
+TNFSF9,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL12,CL_0000624,"CD4-positive, alpha-beta T cell"
+CSF1,CL_0000576,monocyte
+IL4,CL_0000771,eosinophil
+IL1,CL_0000775,neutrophil
+IL6,CL_0000775,neutrophil
+CXCL8,CL_0000738,leukocyte
+CXCL2,CL_0000775,neutrophil
+TNF,CL_0000057,fibroblast
+IL2,CL_0000824,mature natural killer cell
+TGFB,CL_0000062,osteoblast
+IL10,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL4,CL_0000542,lymphocyte
+IL6,CL_0000092,osteoclast
+IFNG,CL_0000910,cytotoxic T cell
+TGFB,CL_0000312,keratinocyte
+FGF2,CL_0000062,osteoblast
+IL6,CL_0000542,lymphocyte
+CXCL12,CL_0000037,hematopoietic stem cell
+TNF,CL_0000066,epithelial cell
+IL10,CL_0000542,lymphocyte
+TGFB,CL_0000192,smooth muscle cell
+TNF,CL_0000092,osteoclast
+IL4,CL_0000235,macrophage
+IL4,CL_0000545,T-helper 1 cell
+CSF2,CL_0000094,granulocyte
+IFNG,CL_0000236,B cell
+CXCL12,CL_0000084,T cell
+CXCL12,CL_0000738,leukocyte
+IL17,CL_0000899,T-helper 17 cell
+TGFB1,CL_0000233,platelet
+IL17,CL_0000624,"CD4-positive, alpha-beta T cell"
+IFNG,CL_0000129,microglial cell
+IL1B,CL_0000138,chondrocyte
+IL18,CL_0000084,T cell
+IL2,CL_0000893,thymocyte
+IL17A,CL_0000775,neutrophil
+IL10,CL_0000738,leukocyte
+IL12,CL_0000546,T-helper 2 cell
+IFNA,CL_0000623,natural killer cell
+TGFB,CL_0000034,stem cell
+TGFB,CL_0002327,mammary epithelial cell
+TNF,CL_0000312,keratinocyte
+FGF2,CL_0000034,stem cell
+CX3CL1,CL_0000738,leukocyte
+TGFB,CL_0000037,hematopoietic stem cell
+IL4,CL_0000576,monocyte
+TGFB,CL_0000235,macrophage
+IL7,CL_0000542,lymphocyte
+IL13,CL_0000771,eosinophil
+IFNB1,CL_0000084,T cell
+IFNG,CL_0000115,endothelial cell
+TGFB,CL_0000236,B cell
+TGFB1,CL_0000084,T cell
+IL18,CL_0000623,natural killer cell
+CSF3,CL_0002246,peripheral blood stem cell
+IL12,CL_0000623,natural killer cell
+IL15,CL_0000542,lymphocyte
+CXCL12,CL_0000540,neuron
+IL4,CL_0000767,basophil
+SPP1,CL_0000235,macrophage
+IL1B,CL_0000775,neutrophil
+IFNA,CL_0000784,plasmacytoid dendritic cell
+IL2,CL_0000815,regulatory T cell
+CXCL5,CL_0000775,neutrophil
+FGF2,CL_0000057,fibroblast
+IL1A,CL_0000057,fibroblast
+TGFB,CL_0000540,neuron
+CSF1,CL_0000113,mononuclear phagocyte
+IL1,CL_0000893,thymocyte
+IFNA,CL_0000236,B cell
+IL1B,CL_0000738,leukocyte
+IL2,CL_0000738,leukocyte
+TNF,CL_0000625,"CD8-positive, alpha-beta T cell"
+TGFB1,CL_0000312,keratinocyte
+FGF2,CL_0000192,smooth muscle cell
+IL18,CL_0000545,T-helper 1 cell
+RETN,CL_0000136,fat cell
+CCL4,CL_0000182,hepatocyte
+CSF3,CL_0000096,mature neutrophil
+IL3,CL_0000233,platelet
+IL10,CL_0000546,T-helper 2 cell
+IL6,CL_0000786,plasma cell
+TGFB,CL_0000576,monocyte
+CSF2,CL_0000738,leukocyte
+IL4,CL_0000097,mast cell
+TGFB1,CL_0000062,osteoblast
+IFNG,CL_0000911,effector T cell
+IFNG,CL_0000312,keratinocyte
+IL6,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL3,CL_0000097,mast cell
+CSF3,CL_0000738,leukocyte
+GDF15,CL_0000218,myelinating Schwann cell
+IL15,CL_0000236,B cell
+CSF2,CL_0000451,dendritic cell
+IL7,CL_0000893,thymocyte
+IL4,CL_0000057,fibroblast
+IL10,CL_0000625,"CD8-positive, alpha-beta T cell"
+CCL2,CL_0000775,neutrophil
+IFNB1,CL_0000235,macrophage
+LIF,CL_0002322,embryonic stem cell
+THPO,CL_0000556,megakaryocyte
+CSF2,CL_0000542,lymphocyte
+TGFB1,CL_0000138,chondrocyte
+IL1,CL_0000542,lymphocyte
+TGFB,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL12,CL_0000235,macrophage
+TGFB,CL_0000542,lymphocyte
+TNF,CL_0000623,natural killer cell
+TGFB1,CL_0000624,"CD4-positive, alpha-beta T cell"
+IFNG,CL_0000771,eosinophil
+CSF2,CL_0000763,myeloid cell
+IL1,CL_0000312,keratinocyte
+PF4,CL_0000115,endothelial cell
+IL12,CL_0000236,B cell
+EPO,CL_0000558,reticulocyte
+TGFB1,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL6,CL_0000232,erythrocyte
+CCL21,CL_0000084,T cell
+CXCL8,CL_0000115,endothelial cell
+TGFB,CL_0000097,mast cell
+GDF15,CL_0000540,neuron
+IL2,CL_0000910,cytotoxic T cell
+CXCL10,CL_0000625,"CD8-positive, alpha-beta T cell"
+CCL2,CL_0000136,fat cell
+CXCL12,CL_0000115,endothelial cell
+CSF3,CL_0000557,granulocyte monocyte progenitor cell
+IL10,CL_0000815,regulatory T cell
+IL1,CL_0000138,chondrocyte
+IL5,CL_0000084,T cell
+TGFB,CL_0000127,astrocyte
+TGFB1,CL_0000235,macrophage
+TGFB1,CL_0000097,mast cell
+CSF2,CL_0000583,alveolar macrophage
+IL10,CL_0000969,regulatory B cell
+TNF,CL_0000097,mast cell
+KITLG,CL_0000034,stem cell
+IL13,CL_0000546,T-helper 2 cell
+IL6,CL_0000136,fat cell
+CXCL16,CL_0000084,T cell
+IL27,CL_0000084,T cell
+CXCL10,CL_0000542,lymphocyte
+IL1,CL_0000738,leukocyte
+IL2,CL_0000057,fibroblast
+IL6,CL_0000115,endothelial cell
+IFN1,CL_0000451,dendritic cell
+CCL3,CL_0000738,leukocyte
+IFNG,CL_0000546,T-helper 2 cell
+IL6,CL_0000312,keratinocyte
+IFN1,CL_0000784,plasmacytoid dendritic cell
+CSF3,CL_0000839,myeloid lineage restricted progenitor cell
+CXCL8,CL_0000576,monocyte
+IL6,CL_0000019,sperm
+CCL3,CL_0000771,eosinophil
+IL1RN,CL_0000775,neutrophil
+IL10,CL_0000911,effector T cell
+IL18,CL_0000738,leukocyte
+IL10,CL_0000451,dendritic cell
+IL15,CL_0000624,"CD4-positive, alpha-beta T cell"
+IFNG,CL_0000128,oligodendrocyte
+IFNG,CL_0000182,hepatocyte
+IFNG,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+FGF2,CL_0000125,glial cell
+TGFB,CL_0000134,mesenchymal cell
+CSF3,CL_0000084,T cell
+IFNG,CL_0000113,mononuclear phagocyte
+IL1,CL_0000057,fibroblast
+IL7,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IFNA,CL_0000233,platelet
+HGF,CL_0000115,endothelial cell
+TGFB,CL_0000451,dendritic cell
+TGFB,CL_0000632,hepatic stellate cell
+CXCL8,CL_0000312,keratinocyte
+IL2,CL_0000545,T-helper 1 cell
+IFNG,CL_0000066,epithelial cell
+IL4,CL_0000775,neutrophil
+TNF,CL_0000062,osteoblast
+IFNA,CL_0000624,"CD4-positive, alpha-beta T cell"
+CXCL12,CL_0000775,neutrophil
+FGF2,CL_0000134,mesenchymal cell
+TGFB1,CL_0000499,stromal cell
+IL2,CL_0000235,macrophage
+CCL5,CL_0000084,T cell
+SPP1,CL_0000062,osteoblast
+TGFB1,CL_0000115,endothelial cell
+IL7,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL1B,CL_0000084,T cell
+TNF,CL_0000771,eosinophil
+IFNG,CL_0000057,fibroblast
+IL21,CL_0000899,T-helper 17 cell
+IL1B,CL_0000540,neuron
+IL23,CL_0000899,T-helper 17 cell
+IL3,CL_0000034,stem cell
+IL1B,CL_0000127,astrocyte
+CSF3,CL_0000576,monocyte
+IL6,CL_0000899,T-helper 17 cell
+IL2,CL_0000576,monocyte
+TNFSF4,CL_0000084,T cell
+TGFB,CL_0000899,T-helper 17 cell
+IL18,CL_0000235,macrophage
+TGF,CL_0000057,fibroblast
+CCL26,CL_0000771,eosinophil
+CSF3,CL_0000763,myeloid cell
+TGFB1,CL_0000134,mesenchymal cell
+IFNA,CL_0000576,monocyte
+CSF1,CL_0000091,Kupffer cell
+IL6,CL_0000062,osteoblast
+CX3CL1,CL_0000540,neuron
+IL9,CL_0000084,T cell
+IL4,CL_0000625,"CD8-positive, alpha-beta T cell"
+CSF2,CL_0002092,bone marrow cell
+TGFB1,CL_0000066,epithelial cell
+IL1B,CL_0000057,fibroblast
+EGF,CL_0000312,keratinocyte
+CXCL12,CL_0000134,mesenchymal cell
+IL13,CL_0000084,T cell
+TGFB1,CL_0000540,neuron
+TNF,CL_0000138,chondrocyte
+IL6,CL_0000746,cardiac muscle cell
+IFN1,CL_0000623,natural killer cell
+IFNA,CL_0000235,macrophage
+TNF,CL_0000127,astrocyte
+CCL11,CL_0000738,leukocyte
+IL11,CL_0000233,platelet
+IL17A,CL_0000084,T cell
+CSF2,CL_0000092,osteoclast
+CSF1,CL_0000233,platelet
+KITLG,CL_0000037,hematopoietic stem cell
+CSF2,CL_0000557,granulocyte monocyte progenitor cell
+CCL2,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL12,CL_0000542,lymphocyte
+TGFB,CL_0000023,oocyte
+IFNG,CL_0000127,astrocyte
+IL4,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL3,CL_0000084,T cell
+CSF2,CL_0000624,"CD4-positive, alpha-beta T cell"
+TNF,CL_0000214,synovial cell
+IL1B,CL_0000499,stromal cell
+IL13,CL_0000235,macrophage
+IL33,CL_0000771,eosinophil
+IL3,CL_0000037,hematopoietic stem cell
+IL2,CL_0000911,effector T cell
+PDGF,CL_0000057,fibroblast
+TGFB,CL_0000556,megakaryocyte
+IFNA,CL_0000542,lymphocyte
+TGFB1,CL_0000192,smooth muscle cell
+IL7,CL_0000898,naive T cell
+IL13,CL_0000236,B cell
+TGFB1,CL_0000653,glomerular visceral epithelial cell
+TGFB1,CL_0000775,neutrophil
+IL16,CL_0000624,"CD4-positive, alpha-beta T cell"
+CXCL12,CL_0002619,adult endothelial progenitor cell
+IL1A,CL_0000084,T cell
+FGF1,CL_0000540,neuron
+IL6,CL_0000623,natural killer cell
+CCL27,CL_0000084,T cell
+IL6,CL_0000624,"CD4-positive, alpha-beta T cell"
+CCL20,CL_0000542,lymphocyte
+TGFB1,CL_0000060,odontoblast
+FGF1,CL_0000057,fibroblast
+CXCL13,CL_0000084,T cell
+TNF,CL_0000129,microglial cell
+TGFB1,CL_0000182,hepatocyte
+CXCL12,CL_0000624,"CD4-positive, alpha-beta T cell"
+FGF2,CL_0000138,chondrocyte
+IFNG,CL_0000451,dendritic cell
+TGFB1,CL_0000034,stem cell
+CCL2,CL_0000540,neuron
+EPO,CL_0000765,erythroblast
+IL1,CL_0000499,stromal cell
+EPO,CL_0000084,T cell
+CCL24,CL_0000771,eosinophil
+IL6,CL_0000763,myeloid cell
+IFN1,CL_0000084,T cell
+CCL2,CL_0000115,endothelial cell
+TGFB1,CL_0000738,leukocyte
+CD40LG,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL12,CL_0000771,eosinophil
+TGFB,CL_0000129,microglial cell
+TGFB,CL_0001035,bone cell
+IL27,CL_0000545,T-helper 1 cell
+CCL22,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+TGFB,CL_0000623,natural killer cell
+IFNG,CL_0000540,neuron
+IL22,CL_0000066,epithelial cell
+IL23,CL_0000624,"CD4-positive, alpha-beta T cell"
+TGFB,CL_0002322,embryonic stem cell
+IL12,CL_0000451,dendritic cell
+IL33,CL_0000775,neutrophil
+IL2,CL_0000546,T-helper 2 cell
+IL1A,CL_0000312,keratinocyte
+IL6,CL_0000023,oocyte
+IL5,CL_0000819,B-1 B cell
+TNF,CL_0000232,erythrocyte
+CD40LG,CL_0000576,monocyte
+IFNG,CL_0000794,"CD8-positive, alpha-beta cytotoxic T cell"
+TGFB,CL_0000669,pericyte cell
+IL10,CL_0000771,eosinophil
+PDGF,CL_0000192,smooth muscle cell
+IL12,CL_0000581,peritoneal macrophage
+IL1,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL6,CL_0000034,stem cell
+CXCL6,CL_0000775,neutrophil
+CXCL12,CL_0000099,interneuron
+IFNG,CL_0000583,alveolar macrophage
+IL23,CL_0000084,T cell
+IFNA,CL_0000451,dendritic cell
+IL22,CL_0000182,hepatocyte
+TGFB1,CL_0000576,monocyte
+CXCL8,CL_0000540,neuron
+IFNG,CL_0000034,stem cell
+IL10,CL_0000540,neuron
+CCL20,CL_0000084,T cell
+TGFB,CL_0000359,vascular associated smooth muscle cell
+CCL2,CL_0000113,mononuclear phagocyte
+IL6,CL_0000893,thymocyte
+CXCL8,CL_0000094,granulocyte
+TGFB,CL_0000738,leukocyte
+TNF,CL_0000056,myoblast
+TGFB,CL_0000187,muscle cell
+IL23,CL_0000545,T-helper 1 cell
+CCL26,CL_0000084,T cell
+CXCL8,CL_0000096,mature neutrophil
+IL21,CL_0000786,plasma cell
+CCL19,CL_0000235,macrophage
+IL33,CL_0000546,T-helper 2 cell
+IL10,CL_0000901,Tr1 cell
+TGFB1,CL_0000082,epithelial cell of lung
+IL2,CL_0000902,induced T-regulatory cell
+IFNG,CL_0000096,mature neutrophil
+IL18,CL_0000542,lymphocyte
+IL7,CL_0002419,mature T cell
+IL27,CL_0000899,T-helper 17 cell
+IL1A,CL_0000115,endothelial cell
+CXCL12,CL_0000120,granule cell
+IL21,CL_0000623,natural killer cell
+CSF3,CL_0002092,bone marrow cell
+LIF,CL_0000540,neuron
+IFNG,CL_0000584,enterocyte
+IL2,CL_0000023,oocyte
+IL10,CL_0000819,B-1 B cell
+KITLG,CL_0000148,melanocyte
+EPO,CL_0000556,megakaryocyte
+CCL2,CL_0000650,mesangial cell
+IL1,CL_0000034,stem cell
+IL13,CL_0000576,monocyte
+IL6,CL_0000066,epithelial cell
+CCL25,CL_0000084,T cell
+TGFB,CL_0000499,stromal cell
+IL3,CL_0002092,bone marrow cell
+CXCL10,CL_0000623,natural killer cell
+LIF,CL_0000746,cardiac muscle cell
+IL15,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+FGF2,CL_0000148,melanocyte
+TGFA,CL_0000182,hepatocyte
+CSF2,CL_0000066,epithelial cell
+IL22,CL_0000312,keratinocyte
+IL3,CL_0000771,eosinophil
+TGFB,CL_0000082,epithelial cell of lung
+TGFB,CL_0002620,skin fibroblast
+IL2,CL_0000794,"CD8-positive, alpha-beta cytotoxic T cell"
+IL17,CL_0000545,T-helper 1 cell
+SPP1,CL_0000092,osteoclast
+IL17A,CL_0000542,lymphocyte
+TGFB1,CL_0002328,bronchial epithelial cell
+IFNG,CL_0000134,mesenchymal cell
+IFNG,CL_0000912,helper T cell
+TGFB1,CL_0000650,mesangial cell
+TNF,CL_0000746,cardiac muscle cell
+TGFB1,CL_0000623,natural killer cell
+IL9,CL_0000546,T-helper 2 cell
+CSF2,CL_0000233,platelet
+CXCL12,CL_0000576,monocyte
+SPP1,CL_0000084,T cell
+TNFSF11,CL_0000092,osteoclast
+IFNA,CL_0000556,megakaryocyte
+CCL3,CL_0000034,stem cell
+IL33,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+TGFB1,CL_0000625,"CD8-positive, alpha-beta T cell"
+TGFB1,CL_0002327,mammary epithelial cell
+IL2,CL_0000814,mature NK T cell
+IL13,CL_0000066,epithelial cell
+IFNB1,CL_0000576,monocyte
+PDGF,CL_0000233,platelet
+IFNG,CL_0000091,Kupffer cell
+TNF,CL_0000893,thymocyte
+IL15,CL_0000097,mast cell
+TGFB,CL_0000092,osteoclast
+IL6,CL_0000557,granulocyte monocyte progenitor cell
+IL12,CL_0000775,neutrophil
+TNFSF15,CL_0000084,T cell
+IL2,CL_0000912,helper T cell
+IL12,CL_0000576,monocyte
+CXCL10,CL_0000738,leukocyte
+IL21,CL_0000542,lymphocyte
+CXCL12,CL_0000233,platelet
+IFNA,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL6,CL_0000097,mast cell
+TGFB,CL_0000056,myoblast
+IFNA,CL_0000557,granulocyte monocyte progenitor cell
+IL4,CL_0000129,microglial cell
+IFNG,CL_0000097,mast cell
+IFN1,CL_0000576,monocyte
+CCL4,CL_0000738,leukocyte
+IFNG,CL_0000775,neutrophil
+IL1,CL_0000125,glial cell
+IL10,CL_0000097,mast cell
+IL1,CL_0000092,osteoclast
+IL7,CL_0000623,natural killer cell
+TNF,CL_0000351,trophoblast cell
+IL13,CL_0000738,leukocyte
+TGFB1,CL_0000127,astrocyte
+IL2,CL_0002404,fetal thymocyte
+IFNG,CL_0000232,erythrocyte
+CCL3,CL_0000775,neutrophil
+CSF2,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL7,CL_0000738,leukocyte
+IL21,CL_0000624,"CD4-positive, alpha-beta T cell"
+CCL26,CL_0000235,macrophage
+IL17,CL_0000235,macrophage
+LIF,CL_0000034,stem cell
+CSF2,CL_0000784,plasmacytoid dendritic cell
+CCL2,CL_0000047,neuronal stem cell
+IFNA,CL_0000034,stem cell
+TNF,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL20,CL_0000738,leukocyte
+CXCL8,CL_0002328,bronchial epithelial cell
+IL33,CL_0000235,macrophage
+IL1,CL_0000623,natural killer cell
+TGFB3,CL_0000138,chondrocyte
+IL25,CL_0000546,T-helper 2 cell
+EPO,CL_0000547,proerythroblast
+CSF1,CL_0000763,myeloid cell
+FGF2,CL_0000233,platelet
+IL1RN,CL_0000235,macrophage
+IL12,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+TGF,CL_0000182,hepatocyte
+IL5,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL18,CL_0000115,endothelial cell
+TGFB,CL_0000815,regulatory T cell
+IL6,CL_0000037,hematopoietic stem cell
+IL13,CL_0000624,"CD4-positive, alpha-beta T cell"
+PF4,CL_0000145,professional antigen presenting cell
+TGFB,CL_0000122,stellate cell
+IL7,CL_0000813,memory T cell
+IL1B,CL_0000187,muscle cell
+TGFB1,CL_0000077,mesothelial cell
+IL1B,CL_0000169,type B pancreatic cell
+IL7,CL_0000909,"CD8-positive, alpha-beta memory T cell"
+PPBP,CL_0000235,macrophage
+CSF3,CL_0000542,lymphocyte
+CXCL12,CL_0000129,microglial cell
+IL32,CL_0000084,T cell
+IL1,CL_0000556,megakaryocyte
+EPO,CL_0000235,macrophage
+TNF,CL_0000798,gamma-delta T cell
+LTA,CL_0000236,B cell
+IL6,CL_0002327,mammary epithelial cell
+IFNG,CL_0000898,naive T cell
+IFNB1,CL_0000127,astrocyte
+CSF3,CL_0000746,cardiac muscle cell
+TGFB1,CL_0000059,ameloblast
+CXCL13,CL_0000542,lymphocyte
+EPO,CL_0000233,platelet
+IFNG,CL_0002368,respiratory epithelial cell
+PDGF,CL_0000128,oligodendrocyte
+CCL1,CL_0000542,lymphocyte
+TGFB,CL_0000047,neuronal stem cell
+IFNB1,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL17,CL_0000576,monocyte
+IL5,CL_0000542,lymphocyte
+EPO,CL_0000746,cardiac muscle cell
+FGF2,CL_0002544,aortic endothelial cell
+IL10,CL_0000129,microglial cell
+TNF,CL_0000037,hematopoietic stem cell
+PF4,CL_0000576,monocyte
+TGFB2,CL_0000057,fibroblast
+IL18,CL_0000576,monocyte
+FGF2,CL_0000056,myoblast
+IL6,CL_0000138,chondrocyte
+LTA,CL_0000542,lymphocyte
+TNF,CL_0000499,stromal cell
+IFN1,CL_0000542,lymphocyte
+KITLG,CL_0002092,bone marrow cell
+IL23,CL_0000235,macrophage
+TNF,CL_0000134,mesenchymal cell
+TGFB,CL_0000650,mesangial cell
+CX3CL1,CL_0000235,macrophage
+IL4,CL_0000037,hematopoietic stem cell
+CSF3,CL_0000115,endothelial cell
+IL12,CL_0000912,helper T cell
+IL6,CL_0000980,plasmablast
+CSF3,CL_0000023,oocyte
+IFNG,CL_0000169,type B pancreatic cell
+IL17,CL_0000771,eosinophil
+IL2,CL_0000232,erythrocyte
+TGFB,CL_0000775,neutrophil
+IL24,CL_0000148,melanocyte
+CSF2,CL_0000556,megakaryocyte
+TGFB,CL_0002138,endothelial cell of lymphatic vessel
+IL17A,CL_0000235,macrophage
+IL4,CL_0000312,keratinocyte
+IL6,CL_0000100,motor neuron
+IL3,CL_0000115,endothelial cell
+IL18,CL_0000746,cardiac muscle cell
+PPBP,CL_0000084,T cell
+TGFB1,CL_1001319,bladder cell
+CX3CL1,CL_0000129,microglial cell
+IL3,CL_0000623,natural killer cell
+IL1,CL_0000182,hepatocyte
+CXCL8,CL_0002368,respiratory epithelial cell
+IL1A,CL_0000235,macrophage
+TNFSF9,CL_0000145,professional antigen presenting cell
+TGFB,CL_0000136,fat cell
+IL1RN,CL_0000738,leukocyte
+IFNG,CL_0000581,peritoneal macrophage
+IL2,CL_0000771,eosinophil
+IL13,CL_0000540,neuron
+IL7,CL_0000826,pro-B cell
+IL1,CL_0002563,intestinal epithelial cell
+CCL26,CL_0000540,neuron
+LTA,CL_0000499,stromal cell
+FGF2,CL_0002139,endothelial cell of vascular tree
+CXCL12,CL_0000542,lymphocyte
+IL17A,CL_0000624,"CD4-positive, alpha-beta T cell"
+FGF2,CL_0002619,adult endothelial progenitor cell
+IFNA,CL_0000786,plasma cell
+TGFB,CL_0000836,promyelocyte
+SPP1,CL_0000236,B cell
+FGF2,CL_0002322,embryonic stem cell
+IL17A,CL_0000160,goblet cell
+IL21,CL_0000738,leukocyte
+CSF2,CL_0000236,B cell
+EPO,CL_0000134,mesenchymal cell
+IL22,CL_0000545,T-helper 1 cell
+TGFB1,CL_0000135,fibrocyte
+CXCL6,CL_0000738,leukocyte
+IL1,CL_0000129,microglial cell
+KITLG,CL_0000586,germ cell
+CCL2,CL_0000127,astrocyte
+TGFB,CL_0000214,synovial cell
+IL31,CL_0000546,T-helper 2 cell
+IL21,CL_0000814,mature NK T cell
+FGF2,CL_0000738,leukocyte
+IFNG,CL_0000813,memory T cell
+CSF3,CL_0000540,neuron
+TNF,CL_0002139,endothelial cell of vascular tree
+FGF2,CL_0000542,lymphocyte
+TGFB,CL_0002368,respiratory epithelial cell
+IL1RN,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL16,CL_0000084,T cell
+IFNG,CL_0000899,T-helper 17 cell
+IL10,CL_0000312,keratinocyte
+CCL2,CL_0000037,hematopoietic stem cell
+CCL2,CL_0000860,classical monocyte
+TGFB1,CL_0000746,cardiac muscle cell
+IFNG,CL_0000893,thymocyte
+CCL4,CL_0000233,platelet
+IL22,CL_0000084,T cell
+IL6,CL_0000815,regulatory T cell
+TNF,CL_0002368,respiratory epithelial cell
+IL10,CL_0000890,alternatively activated macrophage
+IL17,CL_0000312,keratinocyte
+CCL11,CL_0000084,T cell
+CSF1,CL_0000129,microglial cell
+IL25,CL_0000115,endothelial cell
+CSF3,CL_0002619,adult endothelial progenitor cell
+MIF,CL_0000738,leukocyte
+IL6,CL_0000134,mesenchymal cell
+IL1A,CL_0000092,osteoclast
+CXCL12,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL15,CL_0000909,"CD8-positive, alpha-beta memory T cell"
+TNFSF9,CL_0000236,B cell
+IL1,CL_0000540,neuron
+CXCL12,CL_0000135,fibrocyte
+FGF2,CL_0000066,epithelial cell
+IL3,CL_0000084,T cell
+IFN1,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL7,CL_0000798,gamma-delta T cell
+CSF1,CL_0000084,T cell
+IL9,CL_0000236,B cell
+IL1,CL_0000214,synovial cell
+IFNA,CL_0000057,fibroblast
+CXCL12,CL_0000047,neuronal stem cell
+IL1B,CL_0000899,T-helper 17 cell
+IL7,CL_0000499,stromal cell
+IL33,CL_0000583,alveolar macrophage
+TGF,CL_0000312,keratinocyte
+CCL2,CL_0000653,glomerular visceral epithelial cell
+CSF2,CL_0000623,natural killer cell
+TNFSF9,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL9,CL_0000182,hepatocyte
+IL1,CL_0000581,peritoneal macrophage
+IL2,CL_0000492,CD4-positive helper T cell
+TNFSF4,CL_0000546,T-helper 2 cell
+IFNG,CL_0000092,osteoclast
+IL3,CL_0000556,megakaryocyte
+IL2,CL_0000451,dendritic cell
+CX3CL1,CL_0000623,natural killer cell
+TGFB,CL_0002622,prostate stromal cell
+IL1B,CL_0000650,mesangial cell
+CXCL8,CL_0000232,erythrocyte
+IL35,CL_0000233,platelet
+IL6,CL_1000488,cholangiocyte
+IL3,CL_0000546,T-helper 2 cell
+CSF1,CL_0000066,epithelial cell
+IL2,CL_0000034,stem cell
+IL12,CL_0000898,naive T cell
+CSF3,CL_0000236,B cell
+IL10,CL_0000037,hematopoietic stem cell
+CCL20,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+TGFB1,CL_0002139,endothelial cell of vascular tree
+IFN1,CL_0000235,macrophage
+IL12,CL_0000794,"CD8-positive, alpha-beta cytotoxic T cell"
+IL17,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+HGF,CL_0000148,melanocyte
+IL17,CL_0000542,lymphocyte
+IL6,CL_0000101,sensory neuron
+TGFB1,CL_0001035,bone cell
+CXCL12,CL_0000236,B cell
+CD40LG,CL_0000625,"CD8-positive, alpha-beta T cell"
+TGFB,CL_0000646,basal cell
+IL10,CL_0000145,professional antigen presenting cell
+CD40LG,CL_0000115,endothelial cell
+IL6,CL_0000545,T-helper 1 cell
+GDF15,CL_0000746,cardiac muscle cell
+IL1B,CL_0000182,hepatocyte
+SPP1,CL_0000653,glomerular visceral epithelial cell
+IL21,CL_0000844,germinal center B cell
+IFNA,CL_0000540,neuron
+IL10,CL_0000232,erythrocyte
+RETN,CL_0000775,neutrophil
+CXCL8,CL_0000066,epithelial cell
+CXCL12,CL_0000062,osteoblast
+GDF15,CL_0000128,oligodendrocyte
+TGFB1,CL_0000556,megakaryocyte
+PDGF,CL_0000178,Leydig cell
+CCL3,CL_0000235,macrophage
+CSF2,CL_0000097,mast cell
+TDGF1P3,CL_0002322,embryonic stem cell
+OSM,CL_0000235,macrophage
+CD40LG,CL_0000542,lymphocyte
+FGF2,CL_0000100,motor neuron
+TNF,CL_0000581,peritoneal macrophage
+IL1,CL_0000062,osteoblast
+CSF2,CL_0000910,cytotoxic T cell
+TGFB1,CL_0000542,lymphocyte
+IFNA,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+FGF2,CL_0000061,cementoblast
+TNF,CL_0000451,dendritic cell
+TGFB1,CL_0002363,keratocyte
+CXCL8,CL_0000097,mast cell
+FGF2,CL_0000127,astrocyte
+TGFB,CL_0000216,Sertoli cell
+IL1,CL_0002092,bone marrow cell
+RETN,CL_0000738,leukocyte
+SPP1,CL_0000134,mesenchymal cell
+RETN,CL_0000037,hematopoietic stem cell
+TGFA,CL_0000540,neuron
+IL2,CL_0000233,platelet
+TGF,CL_0000084,T cell
+IL27,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL18,CL_0000775,neutrophil
+TNF,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL12B,CL_0000084,T cell
+IL5,CL_0000767,basophil
+IFNA,CL_0000312,keratinocyte
+IL1A,CL_0000236,B cell
+IL25,CL_0000771,eosinophil
+CSF2,CL_0000145,professional antigen presenting cell
+TNF,CL_0000453,Langerhans cell
+IL11,CL_0000066,epithelial cell
+IL17A,CL_0002368,respiratory epithelial cell
+PDGFA,CL_0000192,smooth muscle cell
+TGFB2,CL_0000084,T cell
+FGF2,CL_0002138,endothelial cell of lymphatic vessel
+CCL2,CL_0000542,lymphocyte
+TGFB,CL_0000622,acinar cell
+TGFB,CL_0000132,corneal endothelial cell
+IFNG,CL_0000145,professional antigen presenting cell
+TNF,CL_0000019,sperm
+LTA,CL_0000442,follicular dendritic cell
+IL2,CL_0000775,neutrophil
+IL6,CL_0000653,glomerular visceral epithelial cell
+IL1B,CL_0000136,fat cell
+PPBP,CL_0000775,neutrophil
+IL17A,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL2,CL_0000057,fibroblast
+CSF3,CL_0000062,osteoblast
+IL7,CL_0000034,stem cell
+IL4,CL_0000898,naive T cell
+CCL3,CL_0000767,basophil
+IL3,CL_0000038,erythroid progenitor cell
+CXCL16,CL_0002539,aortic smooth muscle cell
+IL10,CL_0000233,platelet
+CXCL10,CL_0000624,"CD4-positive, alpha-beta T cell"
+TNF,CL_0000557,granulocyte monocyte progenitor cell
+MIF,CL_0000235,macrophage
+IL2,CL_0000115,endothelial cell
+IFNG,CL_0000824,mature natural killer cell
+CXCL8,CL_0000236,B cell
+CSF1,CL_0000057,fibroblast
+IL9,CL_0000771,eosinophil
+IL6,CL_0000145,professional antigen presenting cell
+IL33,CL_0000097,mast cell
+TGFB1,CL_0002231,epithelial cell of prostate
+TGFB,CL_0000911,effector T cell
+TGFB,CL_0002363,keratocyte
+CXCL13,CL_0000819,B-1 B cell
+TGFB,CL_0000233,platelet
+IL6,CL_0000499,stromal cell
+TGFB,CL_0000624,"CD4-positive, alpha-beta T cell"
+THPO,CL_0000034,stem cell
+TNF,CL_0000545,T-helper 1 cell
+IL6,CL_0000584,enterocyte
+IL4,CL_0000893,thymocyte
+CSF2,CL_0000453,Langerhans cell
+CSF2,CL_0000546,T-helper 2 cell
+IL12,CL_0002092,bone marrow cell
+FGF2,CL_0000048,multi fate stem cell
+TGFA,CL_0000312,keratinocyte
+CCL20,CL_0000899,T-helper 17 cell
+IL9,CL_0000097,mast cell
+TGFB1,CL_0000056,myoblast
+PDGF,CL_0000669,pericyte cell
+IL3,CL_0000092,osteoclast
+IL6,CL_0000129,microglial cell
+IL15,CL_0000814,mature NK T cell
+IL1RN,CL_0000084,T cell
+TNF,CL_0000169,type B pancreatic cell
+IFNG,CL_0000037,hematopoietic stem cell
+IL18,CL_0000540,neuron
+TNFSF9,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL1A,CL_0002139,endothelial cell of vascular tree
+IL10,CL_0000066,epithelial cell
+IL13,CL_0002368,respiratory epithelial cell
+IFNG,CL_0000647,multinucleated giant cell
+IL18,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL10,CL_0000786,plasma cell
+EPO,CL_0000115,endothelial cell
+IL3,CL_0000738,leukocyte
+CSF1,CL_0000540,neuron
+CD40LG,CL_0000771,eosinophil
+CCL4,CL_0000084,T cell
+IL6,CL_0000556,megakaryocyte
+IL4,CL_0000647,multinucleated giant cell
+CXCL12,CL_0000066,epithelial cell
+TGFB1,CL_0000646,basal cell
+IFNA,CL_0000738,leukocyte
+IL17,CL_0000092,osteoclast
+IL1B,CL_0000094,granulocyte
+IL17A,CL_0000738,leukocyte
+CCL4,CL_0000037,hematopoietic stem cell
+IL17A,CL_0000545,T-helper 1 cell
+CCL1,CL_0000084,T cell
+TNFSF13B,CL_0000084,T cell
+CSF2,CL_0000767,basophil
+IL6,CL_0000771,eosinophil
+IL7,CL_0000540,neuron
+IL2,CL_0000813,memory T cell
+IL17,CL_0000912,helper T cell
+TGFB,CL_0000902,induced T-regulatory cell
+FGF2,CL_0000499,stromal cell
+IL17,CL_0000625,"CD8-positive, alpha-beta T cell"
+CSF3,CL_0002608,hippocampal neuron
+CXCL12,CL_0000556,megakaryocyte
+IL6,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL15,CL_0000824,mature natural killer cell
+TNF,CL_0000899,T-helper 17 cell
+KITLG,CL_0000312,keratinocyte
+IL32,CL_0000115,endothelial cell
+TGF,CL_0000210,photoreceptor cell
+FGF2,CL_0000625,"CD8-positive, alpha-beta T cell"
+PDGF,CL_0000771,eosinophil
+CXCL8,CL_0000235,macrophage
+TNF,CL_0000911,effector T cell
+IL20,CL_0000092,osteoclast
+IL1,CL_1001607,articular chondrocyte
+IL1B,CL_0000584,enterocyte
+IL25,CL_0000066,epithelial cell
+IL1B,CL_0000546,T-helper 2 cell
+CXCL10,CL_0000814,mature NK T cell
+IFNL3,CL_0000623,natural killer cell
+IL18,CL_0000625,"CD8-positive, alpha-beta T cell"
+IFNG,CL_0002343,decidual natural killer cell
+IL19,CL_0000312,keratinocyte
+IL1B,CL_0000771,eosinophil
+OSM,CL_0002320,connective tissue cell
+CCL5,CL_0000235,macrophage
+RETN,CL_0000232,erythrocyte
+IL6,CL_0000514,smooth muscle myoblast
+IL1B,CL_0000135,fibrocyte
+IL1B,CL_0002608,hippocampal neuron
+CXCL12,CL_0000092,osteoclast
+CCL2,CL_0002368,respiratory epithelial cell
+GDF15,CL_0000129,microglial cell
+IL12B,CL_0000451,dendritic cell
+TNF,CL_0000319,mucus secreting cell
+TNF,CL_0000034,stem cell
+CXCL8,CL_0000136,fat cell
+IL6,CL_0000128,oligodendrocyte
+CCL21,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL5,CL_0000669,pericyte cell
+PDGFA,CL_0000127,astrocyte
+FGF2,CL_0002334,preadipocyte
+IL33,CL_0000912,helper T cell
+TGFB2,CL_0000138,chondrocyte
+IL27,CL_0000746,cardiac muscle cell
+CX3CL1,CL_0000863,inflammatory macrophage
+CCL2,CL_0002322,embryonic stem cell
+IL34,CL_0000763,myeloid cell
+CCL27,CL_0000738,leukocyte
+IL4,CL_0000066,epithelial cell
+LECT2,CL_0000182,hepatocyte
+IL34,CL_0000235,macrophage
+IFNB1,CL_0000057,fibroblast
+IL23,CL_0000546,T-helper 2 cell
+FGF2,CL_0000081,blood cell
+IL12,CL_0000815,regulatory T cell
+IL1B,CL_0000312,keratinocyte
+IL7,CL_0000023,oocyte
+TGFB1,CL_0000169,type B pancreatic cell
+CD40LG,CL_0000235,macrophage
+IL21,CL_0000545,T-helper 1 cell
+TNFSF8,CL_0000775,neutrophil
+IL17,CL_0000492,CD4-positive helper T cell
+TGFA,CL_0000135,fibrocyte
+IL3,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CXCL16,CL_0000738,leukocyte
+KITLG,CL_0000501,granulosa cell
+TGFB2,CL_0002608,hippocampal neuron
+TNF,CL_0000583,alveolar macrophage
+TGF,CL_0000499,stromal cell
+IL2,CL_0002092,bone marrow cell
+IL15,CL_0000182,hepatocyte
+IL1F10,CL_0000235,macrophage
+IL1B,CL_0000062,osteoblast
+CCL5,CL_0000499,stromal cell
+IL1,CL_0000786,plasma cell
+TGFB1,CL_0000037,hematopoietic stem cell
+IL10,CL_0000910,cytotoxic T cell
+FGF2,CL_0000235,macrophage
+CCL6,CL_0000624,"CD4-positive, alpha-beta T cell"
+CD40LG,CL_0000794,"CD8-positive, alpha-beta cytotoxic T cell"
+PDGFB,CL_0000669,pericyte cell
+TNF,CL_0000682,M cell
+CCL22,CL_0000893,thymocyte
+GDF15,CL_0002322,embryonic stem cell
+IL4,CL_0000092,osteoclast
+CXCL6,CL_0000595,enucleate erythrocyte
+MIF,CL_0000129,microglial cell
+RETN,CL_0000182,hepatocyte
+IL7,CL_0000808,DN4 thymocyte
+IL12,CL_0000499,stromal cell
+IL11,CL_0000235,macrophage
+IL20,CL_0000312,keratinocyte
+IL18,CL_0000622,acinar cell
+IL22,CL_0000738,leukocyte
+FGF2,CL_0000060,odontoblast
+TNF,CL_0000934,"CD4-positive, alpha-beta cytotoxic T cell"
+IL1,CL_0000127,astrocyte
+IL27,CL_0000236,B cell
+CCL7,CL_0000771,eosinophil
+CCL26,CL_0000322,pneumocyte
+CCL26,CL_0000545,T-helper 1 cell
+EGF,CL_0000057,fibroblast
+IL1,CL_0000546,T-helper 2 cell
+RETN,CL_0002619,adult endothelial progenitor cell
+CXCL14,CL_0000623,natural killer cell
+IL5,CL_0000611,eosinophil progenitor cell
+THPO,CL_0000540,neuron
+TNF,CL_0000121,Purkinje cell
+FGF1,CL_0000115,endothelial cell
+IL10,CL_0000794,"CD8-positive, alpha-beta cytotoxic T cell"
+TGFB1,CL_0000669,pericyte cell
+IL6,CL_0000650,mesangial cell
+HGF,CL_0000540,neuron
+TGFB1,CL_0002334,preadipocyte
+TDGF1P3,CL_0000746,cardiac muscle cell
+TNF,CL_0000763,myeloid cell
+IL3,CL_0000557,granulocyte monocyte progenitor cell
+IL4,CL_0000160,goblet cell
+IL12B,CL_0000235,macrophage
+CSF1,CL_0000062,osteoblast
+IL17F,CL_0000115,endothelial cell
+IL1B,CL_0000581,peritoneal macrophage
+IFNG,CL_0000038,erythroid progenitor cell
+IL13,CL_0000793,"CD4-positive, alpha-beta intraepithelial T cell"
+HGF,CL_0000738,leukocyte
+IL1B,CL_0000097,mast cell
+PDGFA,CL_0002224,lens epithelial cell
+TNFSF4,CL_0000625,"CD8-positive, alpha-beta T cell"
+CCL7,CL_0000860,classical monocyte
+CXCL12,CL_0000817,precursor B cell
+THPO,CL_0000746,cardiac muscle cell
+CCL3,CL_0000097,mast cell
+TNFSF13,CL_0000084,T cell
+TGFB,CL_0000700,dopaminergic neuron
+IL10,CL_0000091,Kupffer cell
+TGFB,CL_0000160,goblet cell
+IL7,CL_0000815,regulatory T cell
+IL31,CL_0000312,keratinocyte
+CXCL10,CL_0000359,vascular associated smooth muscle cell
+IL17,CL_0000134,mesenchymal cell
+IL4,CL_0000540,neuron
+CXCL1,CL_0000128,oligodendrocyte
+IL1B,CL_0000134,mesenchymal cell
+CXCL8,CL_0000767,basophil
+TGFB,CL_0000849,crypt olfactory receptor neuron
+CCL4,CL_0000122,stellate cell
+IFNG,CL_0000798,gamma-delta T cell
+IFNA1,CL_0000738,leukocyte
+CX3CL1,CL_0000771,eosinophil
+CCL6,CL_0000084,T cell
+SPP1,CL_0000138,chondrocyte
+IL10,CL_0000746,cardiac muscle cell
+PDGFA,CL_0000057,fibroblast
+CSF2,CL_0000214,synovial cell
+TNF,CL_0000094,granulocyte
+XCL1,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL27,CL_0000235,macrophage
+HGF,CL_0000187,muscle cell
+IFNB1,CL_0000623,natural killer cell
+TGFA,CL_0000115,endothelial cell
+IL16,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL4,CL_0000844,germinal center B cell
+IL12,CL_0000788,naive B cell
+TGFB,CL_0000794,"CD8-positive, alpha-beta cytotoxic T cell"
+TNF,CL_0000650,mesangial cell
+CCL26,CL_0000909,"CD8-positive, alpha-beta memory T cell"
+TNF,CL_0000192,smooth muscle cell
+IL10,CL_0000893,thymocyte
+CXCL1,CL_0000127,astrocyte
+CSF2,CL_0000040,monoblast
+IL1B,CL_0000236,B cell
+IL2,CL_0002489,double negative thymocyte
+FGF2,CL_0000218,myelinating Schwann cell
+SPP1,CL_0000624,"CD4-positive, alpha-beta T cell"
+CCL9,CL_0000775,neutrophil
+EPO,CL_0000100,motor neuron
+IFNL3,CL_0000084,T cell
+EPO,CL_0002092,bone marrow cell
+TNF,CL_0000125,glial cell
+CCL19,CL_0000623,natural killer cell
+EBI3,CL_0000625,"CD8-positive, alpha-beta T cell"
+CXCL10,CL_0000115,endothelial cell
+LIF,CL_0000056,myoblast
+TNF,CL_0000374,trichogen cell
+CXCL1,CL_0000576,monocyte
+IL3,CL_0000775,neutrophil
+IFNG,CL_0000192,smooth muscle cell
+FGF2,CL_1001607,articular chondrocyte
+FGF2,CL_0000214,synovial cell
+IL1A,CL_0000233,platelet
+TGFB,CL_0000077,mesothelial cell
+TGFB1,CL_0002621,gingival epithelial cell
+TNFSF13B,CL_0000788,naive B cell
+CCL26,CL_0000236,B cell
+IL27,CL_0000909,"CD8-positive, alpha-beta memory T cell"
+IL18,CL_0000771,eosinophil
+IL3,CL_0000049,common myeloid progenitor
+CXCL12,CL_0000097,mast cell
+HGF,CL_0000514,smooth muscle myoblast
+CSF1,CL_0002397,"CD14-positive, CD16-positive monocyte"
+IL13,CL_0000135,fibrocyte
+IL21,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL2,CL_0000771,eosinophil
+CCL13,CL_0000540,neuron
+IFNG,CL_0000138,chondrocyte
+IL7,CL_0000809,"double-positive, alpha-beta thymocyte"
+TGFB,CL_0000218,myelinating Schwann cell
+TNF,CL_0000091,Kupffer cell
+IL33,CL_0000084,T cell
+PDGFB,CL_1000742,glomerular mesangial cell
+TGFB,CL_0000771,eosinophil
+IL33,CL_0000767,basophil
+PF4,CL_0000037,hematopoietic stem cell
+EBI3,CL_0000235,macrophage
+TNFSF15,CL_0000545,T-helper 1 cell
+FGF2,CL_0000351,trophoblast cell
+TGFB1,CL_0002150,epithelioid macrophage
+CCL21,CL_0000738,leukocyte
+IFN1,CL_0000775,neutrophil
+IL4,CL_0000890,alternatively activated macrophage
+CSF3,CL_0000081,blood cell
+EPO,CL_0000047,neuronal stem cell
+IL1RN,CL_0000899,T-helper 17 cell
+IFN1,CL_0000624,"CD4-positive, alpha-beta T cell"
+XCL1,CL_0000084,T cell
+IFNG,CL_0000556,megakaryocyte
+IL22,CL_0001042,T-helper 22 cell
+FGF1,CL_0000561,amacrine cell
+TNFSF4,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL1B,CL_0000453,Langerhans cell
+IFNG,CL_0002139,endothelial cell of vascular tree
+IL1B,CL_0000556,megakaryocyte
+IFNB1,CL_0000129,microglial cell
+TGFB1,CL_0000359,vascular associated smooth muscle cell
+EGF,CL_0000136,fat cell
+LIF,CL_0000128,oligodendrocyte
+IL1,CL_0000771,eosinophil
+IL1RN,CL_0000682,M cell
+HGF,CL_0000576,monocyte
+IL33,CL_0000092,osteoclast
+IL1,CL_0000557,granulocyte monocyte progenitor cell
+IL10,CL_0000903,natural T-regulatory cell
+IFNB1,CL_0000775,neutrophil
+IL13,CL_0002328,bronchial epithelial cell
+TGFB1,CL_0002148,dental pulp cell
+CXCL12,CL_1000413,endothelial cell of artery
+IL1,CL_0000784,plasmacytoid dendritic cell
+KITLG,CL_0000047,neuronal stem cell
+IFNA1,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL10,CL_0000115,endothelial cell
+CCL2,CL_0002629,mature microglial cell
+CCL2,CL_0000625,"CD8-positive, alpha-beta T cell"
+CCL2,CL_0000145,professional antigen presenting cell
+IL33,CL_0002089,nuocyte
+IL4,CL_0000492,CD4-positive helper T cell
+IL24,CL_0000236,B cell
+IL18,CL_0000138,chondrocyte
+CCL4,CL_0000576,monocyte
+IL1A,CL_0000775,neutrophil
+IL3,CL_0000236,B cell
+CXCL8,CL_0000542,lymphocyte
+CSF2,CL_0000499,stromal cell
+TGFB1,CL_0000613,basophil progenitor cell
+TGFB2,CL_0000540,neuron
+IL12,CL_0000910,cytotoxic T cell
+TGFB,CL_0000128,oligodendrocyte
+FGF2,CL_0002418,hemangioblast
+IL13,CL_0000067,ciliated epithelial cell
+FGF2,CL_0002319,neural cell
+FGF2,CL_0000700,dopaminergic neuron
+TGFB1,CL_0000187,muscle cell
+IL33,CL_0000160,goblet cell
+CXCL10,CL_0000451,dendritic cell
+IL17,CL_0000125,glial cell
+CXCL10,CL_0000236,B cell
+IL15,CL_0000037,hematopoietic stem cell
+IL6,CL_0002563,intestinal epithelial cell
+TGFB,CL_0000060,odontoblast
+TNFSF13B,CL_0000843,follicular B cell
+IL6,CL_0002248,pluripotent stem cell
+CKLF,CL_0000115,endothelial cell
+IFNB1,CL_0000056,myoblast
+IFN1,CL_0000738,leukocyte
+IFN1,CL_0002064,pancreatic acinar cell
+IL17,CL_0000127,astrocyte
+CSF2,CL_0000912,helper T cell
+CD40LG,CL_0000545,T-helper 1 cell
+IL32,CL_0000138,chondrocyte
+IFNG,CL_0000763,myeloid cell
+TNFSF15,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL12,CL_0000129,microglial cell
+IL3,CL_0000451,dendritic cell
+TGFA,CL_0000647,multinucleated giant cell
+TGFB,CL_0000065,ependymal cell
+TNF,CL_0000128,oligodendrocyte
+IL16,CL_0000738,leukocyte
+IFN1,CL_0000540,neuron
+TNFSF9,CL_0000763,myeloid cell
+IL22,CL_0002322,embryonic stem cell
+IL4,CL_0000557,granulocyte monocyte progenitor cell
+MIF,CL_0002319,neural cell
+TGFB1,CL_0000129,microglial cell
+CXCL12,CL_0000138,chondrocyte
+IL1A,CL_0000700,dopaminergic neuron
+IL33,CL_0000625,"CD8-positive, alpha-beta T cell"
+IL25,CL_0000899,T-helper 17 cell
+TNF,CL_0000113,mononuclear phagocyte
+TNF,CL_0002629,mature microglial cell
+IL18,CL_0000125,glial cell
+IL27,CL_0000898,naive T cell
+CCL2,CL_0000359,vascular associated smooth muscle cell
+IL1A,CL_0000576,monocyte
+EGF,CL_0000476,thyrotroph
+IL7,CL_0002364,cortical thymic epithelial cell
+IL17F,CL_0000145,professional antigen presenting cell
+IL27,CL_0000901,Tr1 cell
+IL7,CL_0000793,"CD4-positive, alpha-beta intraepithelial T cell"
+TGF,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CSF3,CL_0000771,eosinophil
+IL12B,CL_0000813,memory T cell
+CXCL10,CL_0000545,T-helper 1 cell
+TNF,CL_0000082,epithelial cell of lung
+IL22,CL_0000775,neutrophil
+CSF3,CL_0000584,enterocyte
+IL1RN,CL_0000182,hepatocyte
+IL4,CL_0000451,dendritic cell
+GDF15,CL_0000187,muscle cell
+IFNG,CL_0000362,epidermal cell
+CCL6,CL_0000023,oocyte
+TNF,CL_0002372,myotube
+CCL2,CL_0000581,peritoneal macrophage
+CXCL14,CL_0000084,T cell
+IL13,CL_0000232,erythrocyte
+CCL6,CL_0000097,mast cell
+KITLG,CL_0002322,embryonic stem cell
+IL1B,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+CCL13,CL_0000771,eosinophil
+TNFSF14,CL_0000084,T cell
+TNF,CL_0000449,brown fat cell
+IL12B,CL_0000775,neutrophil
+TNF,CL_0000700,dopaminergic neuron
+CXCL14,CL_0000218,myelinating Schwann cell
+IL18,CL_0000091,Kupffer cell
+IL9,CL_0000624,"CD4-positive, alpha-beta T cell"
+TNF,CL_0000160,goblet cell
+CCL4,CL_0000057,fibroblast
+CSF3,CL_0000100,motor neuron
+TGFB,CL_0000125,glial cell
+CXCL13,CL_0000235,macrophage
+TGFB,CL_0000545,T-helper 1 cell
+GDF15,CL_0000374,trichogen cell
+TGFB1,CL_0000322,pneumocyte
+CX3CL1,CL_0000576,monocyte
+TNFSF9,CL_0000235,macrophage
+CCL18,CL_0000738,leukocyte
+EPO,CL_0000775,neutrophil
+IL3,CL_0000235,macrophage
+IL6,CL_0002363,keratocyte
+IL12,CL_0000023,oocyte
+CCL2,CL_0000134,mesenchymal cell
+CCL20,CL_0000236,B cell
+IL17A,CL_0000771,eosinophil
+IL32,CL_0000232,erythrocyte
+FGF2,CL_0000514,smooth muscle myoblast
+TNF,CL_0000782,myeloid dendritic cell
+CCL19,CL_0000771,eosinophil
+IL6,CL_0000148,melanocyte
+SPP1,CL_0000233,platelet
+IL6,CL_0000091,Kupffer cell
+TNF,CL_0000815,regulatory T cell
+IL1B,CL_0000100,motor neuron
+TNFSF13B,CL_0000899,T-helper 17 cell
+IL19,CL_0000235,macrophage
+CSF2,CL_0000057,fibroblast
+IL33,CL_0000115,endothelial cell
+PDGF,CL_0000359,vascular associated smooth muscle cell
+PPBP,CL_0000738,leukocyte
+PDGF,CL_0000134,mesenchymal cell
+CXCL10,CL_0000910,cytotoxic T cell
+IL11,CL_0000128,oligodendrocyte
+TGFB1,CL_0000122,stellate cell
+RETN,CL_0000056,myoblast
+EGF,CL_0000540,neuron
+IL1B,CL_0000746,cardiac muscle cell
+CCL2,CL_0000863,inflammatory macrophage
+EGF,CL_0002327,mammary epithelial cell
+IL24,CL_0000763,myeloid cell
+IL17,CL_0002128,Tc17 cell
+IL22,CL_0000092,osteoclast
+IL1B,CL_0000233,platelet
+HGF,CL_0000775,neutrophil
+IL6,CL_0009004,retinal cell
+IFNG,CL_0000499,stromal cell
+CSF1,CL_0000384,ligament cell
+TGFB,CL_0000362,epidermal cell
+GDF15,CL_0000353,blastoderm cell
+TGF,CL_0000136,fat cell
+IL10,CL_0000785,mature B cell
+CCL26,CL_0000898,naive T cell
+FGF1,CL_0000037,hematopoietic stem cell
+TNF,CL_0002399,CD1c-positive myeloid dendritic cell
+IL33,CL_0000135,fibrocyte
+CCL23,CL_0000771,eosinophil
+FGF2,CL_0000501,granulosa cell
+CCL20,CL_0000540,neuron
+CCL23,CL_0000576,monocyte
+TNF,CL_0000218,myelinating Schwann cell
+TGFB,CL_0000546,T-helper 2 cell
+CSF1,CL_0002139,endothelial cell of vascular tree
+IL27,CL_0000623,natural killer cell
+HGF,CL_0002139,endothelial cell of vascular tree
+IL33,CL_0000623,natural killer cell
+IL35,CL_0000084,T cell
+IL10,CL_0000182,hepatocyte
+CCL22,CL_0000546,T-helper 2 cell
+IL11,CL_0002092,bone marrow cell
+CXCL12,CL_0000057,fibroblast
+IL4,CL_0000115,endothelial cell
+CCL27,CL_0000624,"CD4-positive, alpha-beta T cell"
+FGF2,CL_0000312,keratinocyte
+CXCL10,CL_0000650,mesangial cell
+IL4,CL_0000912,helper T cell
+TNFSF9,CL_0000542,lymphocyte
+CXCL16,CL_0000863,inflammatory macrophage
+IL4,CL_0000192,smooth muscle cell
+IFNB1,CL_0000903,natural T-regulatory cell
+IL24,CL_0000546,T-helper 2 cell
+IL18,CL_0000236,B cell
+TNFSF15,CL_0000115,endothelial cell
+IL13,CL_0000160,goblet cell
+IL2,CL_0000899,T-helper 17 cell
+TGFB1,CL_0000136,fat cell
+IL5,CL_0000041,mature eosinophil
+IL12,CL_0000034,stem cell
+IL22,CL_0000771,eosinophil
+IL9,CL_0000819,B-1 B cell
+CXCL16,CL_0000019,sperm
+CSF1,CL_0000056,myoblast
+FGF2,CL_0000137,osteocyte
+CCL3,CL_0000540,neuron
+IL21,CL_0002038,T follicular helper cell
+IL22,CL_0000236,B cell
+IL11,CL_0000138,chondrocyte
+TGFB1,CL_0002548,cardiac fibroblast
+TNF,CL_0002608,hippocampal neuron
+IL21,CL_0000057,fibroblast
+IL1A,CL_0000138,chondrocyte
+CXCL8,CL_0000057,fibroblast
+CCL26,CL_0000647,multinucleated giant cell
+CXCL2,CL_0000096,mature neutrophil
+TGFB1,CL_0000767,basophil
+PDGFA,CL_0000128,oligodendrocyte
+IFNG,CL_0000136,fat cell
+IL12,CL_0000738,leukocyte
+CX3CL1,CL_0000084,T cell
+IL6,CL_0000912,helper T cell
+PDGF,CL_0002334,preadipocyte
+CCL25,CL_0000893,thymocyte
+TNF,CL_1001607,articular chondrocyte
+CCL5,CL_0000738,leukocyte
+EPO,CL_0000148,melanocyte
+PF4,CL_0000129,microglial cell
+IL17,CL_0002328,bronchial epithelial cell
+FGF2,CL_0000855,sensory hair cell
+IL15,CL_0000499,stromal cell
+CCL22,CL_0000583,alveolar macrophage
+IL22,CL_0000160,goblet cell
+CCL18,CL_0000542,lymphocyte
+TGFB,CL_1000491,mesothelial cell of pleura
+TGFB1,CL_0000023,oocyte
+IL15,CL_0000115,endothelial cell
+IL10,CL_0000125,glial cell
+IL27,CL_0000771,eosinophil
+CXCL8,CL_0000056,myoblast
+IL6,CL_0000137,osteocyte
+FGF2,CL_0002248,pluripotent stem cell
+IL16,CL_0000127,astrocyte
+IL1A,CL_0002483,hair follicle melanocyte
+CCL4,CL_0000545,T-helper 1 cell
+IFNG,CL_0000094,granulocyte
+IL27,CL_0000451,dendritic cell
+IL1B,CL_0000624,"CD4-positive, alpha-beta T cell"
+OSM,CL_0000115,endothelial cell
+CXCL12,CL_0000499,stromal cell
+IL1B,CL_0000653,glomerular visceral epithelial cell
+TGFB3,CL_0000134,mesenchymal cell
+CCL2,CL_1001319,bladder cell
+IL17A,CL_0000136,fat cell
+IL15,CL_0002372,myotube
+IL15,CL_0000738,leukocyte
+IL16,CL_0000545,T-helper 1 cell
+TGFB,CL_0000746,cardiac muscle cell
+SPP1,CL_0000192,smooth muscle cell
+CCL7,CL_0000738,leukocyte
+IL1B,CL_0002319,neural cell
+IFNG,CL_0000700,dopaminergic neuron
+IL10,CL_0000057,fibroblast
+TNF,CL_0000187,muscle cell
+IL7,CL_0000814,mature NK T cell
+CXCL2,CL_0000182,hepatocyte
+IL7,CL_0002404,fetal thymocyte
+IL22,CL_0000113,mononuclear phagocyte
+IL17A,CL_0000125,glial cell
+IL33,CL_0000738,leukocyte
+CSF3,CL_0000235,macrophage
+CXCL12,CL_0000128,oligodendrocyte
+CSF2,CL_0000115,endothelial cell
+CXCL13,CL_0000912,helper T cell
+IL21,CL_0000775,neutrophil
+IL1B,CL_0000911,effector T cell
+IL1,CL_0000763,myeloid cell
+PF4,CL_0000556,megakaryocyte
+TGFA,CL_0000623,natural killer cell
+IFNG,CL_0000233,platelet
+TGFB1,CL_0002368,respiratory epithelial cell
+CXCL8,CL_0000499,stromal cell
+LTA,CL_0000786,plasma cell
+IL1B,CL_0000910,cytotoxic T cell
+IL10,CL_0000899,T-helper 17 cell
+FGF2,CL_0002453,oligodendrocyte precursor cell
+CSF3,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL16,CL_0000771,eosinophil
+TNF,CL_0002319,neural cell
+IL15,CL_0000057,fibroblast
+CCL3,CL_0000218,myelinating Schwann cell
+CCL4,CL_0000542,lymphocyte
+CCL2,CL_0000100,motor neuron
+CXCL16,CL_0000236,B cell
+IL27,CL_0000037,hematopoietic stem cell
+CXCL12,CL_0000235,macrophage
+IL21,CL_0000145,professional antigen presenting cell
+IL1RN,CL_0000576,monocyte
+IL2,CL_0000897,"CD4-positive, alpha-beta memory T cell"
+CSF2,CL_0000312,keratinocyte
+IL22,CL_0000307,tracheal epithelial cell
+CXCL10,CL_0000540,neuron
+IL6,CL_0000902,induced T-regulatory cell
+IL23,CL_0000775,neutrophil
+TGFB,CL_0002539,aortic smooth muscle cell
+PDGFB,CL_0000057,fibroblast
+IL1B,CL_0000066,epithelial cell
+GDF15,CL_0000558,reticulocyte
+IL1,CL_1001319,bladder cell
+TGFB,CL_0000910,cytotoxic T cell
+IL17F,CL_0000312,keratinocyte
+IFNA,CL_0000115,endothelial cell
+CCL2,CL_0000831,mast cell progenitor
+CCL2,CL_0000236,B cell
+CCL3,CL_0000049,common myeloid progenitor
+CCL20,CL_0002563,intestinal epithelial cell
+IL12,CL_0000893,thymocyte
+CCL4,CL_0000135,fibrocyte
+CSF1,CL_0000501,granulosa cell
+FGF2,CL_0000338,neuroblast (sensu Nematoda and Protostomia)
+CCL15,CL_0000576,monocyte
+EGF,CL_0000066,epithelial cell
+CSF2,CL_0000129,microglial cell
+TNF,CL_0000898,naive T cell
+LIF,CL_0000100,motor neuron
+CXCL10,CL_0002619,adult endothelial progenitor cell
+PF4,CL_0000738,leukocyte
+TGFB1,CL_0000545,T-helper 1 cell
+IL2,CL_0000798,gamma-delta T cell
+IL1B,CL_0000162,parietal cell
+IL6,CL_0000127,astrocyte
+IL12,CL_0002128,Tc17 cell
+SPP1,CL_0000057,fibroblast
+IL4,CL_0000182,hepatocyte
+IL32,CL_0000235,macrophage
+CXCL12,CL_0000784,plasmacytoid dendritic cell
+IL31,CL_0000362,epidermal cell
+CSF3,CL_0002195,hepatic stem cell
+IL17C,CL_0000899,T-helper 17 cell
+CCL21,CL_0000898,naive T cell
+CSF3,CL_0000581,peritoneal macrophage
+IFN1,CL_0000530,primary neuron
+PF4,CL_0000232,erythrocyte
+IL1RN,CL_0000545,T-helper 1 cell
+TGFB2,CL_0000066,epithelial cell
+CSF3,CL_0000233,platelet
+CCL2,CL_0000546,T-helper 2 cell
+TGFB,CL_0000824,mature natural killer cell
+CXCL8,CL_0002619,adult endothelial progenitor cell
+CD40LG,CL_0000623,natural killer cell
+CXCL14,CL_0000136,fat cell
+CCL26,CL_0000034,stem cell
+TNFSF4,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL27,CL_0000912,helper T cell
+CSF2,CL_0000863,inflammatory macrophage
+IL27,CL_0000092,osteoclast
+THPO,CL_0000050,megakaryocyte-erythroid progenitor cell
+IL17,CL_0000214,synovial cell
+SPP1,CL_0000061,cementoblast
+PDGF,CL_0000740,retinal ganglion cell
+IL6,CL_0000187,muscle cell
+IL20,CL_0000546,T-helper 2 cell
+IL3,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL12,CL_0000814,mature NK T cell
+CCL20,CL_0000451,dendritic cell
+IL1,CL_0000115,endothelial cell
+IL6,CL_0000819,B-1 B cell
+IFNA,CL_0000037,hematopoietic stem cell
+IL16,CL_0000540,neuron
+IFN1,CL_0000990,conventional dendritic cell
+TGFB,CL_0000163,endocrine cell
+TNFSF9,CL_0000092,osteoclast
+TGFB1,CL_0000148,melanocyte
+IL33,CL_0000542,lymphocyte
+IL10,CL_0000138,chondrocyte
+CCL21,CL_0000911,effector T cell
+CD40LG,CL_0000835,myeloblast
+TNF,CL_0000546,T-helper 2 cell
+IFNG,CL_0000453,Langerhans cell
+TGFA,CL_0000235,macrophage
+IL7,CL_0000059,ameloblast
+IL1,CL_0000066,epithelial cell
+IL13,CL_0000182,hepatocyte
+CXCL5,CL_0000057,fibroblast
+CCL26,CL_0000653,glomerular visceral epithelial cell
+CXCL12,CL_0000653,glomerular visceral epithelial cell
+CSF2,CL_0000034,stem cell
+FGF2,CL_0000586,germ cell
+IL1,CL_0000650,mesangial cell
+CSF1,CL_0000232,erythrocyte
+IL12,CL_0000863,inflammatory macrophage
+IL5,CL_0000775,neutrophil
+IL6,CL_0000192,smooth muscle cell
+HGF,CL_1001611,cerebellar neuron
+IL22,CL_0002586,retinal pigment epithelial cell
+TNF,CL_1000497,kidney cell
+CCL26,CL_0000066,epithelial cell
+IL3,CL_0000081,blood cell
+THPO,CL_0000081,blood cell
+IFNB1,CL_0002629,mature microglial cell
+IL10,CL_0000898,naive T cell
+IL1,CL_0000037,hematopoietic stem cell
+CXCL12,CL_0000056,myoblast
+IL35,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL1B,CL_0000137,osteocyte
+TGFB,CL_0000501,granulosa cell
+IL1B,CL_0000082,epithelial cell of lung
+FGF2,CL_0002620,skin fibroblast
+IL4,CL_0000556,megakaryocyte
+EPO,CL_0000094,granulocyte
+IL23,CL_0000451,dendritic cell
+LIF,CL_0000121,Purkinje cell
+IFNK,CL_0000312,keratinocyte
+TGFB1,CL_0000236,B cell
+CCL18,CL_0000235,macrophage
+TGFB,CL_0002334,preadipocyte
+FGF2,CL_0002311,mammotroph
+IL10,CL_0002322,embryonic stem cell
+CCL6,CL_0000738,leukocyte
+SPP1,CL_0000066,epithelial cell
+CCL23,CL_0000092,osteoclast
+IL27,CL_0000625,"CD8-positive, alpha-beta T cell"
+CCL23,CL_0000062,osteoblast
+TGFB1,CL_0002063,type II pneumocyte
+IL32,CL_0000738,leukocyte
+HGF,CL_0000134,mesenchymal cell
+IL4,CL_0000646,basal cell
+IL7,CL_0002563,intestinal epithelial cell
+CCL6,CL_0000115,endothelial cell
+IL12,CL_0000097,mast cell
+TNFSF11,CL_0000137,osteocyte
+IL10,CL_0000127,astrocyte
+IL18,CL_0000793,"CD4-positive, alpha-beta intraepithelial T cell"
+TGFB,CL_0002064,pancreatic acinar cell
+FGF2,CL_0000746,cardiac muscle cell
+TGFB2,CL_0000235,macrophage
+MIF,CL_0000623,natural killer cell
+TNF,CL_0002619,adult endothelial progenitor cell
+IL13,CL_0000625,"CD8-positive, alpha-beta T cell"
+CCL4,CL_0000632,hepatic stellate cell
+SPP1,CL_0000576,monocyte
+CXCL8,CL_0000034,stem cell
+CD40LG,CL_0000127,astrocyte
+CD40LG,CL_0000738,leukocyte
+TGFB,CL_0002319,neural cell
+TGFA,CL_0000066,epithelial cell
+FGF2,CL_0000216,Sertoli cell
+CCL9,CL_0000092,osteoclast
+IL1B,CL_0000623,natural killer cell
+CCL5,CL_0000233,platelet
+EGF,CL_0000182,hepatocyte
+TGFB,CL_0002140,acinar cell of sebaceous gland
+IL4,CL_0000738,leukocyte
+IL22,CL_0000037,hematopoietic stem cell
+IL12,CL_0000145,professional antigen presenting cell
+IL17,CL_0000871,splenic macrophage
+FGF2,CL_0000128,oligodendrocyte
+TGFB,CL_0000793,"CD4-positive, alpha-beta intraepithelial T cell"
+TGF,CL_0000542,lymphocyte
+IL4,CL_0000902,induced T-regulatory cell
+TNF,CL_0002521,subcutaneous fat cell
+CCL5,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL12,CL_0000862,suppressor macrophage
+RETN,CL_0000115,endothelial cell
+IL1RN,CL_0000096,mature neutrophil
+TGFB,CL_0000653,glomerular visceral epithelial cell
+IFNG,CL_1001319,bladder cell
+TNFSF15,CL_0000236,B cell
+IL18,CL_0000232,erythrocyte
+CCL2,CL_0000135,fibrocyte
+IL12,CL_0000782,myeloid dendritic cell
+TGFB1,CL_0000092,osteoclast
+CCL14,CL_0000771,eosinophil
+CCL18,CL_0000084,T cell
+CXCL12,CL_0000338,neuroblast (sensu Nematoda and Protostomia)
+CCL11,CL_0000576,monocyte
+IL6,CL_0000546,T-helper 2 cell
+IL4,CL_0000499,stromal cell
+CD40LG,CL_0002619,adult endothelial progenitor cell
+LECT2,CL_0000540,neuron
+TNF,CL_0000510,paneth cell
+IL23,CL_0000813,memory T cell
+IL9,CL_0000917,Tc1 cell
+HGF,CL_0000057,fibroblast
+TNF,CL_0000096,mature neutrophil
+TGFB1,CL_0000178,Leydig cell
+IL18,CL_0000312,keratinocyte
+IL18,CL_0000023,oocyte
+IFNB1,CL_0000115,endothelial cell
+IL1A,CL_0000738,leukocyte
+CCL25,CL_0000134,mesenchymal cell
+IL1B,CL_0000545,T-helper 1 cell
+FGF1,CL_0000127,astrocyte
+TGFB,CL_0002259,neuroepithelial stem cell
+PF4,CL_0000235,macrophage
+CSF1,CL_0000094,granulocyte
+CSF1,CL_0000775,neutrophil
+IL21,CL_0000824,mature natural killer cell
+CCL3,CL_0000623,natural killer cell
+PDGFB,CL_0000540,neuron
+TGFB2,CL_0000145,professional antigen presenting cell
+TGFB,CL_0000162,parietal cell
+IFNA,CL_0000771,eosinophil
+TNFSF9,CL_0000813,memory T cell
+LIF,CL_0000127,astrocyte
+TNFSF15,CL_0000911,effector T cell
+IL34,CL_0000129,microglial cell
+IL27,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL10,CL_0000814,mature NK T cell
+IL17,CL_0000236,B cell
+TNF,CL_0000362,epidermal cell
+EBI3,CL_0000624,"CD4-positive, alpha-beta T cell"
+IL27,CL_0000785,mature B cell
+CD40LG,CL_0000898,naive T cell
+EGF,CL_0000084,T cell
+TGFB,CL_0002320,connective tissue cell
+CCL6,CL_0000235,macrophage
+TNFSF13B,CL_0000775,neutrophil
+IL7,CL_0002053,"CD22-positive, CD38-low small pre-B cell"
+TGFB,CL_0002350,endocardial cell
+IFNA,CL_0000127,astrocyte
+IL17F,CL_0000775,neutrophil
+RETN,CL_0000235,macrophage
+TNF,CL_0000216,Sertoli cell
+IL4,CL_0000583,alveolar macrophage
+CX3CL1,CL_0002139,endothelial cell of vascular tree
+CX3CL1,CL_0000542,lymphocyte
+PDGFB,CL_0000499,stromal cell
+IFN1,CL_0002368,respiratory epithelial cell
+IL12A,CL_0000084,T cell
+SPP1,CL_0000738,leukocyte
+HGF,CL_0000650,mesangial cell
+IL1A,CL_0002334,preadipocyte
+KITLG,CL_0000541,melanoblast
+IL1B,CL_0000214,synovial cell
+IL27,CL_0000233,platelet
+TGFB,CL_0002148,dental pulp cell
+TGFB1,CL_1000497,kidney cell
+IL11,CL_0000499,stromal cell
+IFNG,CL_1001567,lung endothelial cell
+TGFB1,CL_1000490,mesothelial cell of peritoneum
+CD40LG,CL_0000451,dendritic cell
+TGFA,CL_0000023,oocyte
+IFNB1,CL_0000125,glial cell
+CSF1,CL_0000038,erythroid progenitor cell
+IL16,CL_0000576,monocyte
+IL15,CL_0002563,intestinal epithelial cell
+TNFSF9,CL_0000775,neutrophil
+IFNL1,CL_0000097,mast cell
+TGFB,CL_0000135,fibrocyte
+GDF15,CL_0000137,osteocyte
+TGFA,CL_0000501,granulosa cell
+IL17,CL_0000138,chondrocyte
+CCL5,CL_0000911,effector T cell
+HGF,CL_0000092,osteoclast
+IL17A,CL_0000082,epithelial cell of lung
+IL6,CL_0001042,T-helper 22 cell
+FGF2,CL_0000261,anterior cell
+IL27,CL_0000062,osteoblast
+IL6,CL_0002619,adult endothelial progenitor cell
+TNFSF4,CL_0000771,eosinophil
+IL2,CL_0000613,basophil progenitor cell
+THPO,CL_0000037,hematopoietic stem cell
+GDF15,CL_0000235,macrophage
+IFNG,CL_0000586,germ cell
+CCL1,CL_0000235,macrophage
+IL12B,CL_0000545,T-helper 1 cell
+PPBP,CL_0000763,myeloid cell
+IFNG,CL_0002322,embryonic stem cell
+PPBP,CL_0000129,microglial cell
+GDF15,CL_0000101,sensory neuron
+IL17,CL_0000499,stromal cell
+CXCL8,CL_0002138,endothelial cell of lymphatic vessel
+CXCL10,CL_0000182,hepatocyte
+IL1RN,CL_0000540,neuron
+IL25,CL_0000545,T-helper 1 cell
+RETN,CL_0000019,sperm
+CXCL8,CL_0000793,"CD4-positive, alpha-beta intraepithelial T cell"
+IL11,CL_0000097,mast cell
+EPO,CL_0000056,myoblast
+FGF1,CL_0000746,cardiac muscle cell
+IFN1,CL_0000763,myeloid cell
+IL17,CL_0002061,T-helper 9 cell
+IL10,CL_0000092,osteoclast
+LTA,CL_0000623,natural killer cell
+EPO,CL_0000542,lymphocyte
+IL6,CL_0002092,bone marrow cell
+IL18,CL_0000182,hepatocyte
+EPO,CL_0000057,fibroblast
+TGFB,CL_0002619,adult endothelial progenitor cell
+IL11,CL_0000236,B cell
+IL2,CL_0000598,pyramidal cell
+RETN,CL_0000576,monocyte
+TGFB2,CL_0000586,germ cell
+CCL6,CL_0000169,type B pancreatic cell
+CXCL11,CL_0000084,T cell
+TGFB2,CL_0000127,astrocyte
+THPO,CL_0000837,hematopoietic multipotent progenitor cell
+TNF,CL_0002334,preadipocyte
+IFN1,CL_0000232,erythrocyte
+CCL1,CL_0000097,mast cell
+CCL5,CL_0000127,astrocyte
+TGFB3,CL_0000057,fibroblast
+TNF,CL_0000595,enucleate erythrocyte
+IL6,CL_0002319,neural cell
+TGF,CL_0000066,epithelial cell
+TGFB,CL_0002328,bronchial epithelial cell
+CCL5,CL_0000092,osteoclast
+IL9,CL_0000160,goblet cell
+CCL3,CL_0000129,microglial cell
+CCL20,CL_0000775,neutrophil
+TGFB1,CL_0002629,mature microglial cell
+TGFB1,CL_0000622,acinar cell
+TGFB2,CL_0000575,corneal epithelial cell
+IL17,CL_0000038,erythroid progenitor cell
+TGFB,CL_0002563,intestinal epithelial cell
+IL15,CL_0000793,"CD4-positive, alpha-beta intraepithelial T cell"
+EPO,CL_0000128,oligodendrocyte
+TNF,CL_0000871,splenic macrophage
+IL1A,CL_0000127,astrocyte
+TNF,CL_0002544,aortic endothelial cell
+CCL25,CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+IL15,CL_0000129,microglial cell
+TGFB,CL_0002092,bone marrow cell
+PDGF,CL_0000062,osteoblast
+PF4V1,CL_0000115,endothelial cell
+IFNG,CL_0000890,alternatively activated macrophage
+THPO,CL_0000786,plasma cell
+TNFSF9,CL_0000738,leukocyte
+IFNG,CL_0002198,oncocyte
+EPO,CL_0000034,stem cell
+CCL22,CL_0000235,macrophage
+CX3CL1,CL_0000127,astrocyte
+FGF1,CL_1000300,fibroblast of outer membrane of prostatic capsule
+IL10,CL_0000148,melanocyte
+IL17,CL_0000057,fibroblast
+LTA,CL_0002365,medullary thymic epithelial cell
+IL1B,CL_0000115,endothelial cell
+CSF2,CL_0002477,adipose macrophage
+EPO,CL_0000236,B cell
+IL3,CL_0000134,mesenchymal cell
+IL12,CL_0000767,basophil
+FGF2,CL_0000306,crystallin accumulating cell
+CXCL1,CL_0000115,endothelial cell
+IL6,CL_0000056,myoblast
+IFN1,CL_0000510,paneth cell
+CXCL10,CL_0000771,eosinophil
+TGFA,CL_0000138,chondrocyte
+IFNA,CL_0000545,T-helper 1 cell
+IL6,CL_0000911,effector T cell
+IFNG,CL_0000811,"CD8-positive, alpha-beta thymocyte"
+IFNB1,CL_0000542,lymphocyte
+IL6,CL_0000096,mature neutrophil
+IL13,CL_0000890,alternatively activated macrophage
+IL6,CL_1001319,bladder cell
+CSF1,CL_0000581,peritoneal macrophage
+CSF3,CL_0000514,smooth muscle myoblast
+TGFB2,CL_0000092,osteoclast
+CCL18,CL_0000771,eosinophil
+IL33,CL_0000148,melanocyte
+IL18,CL_0000057,fibroblast
+IFNA,CL_0000182,hepatocyte
+CD40LG,CL_0000775,neutrophil
+CD70,CL_0000057,fibroblast
