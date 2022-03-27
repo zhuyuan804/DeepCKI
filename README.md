@@ -23,6 +23,5 @@ You can download the data from here <a href="http://www.immunexpresso.org" targe
 ### Steps
 
 #### Step2: run the model
-> cd src/Graph2GO     
 > python main.py    
 > **Note there are several parameters can be tuned: --dataset_type, use different cell-cytokine dataset . --model,VGAE or VAE
